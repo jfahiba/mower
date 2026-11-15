@@ -17,3 +17,4 @@ deliverables/*.mp4
 deliverables/*.jpg
 transcribe2.py
 __pycache__/
+deliverables/*.zip
