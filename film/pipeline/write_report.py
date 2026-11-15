@@ -161,6 +161,11 @@ def main():
     # 5. Typo --------------------------------------------------------------
     w("## 5. Typographie et sous-titres\n")
     w("- Polices : **Instrument Serif** (titres, mots-clés en italique) et **Inter** (sous-titres, surtitres), toutes deux sous licence SIL OFL, chargées localement.")
+    w("- Logo « Femmes de foi en affaires » : l'emblème doré a été extrait du visuel fourni puis vectorisé (potrace, dégradé or), ce qui le garde net en 4K. "
+      "Le nom a été recomposé en Inter espacé, car il était rogné par le cercle dans le visuel d'origine. Le logo apparaît au moment où « Le souper de Noël » se dévoile, "
+      "sur un médaillon bordeaux pour le détacher du foulard doré, puis sur le carton final. "
+      "Seules les plages 915–1040 et 1760–1877 ont été re-rendues et insérées dans le rendu existant (`pipeline/splice_encode.sh`). "
+      "Aux raccords, l'écart avec le rendu d'origine est de 0,2/255, soit du bruit de compression.")
     w("- Palette : blanc, or champagne `#EBC98F` (contraste ≥ 7:1 sur le bordeaux de la robe), voile bordeaux pour le carton.")
     w("- Moments typographiques : étiquettes « Tu as porté / ta famille », « … / ton entreprise » (reprises des mots du message) ; "
       "triptyque « Femme entrepreneur, Femme battante, Femme de foi. » ; révélation « Souper annuel · 2026 / Le souper de Noël » avec particules dorées ; "

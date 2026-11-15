@@ -3,6 +3,7 @@ import { AbsoluteFill, useCurrentFrame } from "remotion";
 import { easeIn, easeOut, inOut, mix, prog, rand } from "../lib/anim";
 import { COLORS, FONTS, TEXT_SHADOW, W } from "../lib/theme";
 import { TL } from "../lib/timeline";
+import { Logo } from "./Logo";
 
 // ---------------------------------------------------------------------------
 // Petits éléments partagés
@@ -240,8 +241,15 @@ export const EventTitle: React.FC = () => {
   const out = prog(f, end - 8, 14, easeIn);
   return (
     <AbsoluteFill>
+      {/* voile sombre doux derrière le logo et le titre (lisibilité sur le foulard doré) */}
+      <AbsoluteFill
+        style={{
+          opacity: prog(f, m.tlFrom - 4, 14) * (1 - out) * 0.9,
+          background: "radial-gradient(ellipse 62% 15% at 50% 62%, rgba(26,7,12,0.78) 0%, rgba(26,7,12,0.5) 50%, rgba(26,7,12,0) 100%)",
+        }}
+      />
       <Sparkles frame={f} from={m.tlFrom} to={end} count={46} area={{ x: 200, y: 2120, w: W - 400, h: 900 }} seed={7} />
-      <AbsoluteFill style={{ alignItems: "center", top: 2330 }}>
+      <AbsoluteFill style={{ alignItems: "center", top: 1960 }}>
         <div
           style={{
             display: "flex",
@@ -252,6 +260,8 @@ export const EventTitle: React.FC = () => {
             transform: `translateY(${-out * 30}px)`,
           }}
         >
+          <Logo frame={f} start={m.tlFrom - 2} size={230} medallion />
+          <div style={{ height: 46 }} />
           <Kicker
             text={m.kicker ?? ""}
             size={66}

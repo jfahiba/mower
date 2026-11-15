@@ -22,3 +22,5 @@ analysis/transcripts/*
 !analysis/transcripts/WA0048_16k.json
 analysis/*.log
 deliverables/*.jpg
+brand/*.pbm
+brand/*_preview.png

@@ -6,7 +6,7 @@
 
 | Livrable | Format | Taille | Débit |
 |---|---|---|---|
-| `FINAL_MASTER_4K.mp4` | HEVC Main 10 2160×3840 yuv420p10le, AAC 311 kb/s 48 kHz | 409.0 Mo | 52.27 Mb/s |
+| `FINAL_MASTER_4K.mp4` | HEVC Main 10 2160×3840 yuv420p10le, AAC 311 kb/s 48 kHz | 407.3 Mo | 52.06 Mb/s |
 | `FINAL_WEB.mp4` | H264 High 1080×1920, AAC 197 kb/s 48 kHz | 77.6 Mo | 9.92 Mb/s |
 | `FINAL_SUBTITLES.srt` | SRT UTF-8, 23 sous-titres | | |
 | `PLANCHE_CONTACT.jpg` | planche des séquences retenues | | |
@@ -117,6 +117,7 @@ Le LUT 3D `grade/film_look.cube` (33³, calculé en Oklab) applique une courbe f
 ## 5. Typographie et sous-titres
 
 - Polices : **Instrument Serif** (titres, mots-clés en italique) et **Inter** (sous-titres, surtitres), toutes deux sous licence SIL OFL, chargées localement.
+- Logo « Femmes de foi en affaires » : l'emblème doré a été extrait du visuel fourni puis vectorisé (potrace, dégradé or), ce qui le garde net en 4K. Le nom a été recomposé en Inter espacé, car il était rogné par le cercle dans le visuel d'origine. Le logo apparaît au moment où « Le souper de Noël » se dévoile, sur un médaillon bordeaux pour le détacher du foulard doré, puis sur le carton final. Seules les plages 915–1040 et 1760–1877 ont été re-rendues et insérées dans le rendu existant (`pipeline/splice_encode.sh`). Aux raccords, l'écart avec le rendu d'origine est de 0,2/255, soit du bruit de compression.
 - Palette : blanc, or champagne `#EBC98F` (contraste ≥ 7:1 sur le bordeaux de la robe), voile bordeaux pour le carton.
 - Moments typographiques : étiquettes « Tu as porté / ta famille », « … / ton entreprise » (reprises des mots du message) ; triptyque « Femme entrepreneur, Femme battante, Femme de foi. » ; révélation « Souper annuel · 2026 / Le souper de Noël » avec particules dorées ; signature « À très vite ! » ; carton final.
 - Sous-titres incrustés : 120 px (environ 5,6 % de la largeur), placés à 70–77 % de la hauteur, sous le visage et au-dessus des interfaces sociales. Lecture progressive (mot prononcé à 100 %, mots suivants à 55 %), mots importants en serif italique doré avec une légère impulsion. Les coupures de ligne sont calculées (après les virgules, jamais un mot-outil en fin de ligne).
@@ -160,13 +161,13 @@ Le LUT 3D `grade/film_look.cube` (33³, calculé en Oklab) applique une courbe f
 | durée | 62.6 s | 62.6 s |
 | décalage audio / mix de référence | 0.0 ms | 0.0 ms |
 | segments noirs | aucun | aucun |
-| gels détectés | [[61.1333, 61.6667], [61.6667, 62.2]] | [[61.2667, 61.8333]] |
+| gels détectés | [[61.2333, 61.9]] | [[61.2667, 61.9]] |
 | synchro voix / source WA0048 (par segment) | [0.02, -0.31, -0.02, 0.04, 0.04] ms | (même mix) |
 
 **Synchronisation son/image, démontrée par trois mesures directes indépendantes (1 à 3) :**
 1. Image : sur une mire numérotée, le composant vidéo de Remotion affiche exactement l'image source attendue (`trimBefore`), et la signature de mouvement du film correspond à celle de `message.mp4` (décalage 0 ou 1 image, à la précision de la mesure).
 2. Son : la voix montée est alignée sur la source à moins de 0,5 ms près dans chaque segment. La latence de 27,9 ms introduite par la chaîne de traitement (limiteur à anticipation, débruiteur FFT) a été détectée lors du contrôle, puis mesurée par intercorrélation et compensée.
-3. Fichiers finaux : l'image du MP4 est alignée sur la source, à image près : tronçon 625–735 → +0 (corr. 0.996), tronçon 1050–1235 → -1 (corr. 0.97), tronçon 1250–1400 → +0 (corr. 0.902), tronçon 1550–1710 → +0 (corr. 0.906). Les valeurs ±1 correspondent à une égalité de corrélation avec 0, dans la limite de résolution de la mesure. L'audio des MP4 est identique au mix de référence (décalage indiqué dans le tableau).
+3. Fichiers finaux : l'image du MP4 est alignée sur la source, à image près : tronçon 625–735 → +0 (corr. 0.996), tronçon 1050–1235 → -1 (corr. 0.97), tronçon 1250–1400 → +0 (corr. 0.903), tronçon 1550–1710 → +0 (corr. 0.906). Les valeurs ±1 correspondent à une égalité de corrélation avec 0, dans la limite de résolution de la mesure. L'audio des MP4 est identique au mix de référence (décalage indiqué dans le tableau).
 4. Un contrôle labial indirect (activité de la bouche corrélée à l'énergie de la voix) a aussi été essayé. Sa corrélation est trop faible (environ 0,1) et bimodale (pics à 0 et à −8 images, soit une période syllabique) pour trancher. Il n'est pas retenu comme critère : les mesures directes 1 à 3 sont concordantes et démontrent la synchronisation.
 
 Le seul noir présent est le fondu d'ouverture voulu (0,33 s) et la fermeture au noir finale. Les « gels » éventuellement détectés en fin de film correspondent au carton final, quasi statique par conception. Les images clés ont aussi été vérifiées visuellement : chaque transition, la transition signature image par image, chaque sous-titre et chaque moment typographique (voir `PLANCHE_CONTACT.jpg`).

@@ -4,6 +4,7 @@ import { easeInOut, mix, prog } from "../lib/anim";
 import { COLORS, FONTS, TEXT_SHADOW, W } from "../lib/theme";
 import { TL } from "../lib/timeline";
 import { Sparkles, StaggerText } from "./Typography";
+import { Logo } from "./Logo";
 
 export type EndCardText = {
   kicker: string;
@@ -38,6 +39,8 @@ export const EndCard: React.FC<{ text: EndCardText }> = ({ text }) => {
       <Sparkles frame={f} from={from + 10} to={TL.durationInFrames + 20} count={42} area={{ x: 200, y: 1200, w: W - 400, h: 1500 }} seed={21} intensity={0.85} />
       <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", paddingBottom: 120 }}>
         <div style={{ display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center" }}>
+          <Logo frame={f} start={from + 2} size={400} />
+          <div style={{ height: 80 }} />
           <div
             style={{
               fontFamily: FONTS.sans,
