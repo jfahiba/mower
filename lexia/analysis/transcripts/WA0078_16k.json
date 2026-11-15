@@ -1,0 +1,758 @@
+{
+ "segments": [
+  {
+   "start": 0.59,
+   "end": 8.45,
+   "text": " Donc, nous venons de célébrer un mariage et donc, sceller l'union de deux belles personnes.",
+   "words": [
+    {
+     "start": 0.59,
+     "end": 1.21,
+     "word": " Donc,",
+     "prob": 0.3829045295715332
+    },
+    {
+     "start": 1.21,
+     "end": 1.89,
+     "word": " nous",
+     "prob": 0.9995742440223694
+    },
+    {
+     "start": 1.89,
+     "end": 2.19,
+     "word": " venons",
+     "prob": 0.9999538660049438
+    },
+    {
+     "start": 2.19,
+     "end": 2.35,
+     "word": " de",
+     "prob": 0.9998142123222351
+    },
+    {
+     "start": 2.35,
+     "end": 3.33,
+     "word": " célébrer",
+     "prob": 0.9997273683547974
+    },
+    {
+     "start": 3.33,
+     "end": 3.51,
+     "word": " un",
+     "prob": 0.9913739562034607
+    },
+    {
+     "start": 3.51,
+     "end": 4.45,
+     "word": " mariage",
+     "prob": 0.9998039603233337
+    },
+    {
+     "start": 4.45,
+     "end": 5.01,
+     "word": " et",
+     "prob": 0.9099852442741394
+    },
+    {
+     "start": 5.01,
+     "end": 5.37,
+     "word": " donc,",
+     "prob": 0.9893754720687866
+    },
+    {
+     "start": 5.37,
+     "end": 6.17,
+     "word": " sceller",
+     "prob": 0.8322786092758179
+    },
+    {
+     "start": 6.17,
+     "end": 6.41,
+     "word": " l",
+     "prob": 0.9997702240943909
+    },
+    {
+     "start": 6.41,
+     "end": 6.53,
+     "word": "'union",
+     "prob": 0.9985429048538208
+    },
+    {
+     "start": 6.53,
+     "end": 6.91,
+     "word": " de",
+     "prob": 0.9990585446357727
+    },
+    {
+     "start": 6.91,
+     "end": 7.47,
+     "word": " deux",
+     "prob": 0.9975467324256897
+    },
+    {
+     "start": 7.47,
+     "end": 7.87,
+     "word": " belles",
+     "prob": 0.9998830258846283
+    },
+    {
+     "start": 7.87,
+     "end": 8.45,
+     "word": " personnes.",
+     "prob": 0.9995216131210327
+    }
+   ]
+  },
+  {
+   "start": 9.65,
+   "end": 17.11,
+   "text": " Précédemment, l'union a été, donc, intérieurement à l'union, on a également signé un contrat de mariage",
+   "words": [
+    {
+     "start": 9.65,
+     "end": 10.41,
+     "word": " Précédemment,",
+     "prob": 0.9970981329679489
+    },
+    {
+     "start": 10.45,
+     "end": 10.57,
+     "word": " l",
+     "prob": 0.9926861524581909
+    },
+    {
+     "start": 10.57,
+     "end": 10.77,
+     "word": "'union",
+     "prob": 0.9996427893638611
+    },
+    {
+     "start": 10.77,
+     "end": 11.31,
+     "word": " a",
+     "prob": 0.9998694658279419
+    },
+    {
+     "start": 11.31,
+     "end": 12.03,
+     "word": " été,",
+     "prob": 0.9999523162841797
+    },
+    {
+     "start": 12.81,
+     "end": 12.99,
+     "word": " donc,",
+     "prob": 0.5838284492492676
+    },
+    {
+     "start": 13.01,
+     "end": 13.73,
+     "word": " intérieurement",
+     "prob": 0.9943571239709854
+    },
+    {
+     "start": 13.73,
+     "end": 13.79,
+     "word": " à",
+     "prob": 0.9989901185035706
+    },
+    {
+     "start": 13.79,
+     "end": 13.89,
+     "word": " l",
+     "prob": 0.9999681711196899
+    },
+    {
+     "start": 13.89,
+     "end": 14.07,
+     "word": "'union,",
+     "prob": 0.9999656081199646
+    },
+    {
+     "start": 14.21,
+     "end": 14.63,
+     "word": " on",
+     "prob": 0.999870777130127
+    },
+    {
+     "start": 14.63,
+     "end": 14.85,
+     "word": " a",
+     "prob": 0.9999951124191284
+    },
+    {
+     "start": 14.85,
+     "end": 15.35,
+     "word": " également",
+     "prob": 0.9994754195213318
+    },
+    {
+     "start": 15.35,
+     "end": 15.83,
+     "word": " signé",
+     "prob": 0.999448835849762
+    },
+    {
+     "start": 15.83,
+     "end": 15.91,
+     "word": " un",
+     "prob": 0.9999420642852783
+    },
+    {
+     "start": 15.91,
+     "end": 16.31,
+     "word": " contrat",
+     "prob": 0.9996234178543091
+    },
+    {
+     "start": 16.31,
+     "end": 16.47,
+     "word": " de",
+     "prob": 0.999974250793457
+    },
+    {
+     "start": 16.47,
+     "end": 17.11,
+     "word": " mariage",
+     "prob": 0.9999293684959412
+    }
+   ]
+  },
+  {
+   "start": 17.11,
+   "end": 25.13,
+   "text": " qui doit aussi, au terme de la loi, être signé, conclu avant la célébration de mariage.",
+   "words": [
+    {
+     "start": 17.11,
+     "end": 17.77,
+     "word": " qui",
+     "prob": 0.9725200533866882
+    },
+    {
+     "start": 17.77,
+     "end": 18.03,
+     "word": " doit",
+     "prob": 0.9999656677246094
+    },
+    {
+     "start": 18.03,
+     "end": 19.11,
+     "word": " aussi,",
+     "prob": 0.9668121933937073
+    },
+    {
+     "start": 19.23,
+     "end": 19.43,
+     "word": " au",
+     "prob": 0.9927070736885071
+    },
+    {
+     "start": 19.43,
+     "end": 19.73,
+     "word": " terme",
+     "prob": 0.9993583559989929
+    },
+    {
+     "start": 19.73,
+     "end": 19.87,
+     "word": " de",
+     "prob": 0.9999796152114868
+    },
+    {
+     "start": 19.87,
+     "end": 19.99,
+     "word": " la",
+     "prob": 0.9999374151229858
+    },
+    {
+     "start": 19.99,
+     "end": 20.21,
+     "word": " loi,",
+     "prob": 0.9993244409561157
+    },
+    {
+     "start": 20.31,
+     "end": 20.69,
+     "word": " être",
+     "prob": 0.9999215602874756
+    },
+    {
+     "start": 20.69,
+     "end": 21.87,
+     "word": " signé,",
+     "prob": 0.9991946220397949
+    },
+    {
+     "start": 21.87,
+     "end": 22.37,
+     "word": " conclu",
+     "prob": 0.9962163865566254
+    },
+    {
+     "start": 22.37,
+     "end": 22.89,
+     "word": " avant",
+     "prob": 0.8974369764328003
+    },
+    {
+     "start": 22.89,
+     "end": 23.37,
+     "word": " la",
+     "prob": 0.9998286962509155
+    },
+    {
+     "start": 23.37,
+     "end": 23.95,
+     "word": " célébration",
+     "prob": 0.9997601956129074
+    },
+    {
+     "start": 23.95,
+     "end": 24.33,
+     "word": " de",
+     "prob": 0.9935437440872192
+    },
+    {
+     "start": 24.33,
+     "end": 25.13,
+     "word": " mariage.",
+     "prob": 0.9997546970844269
+    }
+   ]
+  },
+  {
+   "start": 25.23,
+   "end": 29.11,
+   "text": " Donc, les époux ont pu établir leur régime matrimonial.",
+   "words": [
+    {
+     "start": 25.23,
+     "end": 25.71,
+     "word": " Donc,",
+     "prob": 0.9986076951026917
+    },
+    {
+     "start": 25.77,
+     "end": 25.85,
+     "word": " les",
+     "prob": 0.9998212456703186
+    },
+    {
+     "start": 25.85,
+     "end": 26.15,
+     "word": " époux",
+     "prob": 0.9979815781116486
+    },
+    {
+     "start": 26.15,
+     "end": 26.25,
+     "word": " ont",
+     "prob": 0.9999501705169678
+    },
+    {
+     "start": 26.25,
+     "end": 26.47,
+     "word": " pu",
+     "prob": 0.9998586177825928
+    },
+    {
+     "start": 26.47,
+     "end": 27.05,
+     "word": " établir",
+     "prob": 0.9996016422907511
+    },
+    {
+     "start": 27.05,
+     "end": 27.69,
+     "word": " leur",
+     "prob": 0.9983993172645569
+    },
+    {
+     "start": 27.69,
+     "end": 28.43,
+     "word": " régime",
+     "prob": 0.9957652390003204
+    },
+    {
+     "start": 28.43,
+     "end": 29.11,
+     "word": " matrimonial.",
+     "prob": 0.9992915689945221
+    }
+   ]
+  },
+  {
+   "start": 29.11,
+   "end": 34.11,
+   "text": " Donc, ils ont pu choisir le régime matrimonial à travers le contrat de mariage qu'on a signé ensemble.",
+   "words": [
+    {
+     "start": 29.11,
+     "end": 29.37,
+     "word": " Donc,",
+     "prob": 0.6184741258621216
+    },
+    {
+     "start": 29.39,
+     "end": 29.45,
+     "word": " ils",
+     "prob": 0.9975495934486389
+    },
+    {
+     "start": 29.45,
+     "end": 29.53,
+     "word": " ont",
+     "prob": 0.9997625946998596
+    },
+    {
+     "start": 29.53,
+     "end": 29.67,
+     "word": " pu",
+     "prob": 0.9994563460350037
+    },
+    {
+     "start": 29.67,
+     "end": 30.25,
+     "word": " choisir",
+     "prob": 0.999600887298584
+    },
+    {
+     "start": 30.25,
+     "end": 30.33,
+     "word": " le",
+     "prob": 0.9818994998931885
+    },
+    {
+     "start": 30.33,
+     "end": 30.61,
+     "word": " régime",
+     "prob": 0.9946798086166382
+    },
+    {
+     "start": 30.61,
+     "end": 31.15,
+     "word": " matrimonial",
+     "prob": 0.9987452328205109
+    },
+    {
+     "start": 31.15,
+     "end": 31.29,
+     "word": " à",
+     "prob": 0.9952711462974548
+    },
+    {
+     "start": 31.29,
+     "end": 31.59,
+     "word": " travers",
+     "prob": 0.9999431371688843
+    },
+    {
+     "start": 31.59,
+     "end": 31.81,
+     "word": " le",
+     "prob": 0.9990596175193787
+    },
+    {
+     "start": 31.81,
+     "end": 32.19,
+     "word": " contrat",
+     "prob": 0.9991016387939453
+    },
+    {
+     "start": 32.19,
+     "end": 32.41,
+     "word": " de",
+     "prob": 0.9995664954185486
+    },
+    {
+     "start": 32.41,
+     "end": 32.83,
+     "word": " mariage",
+     "prob": 0.9995736181735992
+    },
+    {
+     "start": 32.83,
+     "end": 32.93,
+     "word": " qu",
+     "prob": 0.990794837474823
+    },
+    {
+     "start": 32.93,
+     "end": 32.99,
+     "word": "'on",
+     "prob": 0.9997070133686066
+    },
+    {
+     "start": 32.99,
+     "end": 33.07,
+     "word": " a",
+     "prob": 0.999355137348175
+    },
+    {
+     "start": 33.07,
+     "end": 33.45,
+     "word": " signé",
+     "prob": 0.9994696080684662
+    },
+    {
+     "start": 33.45,
+     "end": 34.11,
+     "word": " ensemble.",
+     "prob": 0.9980512857437134
+    }
+   ]
+  },
+  {
+   "start": 34.53,
+   "end": 41.15,
+   "text": " Et aujourd'hui, nous venons formellement confirmer le tout avec la célébration de mariage.",
+   "words": [
+    {
+     "start": 34.53,
+     "end": 34.87,
+     "word": " Et",
+     "prob": 0.9726430773735046
+    },
+    {
+     "start": 34.87,
+     "end": 35.09,
+     "word": " aujourd",
+     "prob": 0.9977678060531616
+    },
+    {
+     "start": 35.09,
+     "end": 35.33,
+     "word": "'hui,",
+     "prob": 0.999963104724884
+    },
+    {
+     "start": 35.33,
+     "end": 35.45,
+     "word": " nous",
+     "prob": 0.9999185800552368
+    },
+    {
+     "start": 35.45,
+     "end": 36.01,
+     "word": " venons",
+     "prob": 0.9997957348823547
+    },
+    {
+     "start": 36.01,
+     "end": 37.77,
+     "word": " formellement",
+     "prob": 0.9853951930999756
+    },
+    {
+     "start": 37.77,
+     "end": 38.65,
+     "word": " confirmer",
+     "prob": 0.8101973533630371
+    },
+    {
+     "start": 38.65,
+     "end": 38.75,
+     "word": " le",
+     "prob": 0.9986321330070496
+    },
+    {
+     "start": 38.75,
+     "end": 39.03,
+     "word": " tout",
+     "prob": 0.9939206838607788
+    },
+    {
+     "start": 39.03,
+     "end": 39.63,
+     "word": " avec",
+     "prob": 0.9980738162994385
+    },
+    {
+     "start": 39.63,
+     "end": 39.89,
+     "word": " la",
+     "prob": 0.9997968077659607
+    },
+    {
+     "start": 39.89,
+     "end": 40.69,
+     "word": " célébration",
+     "prob": 0.999488428235054
+    },
+    {
+     "start": 40.69,
+     "end": 40.89,
+     "word": " de",
+     "prob": 0.9640476703643799
+    },
+    {
+     "start": 40.89,
+     "end": 41.15,
+     "word": " mariage.",
+     "prob": 0.9996195733547211
+    }
+   ]
+  },
+  {
+   "start": 41.71,
+   "end": 45.43,
+   "text": " Donc, le début de leur union au terme de la loi.",
+   "words": [
+    {
+     "start": 41.71,
+     "end": 42.11,
+     "word": " Donc,",
+     "prob": 0.9983892440795898
+    },
+    {
+     "start": 42.15,
+     "end": 42.31,
+     "word": " le",
+     "prob": 0.9995666146278381
+    },
+    {
+     "start": 42.31,
+     "end": 42.63,
+     "word": " début",
+     "prob": 0.9999710321426392
+    },
+    {
+     "start": 42.63,
+     "end": 42.79,
+     "word": " de",
+     "prob": 0.9999617338180542
+    },
+    {
+     "start": 42.79,
+     "end": 42.95,
+     "word": " leur",
+     "prob": 0.9988409876823425
+    },
+    {
+     "start": 42.95,
+     "end": 43.65,
+     "word": " union",
+     "prob": 0.999642014503479
+    },
+    {
+     "start": 43.65,
+     "end": 44.03,
+     "word": " au",
+     "prob": 0.9654896855354309
+    },
+    {
+     "start": 44.03,
+     "end": 44.89,
+     "word": " terme",
+     "prob": 0.9984739422798157
+    },
+    {
+     "start": 44.89,
+     "end": 45.07,
+     "word": " de",
+     "prob": 0.9999061822891235
+    },
+    {
+     "start": 45.07,
+     "end": 45.23,
+     "word": " la",
+     "prob": 0.961811900138855
+    },
+    {
+     "start": 45.23,
+     "end": 45.43,
+     "word": " loi.",
+     "prob": 0.9988559484481812
+    }
+   ]
+  },
+  {
+   "start": 45.71,
+   "end": 46.29,
+   "text": " Vous êtes ?",
+   "words": [
+    {
+     "start": 45.71,
+     "end": 45.93,
+     "word": " Vous",
+     "prob": 0.9656066298484802
+    },
+    {
+     "start": 45.93,
+     "end": 46.15,
+     "word": " êtes",
+     "prob": 0.9998795986175537
+    },
+    {
+     "start": 46.15,
+     "end": 46.29,
+     "word": " ?",
+     "prob": 0.5230816006660461
+    }
+   ]
+  },
+  {
+   "start": 47.03,
+   "end": 50.57,
+   "text": " Maître Arbi pour l'exia notaire et services juridiques.",
+   "words": [
+    {
+     "start": 47.03,
+     "end": 47.29,
+     "word": " Maître",
+     "prob": 0.978886753320694
+    },
+    {
+     "start": 47.29,
+     "end": 47.75,
+     "word": " Arbi",
+     "prob": 0.6655552983283997
+    },
+    {
+     "start": 47.75,
+     "end": 48.21,
+     "word": " pour",
+     "prob": 0.8076747059822083
+    },
+    {
+     "start": 48.21,
+     "end": 48.43,
+     "word": " l",
+     "prob": 0.6374683380126953
+    },
+    {
+     "start": 48.43,
+     "end": 48.85,
+     "word": "'exia",
+     "prob": 0.7596799830595652
+    },
+    {
+     "start": 48.85,
+     "end": 49.57,
+     "word": " notaire",
+     "prob": 0.96120285987854
+    },
+    {
+     "start": 49.57,
+     "end": 49.63,
+     "word": " et",
+     "prob": 0.99928218126297
+    },
+    {
+     "start": 49.63,
+     "end": 49.81,
+     "word": " services",
+     "prob": 0.498206228017807
+    },
+    {
+     "start": 49.81,
+     "end": 50.57,
+     "word": " juridiques.",
+     "prob": 0.9992513259251913
+    }
+   ]
+  }
+ ],
+ "language": "fr"
+}

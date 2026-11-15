@@ -1,0 +1,1601 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.36,
+   "text": " Alors, pourquoi c'est important de faire célébrer son mariage ? Il pourrait rester conjoint de fait, il y a quand même plein de lois qui protègent le conjoint de fait au Québec. Pourquoi c'est important d'aller jusqu'au bout avec un certificat de mariage ? Ça change quoi au quotidien ?",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.54,
+     "word": " Alors,",
+     "prob": 0.17638206481933594
+    },
+    {
+     "start": 0.66,
+     "end": 0.76,
+     "word": " pourquoi",
+     "prob": 0.987877607345581
+    },
+    {
+     "start": 0.76,
+     "end": 0.88,
+     "word": " c",
+     "prob": 0.949874222278595
+    },
+    {
+     "start": 0.88,
+     "end": 0.92,
+     "word": "'est",
+     "prob": 0.999700516462326
+    },
+    {
+     "start": 0.92,
+     "end": 1.1,
+     "word": " important",
+     "prob": 0.996682345867157
+    },
+    {
+     "start": 1.1,
+     "end": 1.3,
+     "word": " de",
+     "prob": 0.9957376718521118
+    },
+    {
+     "start": 1.3,
+     "end": 1.74,
+     "word": " faire",
+     "prob": 0.6099254488945007
+    },
+    {
+     "start": 1.74,
+     "end": 2.06,
+     "word": " célébrer",
+     "prob": 0.8115678057074547
+    },
+    {
+     "start": 2.06,
+     "end": 2.16,
+     "word": " son",
+     "prob": 0.9923955202102661
+    },
+    {
+     "start": 2.16,
+     "end": 2.42,
+     "word": " mariage",
+     "prob": 0.9993865489959717
+    },
+    {
+     "start": 2.42,
+     "end": 2.46,
+     "word": " ?",
+     "prob": 0.6163418889045715
+    },
+    {
+     "start": 2.46,
+     "end": 2.54,
+     "word": " Il",
+     "prob": 0.9576257467269897
+    },
+    {
+     "start": 2.54,
+     "end": 2.64,
+     "word": " pourrait",
+     "prob": 0.9919978976249695
+    },
+    {
+     "start": 2.64,
+     "end": 2.94,
+     "word": " rester",
+     "prob": 0.9974657297134399
+    },
+    {
+     "start": 2.94,
+     "end": 3.28,
+     "word": " conjoint",
+     "prob": 0.9151208698749542
+    },
+    {
+     "start": 3.28,
+     "end": 3.34,
+     "word": " de",
+     "prob": 0.9646875858306885
+    },
+    {
+     "start": 3.34,
+     "end": 3.5,
+     "word": " fait,",
+     "prob": 0.8439659476280212
+    },
+    {
+     "start": 3.56,
+     "end": 3.66,
+     "word": " il",
+     "prob": 0.980193555355072
+    },
+    {
+     "start": 3.66,
+     "end": 3.7,
+     "word": " y",
+     "prob": 0.9967344403266907
+    },
+    {
+     "start": 3.7,
+     "end": 3.74,
+     "word": " a",
+     "prob": 0.9984014630317688
+    },
+    {
+     "start": 3.74,
+     "end": 3.82,
+     "word": " quand",
+     "prob": 0.9934114813804626
+    },
+    {
+     "start": 3.82,
+     "end": 3.88,
+     "word": " même",
+     "prob": 0.9992709755897522
+    },
+    {
+     "start": 3.88,
+     "end": 4.02,
+     "word": " plein",
+     "prob": 0.9782600998878479
+    },
+    {
+     "start": 4.02,
+     "end": 4.08,
+     "word": " de",
+     "prob": 0.9989688396453857
+    },
+    {
+     "start": 4.08,
+     "end": 4.22,
+     "word": " lois",
+     "prob": 0.9940739870071411
+    },
+    {
+     "start": 4.22,
+     "end": 4.32,
+     "word": " qui",
+     "prob": 0.9982701539993286
+    },
+    {
+     "start": 4.32,
+     "end": 4.64,
+     "word": " protègent",
+     "prob": 0.9964738090833029
+    },
+    {
+     "start": 4.64,
+     "end": 4.78,
+     "word": " le",
+     "prob": 0.9271814227104187
+    },
+    {
+     "start": 4.78,
+     "end": 5.02,
+     "word": " conjoint",
+     "prob": 0.9980452060699463
+    },
+    {
+     "start": 5.02,
+     "end": 5.06,
+     "word": " de",
+     "prob": 0.9902949333190918
+    },
+    {
+     "start": 5.06,
+     "end": 5.16,
+     "word": " fait",
+     "prob": 0.9963680505752563
+    },
+    {
+     "start": 5.16,
+     "end": 5.2,
+     "word": " au",
+     "prob": 0.9943068623542786
+    },
+    {
+     "start": 5.2,
+     "end": 5.36,
+     "word": " Québec.",
+     "prob": 0.9992321729660034
+    },
+    {
+     "start": 5.44,
+     "end": 5.58,
+     "word": " Pourquoi",
+     "prob": 0.9975320100784302
+    },
+    {
+     "start": 5.58,
+     "end": 5.74,
+     "word": " c",
+     "prob": 0.9982755184173584
+    },
+    {
+     "start": 5.74,
+     "end": 5.78,
+     "word": "'est",
+     "prob": 0.999994158744812
+    },
+    {
+     "start": 5.78,
+     "end": 6.0,
+     "word": " important",
+     "prob": 0.999710738658905
+    },
+    {
+     "start": 6.0,
+     "end": 6.38,
+     "word": " d",
+     "prob": 0.999523401260376
+    },
+    {
+     "start": 6.38,
+     "end": 6.82,
+     "word": "'aller",
+     "prob": 0.999565988779068
+    },
+    {
+     "start": 6.82,
+     "end": 7.1,
+     "word": " jusqu",
+     "prob": 0.9998753070831299
+    },
+    {
+     "start": 7.1,
+     "end": 7.24,
+     "word": "'au",
+     "prob": 0.9999621510505676
+    },
+    {
+     "start": 7.24,
+     "end": 7.38,
+     "word": " bout",
+     "prob": 0.9999489784240723
+    },
+    {
+     "start": 7.38,
+     "end": 7.56,
+     "word": " avec",
+     "prob": 0.9969141483306885
+    },
+    {
+     "start": 7.56,
+     "end": 8.18,
+     "word": " un",
+     "prob": 0.9985218644142151
+    },
+    {
+     "start": 8.18,
+     "end": 9.02,
+     "word": " certificat",
+     "prob": 0.9827499091625214
+    },
+    {
+     "start": 9.02,
+     "end": 9.06,
+     "word": " de",
+     "prob": 0.9996875524520874
+    },
+    {
+     "start": 9.06,
+     "end": 9.38,
+     "word": " mariage",
+     "prob": 0.9998483657836914
+    },
+    {
+     "start": 9.38,
+     "end": 9.44,
+     "word": " ?",
+     "prob": 0.8927461504936218
+    },
+    {
+     "start": 9.44,
+     "end": 9.8,
+     "word": " Ça",
+     "prob": 0.952194094657898
+    },
+    {
+     "start": 9.8,
+     "end": 9.98,
+     "word": " change",
+     "prob": 0.9995017051696777
+    },
+    {
+     "start": 9.98,
+     "end": 10.18,
+     "word": " quoi",
+     "prob": 0.9999767541885376
+    },
+    {
+     "start": 10.18,
+     "end": 10.68,
+     "word": " au",
+     "prob": 0.9243689775466919
+    },
+    {
+     "start": 10.68,
+     "end": 11.06,
+     "word": " quotidien",
+     "prob": 0.9999833106994629
+    },
+    {
+     "start": 11.06,
+     "end": 11.36,
+     "word": " ?",
+     "prob": 0.996531069278717
+    }
+   ]
+  },
+  {
+   "start": 11.36,
+   "end": 20.64,
+   "text": " Donc, le contrat de mariage est très important parce qu'il permet notamment de déterminer, en premier lieu, le régime matrimonial.",
+   "words": [
+    {
+     "start": 11.36,
+     "end": 12.04,
+     "word": " Donc,",
+     "prob": 0.5613165497779846
+    },
+    {
+     "start": 12.04,
+     "end": 12.44,
+     "word": " le",
+     "prob": 0.9995743632316589
+    },
+    {
+     "start": 12.44,
+     "end": 12.84,
+     "word": " contrat",
+     "prob": 0.9986615180969238
+    },
+    {
+     "start": 12.84,
+     "end": 12.96,
+     "word": " de",
+     "prob": 0.9998445510864258
+    },
+    {
+     "start": 12.96,
+     "end": 13.3,
+     "word": " mariage",
+     "prob": 0.9997975826263428
+    },
+    {
+     "start": 13.3,
+     "end": 13.42,
+     "word": " est",
+     "prob": 0.9994599223136902
+    },
+    {
+     "start": 13.42,
+     "end": 13.6,
+     "word": " très",
+     "prob": 0.9998127818107605
+    },
+    {
+     "start": 13.6,
+     "end": 14.08,
+     "word": " important",
+     "prob": 0.9999717473983765
+    },
+    {
+     "start": 14.08,
+     "end": 14.74,
+     "word": " parce",
+     "prob": 0.9733918309211731
+    },
+    {
+     "start": 14.74,
+     "end": 14.9,
+     "word": " qu",
+     "prob": 0.9999409914016724
+    },
+    {
+     "start": 14.9,
+     "end": 14.92,
+     "word": "'il",
+     "prob": 0.9999895095825195
+    },
+    {
+     "start": 14.92,
+     "end": 15.26,
+     "word": " permet",
+     "prob": 0.9998942613601685
+    },
+    {
+     "start": 15.26,
+     "end": 15.56,
+     "word": " notamment",
+     "prob": 0.993509829044342
+    },
+    {
+     "start": 15.56,
+     "end": 15.96,
+     "word": " de",
+     "prob": 0.9984840750694275
+    },
+    {
+     "start": 15.96,
+     "end": 17.5,
+     "word": " déterminer,",
+     "prob": 0.9998763998349508
+    },
+    {
+     "start": 17.5,
+     "end": 18.46,
+     "word": " en",
+     "prob": 0.9995891451835632
+    },
+    {
+     "start": 18.46,
+     "end": 18.76,
+     "word": " premier",
+     "prob": 0.9990359544754028
+    },
+    {
+     "start": 18.76,
+     "end": 18.9,
+     "word": " lieu,",
+     "prob": 0.9994305968284607
+    },
+    {
+     "start": 19.04,
+     "end": 19.56,
+     "word": " le",
+     "prob": 0.9999592304229736
+    },
+    {
+     "start": 19.56,
+     "end": 20.08,
+     "word": " régime",
+     "prob": 0.9998340606689453
+    },
+    {
+     "start": 20.08,
+     "end": 20.64,
+     "word": " matrimonial.",
+     "prob": 0.9996888190507889
+    }
+   ]
+  },
+  {
+   "start": 20.72,
+   "end": 27.5,
+   "text": " Donc, au Québec, il y a trois régimes matrimonials, dont la société d'acqué, qui est le régime légal au Québec,",
+   "words": [
+    {
+     "start": 20.72,
+     "end": 20.9,
+     "word": " Donc,",
+     "prob": 0.7337732315063477
+    },
+    {
+     "start": 20.9,
+     "end": 21.38,
+     "word": " au",
+     "prob": 0.9998528957366943
+    },
+    {
+     "start": 21.38,
+     "end": 21.58,
+     "word": " Québec,",
+     "prob": 0.9999116659164429
+    },
+    {
+     "start": 21.66,
+     "end": 21.8,
+     "word": " il",
+     "prob": 0.999975323677063
+    },
+    {
+     "start": 21.8,
+     "end": 21.84,
+     "word": " y",
+     "prob": 0.9999727010726929
+    },
+    {
+     "start": 21.84,
+     "end": 21.92,
+     "word": " a",
+     "prob": 0.9999865293502808
+    },
+    {
+     "start": 21.92,
+     "end": 22.08,
+     "word": " trois",
+     "prob": 0.9989528656005859
+    },
+    {
+     "start": 22.08,
+     "end": 22.68,
+     "word": " régimes",
+     "prob": 0.9995527267456055
+    },
+    {
+     "start": 22.68,
+     "end": 23.5,
+     "word": " matrimonials,",
+     "prob": 0.9328086227178574
+    },
+    {
+     "start": 23.5,
+     "end": 23.86,
+     "word": " dont",
+     "prob": 0.9874968528747559
+    },
+    {
+     "start": 23.86,
+     "end": 24.44,
+     "word": " la",
+     "prob": 0.9996860027313232
+    },
+    {
+     "start": 24.44,
+     "end": 24.86,
+     "word": " société",
+     "prob": 0.9943600296974182
+    },
+    {
+     "start": 24.86,
+     "end": 25.5,
+     "word": " d",
+     "prob": 0.8945286870002747
+    },
+    {
+     "start": 25.5,
+     "end": 25.62,
+     "word": "'acqué,",
+     "prob": 0.5856800377368927
+    },
+    {
+     "start": 25.78,
+     "end": 25.92,
+     "word": " qui",
+     "prob": 0.9999055862426758
+    },
+    {
+     "start": 25.92,
+     "end": 25.98,
+     "word": " est",
+     "prob": 0.9999887943267822
+    },
+    {
+     "start": 25.98,
+     "end": 26.08,
+     "word": " le",
+     "prob": 0.9999419450759888
+    },
+    {
+     "start": 26.08,
+     "end": 26.46,
+     "word": " régime",
+     "prob": 0.9999367594718933
+    },
+    {
+     "start": 26.46,
+     "end": 27.1,
+     "word": " légal",
+     "prob": 0.9996370673179626
+    },
+    {
+     "start": 27.1,
+     "end": 27.2,
+     "word": " au",
+     "prob": 0.9996631145477295
+    },
+    {
+     "start": 27.2,
+     "end": 27.5,
+     "word": " Québec,",
+     "prob": 0.9999523162841797
+    }
+   ]
+  },
+  {
+   "start": 27.68,
+   "end": 32.26,
+   "text": " donc qui ne nécessite pas d'être choisi dans un contrat de mariage.",
+   "words": [
+    {
+     "start": 27.68,
+     "end": 27.9,
+     "word": " donc",
+     "prob": 0.78263258934021
+    },
+    {
+     "start": 27.9,
+     "end": 28.44,
+     "word": " qui",
+     "prob": 0.9736307859420776
+    },
+    {
+     "start": 28.44,
+     "end": 28.5,
+     "word": " ne",
+     "prob": 0.9990811347961426
+    },
+    {
+     "start": 28.5,
+     "end": 29.16,
+     "word": " nécessite",
+     "prob": 0.9997569918632507
+    },
+    {
+     "start": 29.16,
+     "end": 29.36,
+     "word": " pas",
+     "prob": 0.9999972581863403
+    },
+    {
+     "start": 29.36,
+     "end": 30.04,
+     "word": " d",
+     "prob": 0.9999765157699585
+    },
+    {
+     "start": 30.04,
+     "end": 30.18,
+     "word": "'être",
+     "prob": 0.9999879598617554
+    },
+    {
+     "start": 30.18,
+     "end": 31.18,
+     "word": " choisi",
+     "prob": 0.9812075197696686
+    },
+    {
+     "start": 31.18,
+     "end": 31.38,
+     "word": " dans",
+     "prob": 0.9998251795768738
+    },
+    {
+     "start": 31.38,
+     "end": 31.56,
+     "word": " un",
+     "prob": 0.9999911785125732
+    },
+    {
+     "start": 31.56,
+     "end": 31.82,
+     "word": " contrat",
+     "prob": 0.9999213218688965
+    },
+    {
+     "start": 31.82,
+     "end": 31.92,
+     "word": " de",
+     "prob": 0.9999879598617554
+    },
+    {
+     "start": 31.92,
+     "end": 32.26,
+     "word": " mariage.",
+     "prob": 0.9999613761901855
+    }
+   ]
+  },
+  {
+   "start": 32.34,
+   "end": 39.96,
+   "text": " Il y a la séparation des biens qui nécessite un contrat de mariage et la communauté de biens meubles,",
+   "words": [
+    {
+     "start": 32.34,
+     "end": 32.64,
+     "word": " Il",
+     "prob": 0.9982611536979675
+    },
+    {
+     "start": 32.64,
+     "end": 32.72,
+     "word": " y",
+     "prob": 0.9999721050262451
+    },
+    {
+     "start": 32.72,
+     "end": 32.78,
+     "word": " a",
+     "prob": 0.999975323677063
+    },
+    {
+     "start": 32.78,
+     "end": 32.84,
+     "word": " la",
+     "prob": 0.9999240636825562
+    },
+    {
+     "start": 32.84,
+     "end": 33.76,
+     "word": " séparation",
+     "prob": 0.999936580657959
+    },
+    {
+     "start": 33.76,
+     "end": 34.16,
+     "word": " des",
+     "prob": 0.9998867511749268
+    },
+    {
+     "start": 34.16,
+     "end": 34.38,
+     "word": " biens",
+     "prob": 0.9999223351478577
+    },
+    {
+     "start": 34.38,
+     "end": 34.56,
+     "word": " qui",
+     "prob": 0.7615613341331482
+    },
+    {
+     "start": 34.56,
+     "end": 35.18,
+     "word": " nécessite",
+     "prob": 0.9935463070869446
+    },
+    {
+     "start": 35.18,
+     "end": 35.32,
+     "word": " un",
+     "prob": 0.9999297857284546
+    },
+    {
+     "start": 35.32,
+     "end": 35.58,
+     "word": " contrat",
+     "prob": 0.9996674060821533
+    },
+    {
+     "start": 35.58,
+     "end": 35.72,
+     "word": " de",
+     "prob": 0.99998939037323
+    },
+    {
+     "start": 35.72,
+     "end": 36.08,
+     "word": " mariage",
+     "prob": 0.9998761117458344
+    },
+    {
+     "start": 36.08,
+     "end": 36.44,
+     "word": " et",
+     "prob": 0.9320316314697266
+    },
+    {
+     "start": 36.44,
+     "end": 36.86,
+     "word": " la",
+     "prob": 0.9998379945755005
+    },
+    {
+     "start": 36.86,
+     "end": 37.3,
+     "word": " communauté",
+     "prob": 0.9970034956932068
+    },
+    {
+     "start": 37.3,
+     "end": 38.7,
+     "word": " de",
+     "prob": 0.9957466721534729
+    },
+    {
+     "start": 38.7,
+     "end": 39.16,
+     "word": " biens",
+     "prob": 0.9983660578727722
+    },
+    {
+     "start": 39.16,
+     "end": 39.96,
+     "word": " meubles,",
+     "prob": 0.9965570171674093
+    }
+   ]
+  },
+  {
+   "start": 39.96,
+   "end": 43.52,
+   "text": " qui, également, nécessitent un contrat de mariage.",
+   "words": [
+    {
+     "start": 39.96,
+     "end": 40.72,
+     "word": " qui,",
+     "prob": 0.7193048596382141
+    },
+    {
+     "start": 40.72,
+     "end": 41.26,
+     "word": " également,",
+     "prob": 0.9973022937774658
+    },
+    {
+     "start": 41.44,
+     "end": 42.16,
+     "word": " nécessitent",
+     "prob": 0.8506961067517599
+    },
+    {
+     "start": 42.16,
+     "end": 42.38,
+     "word": " un",
+     "prob": 0.999526858329773
+    },
+    {
+     "start": 42.38,
+     "end": 42.76,
+     "word": " contrat",
+     "prob": 0.9997195601463318
+    },
+    {
+     "start": 42.76,
+     "end": 42.9,
+     "word": " de",
+     "prob": 0.9999176263809204
+    },
+    {
+     "start": 42.9,
+     "end": 43.52,
+     "word": " mariage.",
+     "prob": 0.9999209642410278
+    }
+   ]
+  },
+  {
+   "start": 43.78,
+   "end": 45.86,
+   "text": " Donc, c'est important de venir se protéger",
+   "words": [
+    {
+     "start": 43.78,
+     "end": 44.18,
+     "word": " Donc,",
+     "prob": 0.9303710460662842
+    },
+    {
+     "start": 44.2,
+     "end": 44.3,
+     "word": " c",
+     "prob": 0.9995833039283752
+    },
+    {
+     "start": 44.3,
+     "end": 44.38,
+     "word": "'est",
+     "prob": 0.9999992251396179
+    },
+    {
+     "start": 44.38,
+     "end": 44.62,
+     "word": " important",
+     "prob": 0.9999034404754639
+    },
+    {
+     "start": 44.62,
+     "end": 44.92,
+     "word": " de",
+     "prob": 0.999916672706604
+    },
+    {
+     "start": 44.92,
+     "end": 45.22,
+     "word": " venir",
+     "prob": 0.9998879432678223
+    },
+    {
+     "start": 45.22,
+     "end": 45.4,
+     "word": " se",
+     "prob": 0.999894380569458
+    },
+    {
+     "start": 45.4,
+     "end": 45.86,
+     "word": " protéger",
+     "prob": 0.9999735355377197
+    }
+   ]
+  },
+  {
+   "start": 45.86,
+   "end": 48.78,
+   "text": " parce qu'on ne veut pas nécessairement",
+   "words": [
+    {
+     "start": 45.86,
+     "end": 46.18,
+     "word": " parce",
+     "prob": 0.6594333648681641
+    },
+    {
+     "start": 46.18,
+     "end": 46.38,
+     "word": " qu",
+     "prob": 0.9509916305541992
+    },
+    {
+     "start": 46.38,
+     "end": 47.82,
+     "word": "'on",
+     "prob": 0.9999871850013733
+    },
+    {
+     "start": 47.82,
+     "end": 48.0,
+     "word": " ne",
+     "prob": 0.9985119700431824
+    },
+    {
+     "start": 48.0,
+     "end": 48.1,
+     "word": " veut",
+     "prob": 0.9972509741783142
+    },
+    {
+     "start": 48.1,
+     "end": 48.24,
+     "word": " pas",
+     "prob": 0.9999866485595703
+    },
+    {
+     "start": 48.24,
+     "end": 48.78,
+     "word": " nécessairement",
+     "prob": 0.9834981858730316
+    }
+   ]
+  },
+  {
+   "start": 48.78,
+   "end": 51.58,
+   "text": " que les règles qui régissent notre mariage",
+   "words": [
+    {
+     "start": 48.78,
+     "end": 49.0,
+     "word": " que",
+     "prob": 0.9998936653137207
+    },
+    {
+     "start": 49.0,
+     "end": 50.2,
+     "word": " les",
+     "prob": 0.9998444318771362
+    },
+    {
+     "start": 50.2,
+     "end": 50.62,
+     "word": " règles",
+     "prob": 0.9999520778656006
+    },
+    {
+     "start": 50.62,
+     "end": 50.74,
+     "word": " qui",
+     "prob": 0.9979664087295532
+    },
+    {
+     "start": 50.74,
+     "end": 51.0,
+     "word": " régissent",
+     "prob": 0.979720801115036
+    },
+    {
+     "start": 51.0,
+     "end": 51.14,
+     "word": " notre",
+     "prob": 0.9998171925544739
+    },
+    {
+     "start": 51.14,
+     "end": 51.58,
+     "word": " mariage",
+     "prob": 0.9999412894248962
+    }
+   ]
+  },
+  {
+   "start": 51.58,
+   "end": 54.96,
+   "text": " soient les règles qui sont imposées légalement.",
+   "words": [
+    {
+     "start": 51.58,
+     "end": 51.82,
+     "word": " soient",
+     "prob": 0.9978843331336975
+    },
+    {
+     "start": 51.82,
+     "end": 52.1,
+     "word": " les",
+     "prob": 0.9989547729492188
+    },
+    {
+     "start": 52.1,
+     "end": 52.54,
+     "word": " règles",
+     "prob": 0.9999560117721558
+    },
+    {
+     "start": 52.54,
+     "end": 52.68,
+     "word": " qui",
+     "prob": 0.9999361038208008
+    },
+    {
+     "start": 52.68,
+     "end": 52.86,
+     "word": " sont",
+     "prob": 0.9991124272346497
+    },
+    {
+     "start": 52.86,
+     "end": 54.2,
+     "word": " imposées",
+     "prob": 0.9998727142810822
+    },
+    {
+     "start": 54.2,
+     "end": 54.96,
+     "word": " légalement.",
+     "prob": 0.9997653563817342
+    }
+   ]
+  },
+  {
+   "start": 55.0,
+   "end": 56.68,
+   "text": " Peut-être qu'on veut également venir insérer",
+   "words": [
+    {
+     "start": 55.0,
+     "end": 55.22,
+     "word": " Peut",
+     "prob": 0.9973916411399841
+    },
+    {
+     "start": 55.22,
+     "end": 55.38,
+     "word": "-être",
+     "prob": 0.9999889731407166
+    },
+    {
+     "start": 55.38,
+     "end": 55.5,
+     "word": " qu",
+     "prob": 0.9999334812164307
+    },
+    {
+     "start": 55.5,
+     "end": 55.5,
+     "word": "'on",
+     "prob": 0.9999973177909851
+    },
+    {
+     "start": 55.5,
+     "end": 55.64,
+     "word": " veut",
+     "prob": 0.997262716293335
+    },
+    {
+     "start": 55.64,
+     "end": 55.86,
+     "word": " également",
+     "prob": 0.9339826107025146
+    },
+    {
+     "start": 55.86,
+     "end": 56.12,
+     "word": " venir",
+     "prob": 0.9994730353355408
+    },
+    {
+     "start": 56.12,
+     "end": 56.68,
+     "word": " insérer",
+     "prob": 0.9999006986618042
+    }
+   ]
+  },
+  {
+   "start": 56.68,
+   "end": 58.96,
+   "text": " d'autres clauses d'un commun accord,",
+   "words": [
+    {
+     "start": 56.68,
+     "end": 56.84,
+     "word": " d",
+     "prob": 0.9999366998672485
+    },
+    {
+     "start": 56.84,
+     "end": 56.98,
+     "word": "'autres",
+     "prob": 0.999991238117218
+    },
+    {
+     "start": 56.98,
+     "end": 57.48,
+     "word": " clauses",
+     "prob": 0.9991751313209534
+    },
+    {
+     "start": 57.48,
+     "end": 57.86,
+     "word": " d",
+     "prob": 0.9931076169013977
+    },
+    {
+     "start": 57.86,
+     "end": 58.36,
+     "word": "'un",
+     "prob": 0.9999672770500183
+    },
+    {
+     "start": 58.36,
+     "end": 58.62,
+     "word": " commun",
+     "prob": 0.9996460676193237
+    },
+    {
+     "start": 58.62,
+     "end": 58.96,
+     "word": " accord,",
+     "prob": 0.997397780418396
+    }
+   ]
+  },
+  {
+   "start": 59.14,
+   "end": 61.2,
+   "text": " bien sûr, à travers le contrat de mariage.",
+   "words": [
+    {
+     "start": 59.14,
+     "end": 59.26,
+     "word": " bien",
+     "prob": 0.99910968542099
+    },
+    {
+     "start": 59.26,
+     "end": 59.46,
+     "word": " sûr,",
+     "prob": 0.9999364614486694
+    },
+    {
+     "start": 59.48,
+     "end": 59.6,
+     "word": " à",
+     "prob": 0.9998311996459961
+    },
+    {
+     "start": 59.6,
+     "end": 59.82,
+     "word": " travers",
+     "prob": 0.9999793767929077
+    },
+    {
+     "start": 59.82,
+     "end": 60.2,
+     "word": " le",
+     "prob": 0.9998906850814819
+    },
+    {
+     "start": 60.2,
+     "end": 60.54,
+     "word": " contrat",
+     "prob": 0.999850869178772
+    },
+    {
+     "start": 60.54,
+     "end": 60.72,
+     "word": " de",
+     "prob": 0.9999829530715942
+    },
+    {
+     "start": 60.72,
+     "end": 61.2,
+     "word": " mariage.",
+     "prob": 0.9999674558639526
+    }
+   ]
+  },
+  {
+   "start": 61.24,
+   "end": 66.6,
+   "text": " Donc, on vient moduler nos relations dans l'union, si on veut.",
+   "words": [
+    {
+     "start": 61.24,
+     "end": 61.4,
+     "word": " Donc,",
+     "prob": 0.9981263279914856
+    },
+    {
+     "start": 61.42,
+     "end": 61.54,
+     "word": " on",
+     "prob": 0.9998693466186523
+    },
+    {
+     "start": 61.54,
+     "end": 61.62,
+     "word": " vient",
+     "prob": 0.9979535341262817
+    },
+    {
+     "start": 61.62,
+     "end": 62.26,
+     "word": " moduler",
+     "prob": 0.9947651028633118
+    },
+    {
+     "start": 62.26,
+     "end": 63.28,
+     "word": " nos",
+     "prob": 0.9999029636383057
+    },
+    {
+     "start": 63.28,
+     "end": 63.92,
+     "word": " relations",
+     "prob": 0.9999407529830933
+    },
+    {
+     "start": 63.92,
+     "end": 65.46,
+     "word": " dans",
+     "prob": 0.999372661113739
+    },
+    {
+     "start": 65.46,
+     "end": 65.6,
+     "word": " l",
+     "prob": 0.99997878074646
+    },
+    {
+     "start": 65.6,
+     "end": 65.92,
+     "word": "'union,",
+     "prob": 0.9977425634860992
+    },
+    {
+     "start": 66.08,
+     "end": 66.36,
+     "word": " si",
+     "prob": 0.9741608500480652
+    },
+    {
+     "start": 66.36,
+     "end": 66.48,
+     "word": " on",
+     "prob": 0.9943326711654663
+    },
+    {
+     "start": 66.48,
+     "end": 66.6,
+     "word": " veut.",
+     "prob": 0.9756578803062439
+    }
+   ]
+  },
+  {
+   "start": 67.42,
+   "end": 69.44,
+   "text": " Et pour ceux qui ne veulent pas se marier, en fait,",
+   "words": [
+    {
+     "start": 67.42,
+     "end": 67.82,
+     "word": " Et",
+     "prob": 0.8643361330032349
+    },
+    {
+     "start": 67.82,
+     "end": 67.98,
+     "word": " pour",
+     "prob": 0.9986217021942139
+    },
+    {
+     "start": 67.98,
+     "end": 68.1,
+     "word": " ceux",
+     "prob": 0.9960214495658875
+    },
+    {
+     "start": 68.1,
+     "end": 68.24,
+     "word": " qui",
+     "prob": 0.9999501705169678
+    },
+    {
+     "start": 68.24,
+     "end": 68.34,
+     "word": " ne",
+     "prob": 0.9998670816421509
+    },
+    {
+     "start": 68.34,
+     "end": 68.44,
+     "word": " veulent",
+     "prob": 0.9998537302017212
+    },
+    {
+     "start": 68.44,
+     "end": 68.64,
+     "word": " pas",
+     "prob": 0.9999830722808838
+    },
+    {
+     "start": 68.64,
+     "end": 68.8,
+     "word": " se",
+     "prob": 0.9999737739562988
+    },
+    {
+     "start": 68.8,
+     "end": 69.18,
+     "word": " marier,",
+     "prob": 0.999669075012207
+    },
+    {
+     "start": 69.24,
+     "end": 69.34,
+     "word": " en",
+     "prob": 0.9923874139785767
+    },
+    {
+     "start": 69.34,
+     "end": 69.44,
+     "word": " fait,",
+     "prob": 0.9994227886199951
+    }
+   ]
+  },
+  {
+   "start": 83.24,
+   "end": 87.58,
+   "text": " Donc, se marier vient apporter une protection supplémentaire.",
+   "words": [
+    {
+     "start": 83.24,
+     "end": 83.76,
+     "word": " Donc,",
+     "prob": 0.25506410002708435
+    },
+    {
+     "start": 83.76,
+     "end": 84.28,
+     "word": " se",
+     "prob": 0.8894475102424622
+    },
+    {
+     "start": 84.28,
+     "end": 84.84,
+     "word": " marier",
+     "prob": 0.9990813732147217
+    },
+    {
+     "start": 84.84,
+     "end": 85.68,
+     "word": " vient",
+     "prob": 0.9670236110687256
+    },
+    {
+     "start": 85.68,
+     "end": 86.06,
+     "word": " apporter",
+     "prob": 0.9998205006122589
+    },
+    {
+     "start": 86.06,
+     "end": 86.18,
+     "word": " une",
+     "prob": 0.9998235106468201
+    },
+    {
+     "start": 86.18,
+     "end": 86.54,
+     "word": " protection",
+     "prob": 0.99980229139328
+    },
+    {
+     "start": 86.54,
+     "end": 87.58,
+     "word": " supplémentaire.",
+     "prob": 0.9999021490414938
+    }
+   ]
+  },
+  {
+   "start": 87.58,
+   "end": 92.16,
+   "text": " Parce que quand on choisit notre régime matrimonial, par exemple la séparation de biens,",
+   "words": [
+    {
+     "start": 87.58,
+     "end": 87.8,
+     "word": " Parce",
+     "prob": 0.9917959570884705
+    },
+    {
+     "start": 87.8,
+     "end": 87.94,
+     "word": " que",
+     "prob": 0.9997650980949402
+    },
+    {
+     "start": 87.94,
+     "end": 88.22,
+     "word": " quand",
+     "prob": 0.9743786454200745
+    },
+    {
+     "start": 88.22,
+     "end": 88.32,
+     "word": " on",
+     "prob": 0.9998164772987366
+    },
+    {
+     "start": 88.32,
+     "end": 88.76,
+     "word": " choisit",
+     "prob": 0.9994224905967712
+    },
+    {
+     "start": 88.76,
+     "end": 88.92,
+     "word": " notre",
+     "prob": 0.9997413754463196
+    },
+    {
+     "start": 88.92,
+     "end": 89.42,
+     "word": " régime",
+     "prob": 0.9992002546787262
+    },
+    {
+     "start": 89.42,
+     "end": 90.16,
+     "word": " matrimonial,",
+     "prob": 0.9995572865009308
+    },
+    {
+     "start": 90.18,
+     "end": 90.5,
+     "word": " par",
+     "prob": 0.9994100332260132
+    },
+    {
+     "start": 90.5,
+     "end": 90.76,
+     "word": " exemple",
+     "prob": 0.9999542236328125
+    },
+    {
+     "start": 90.76,
+     "end": 90.98,
+     "word": " la",
+     "prob": 0.9045513272285461
+    },
+    {
+     "start": 90.98,
+     "end": 91.66,
+     "word": " séparation",
+     "prob": 0.9999615748723348
+    },
+    {
+     "start": 91.66,
+     "end": 91.76,
+     "word": " de",
+     "prob": 0.9993762373924255
+    },
+    {
+     "start": 91.76,
+     "end": 92.16,
+     "word": " biens,",
+     "prob": 0.998585432767868
+    }
+   ]
+  },
+  {
+   "start": 92.22,
+   "end": 95.82,
+   "text": " au terme de la séparation de biens, on ne partage pas les dettes.",
+   "words": [
+    {
+     "start": 92.22,
+     "end": 92.74,
+     "word": " au",
+     "prob": 0.6775252819061279
+    },
+    {
+     "start": 92.74,
+     "end": 93.26,
+     "word": " terme",
+     "prob": 0.9987325072288513
+    },
+    {
+     "start": 93.26,
+     "end": 93.36,
+     "word": " de",
+     "prob": 0.9999774694442749
+    },
+    {
+     "start": 93.36,
+     "end": 93.44,
+     "word": " la",
+     "prob": 0.999885082244873
+    },
+    {
+     "start": 93.44,
+     "end": 93.92,
+     "word": " séparation",
+     "prob": 0.9999826351801554
+    },
+    {
+     "start": 93.92,
+     "end": 94.02,
+     "word": " de",
+     "prob": 0.9972766041755676
+    },
+    {
+     "start": 94.02,
+     "end": 94.14,
+     "word": " biens,",
+     "prob": 0.9998631775379181
+    },
+    {
+     "start": 94.2,
+     "end": 94.3,
+     "word": " on",
+     "prob": 0.999826967716217
+    },
+    {
+     "start": 94.3,
+     "end": 94.4,
+     "word": " ne",
+     "prob": 0.9999133348464966
+    },
+    {
+     "start": 94.4,
+     "end": 94.88,
+     "word": " partage",
+     "prob": 0.9997545778751373
+    },
+    {
+     "start": 94.88,
+     "end": 95.1,
+     "word": " pas",
+     "prob": 0.9999020099639893
+    },
+    {
+     "start": 95.1,
+     "end": 95.36,
+     "word": " les",
+     "prob": 0.9995633959770203
+    },
+    {
+     "start": 95.36,
+     "end": 95.82,
+     "word": " dettes.",
+     "prob": 0.9989232420921326
+    }
+   ]
+  }
+ ],
+ "language": "fr"
+}

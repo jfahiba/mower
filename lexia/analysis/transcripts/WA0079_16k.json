@@ -1,0 +1,834 @@
+{
+ "segments": [
+  {
+   "start": 1.08,
+   "end": 12.16,
+   "text": " Donc, l'union parentale se crée selon la loi automatiquement dès qu'on a un enfant commun.",
+   "words": [
+    {
+     "start": 1.08,
+     "end": 2.02,
+     "word": " Donc,",
+     "prob": 0.01682312786579132
+    },
+    {
+     "start": 3.78,
+     "end": 3.94,
+     "word": " l",
+     "prob": 0.7628493309020996
+    },
+    {
+     "start": 3.94,
+     "end": 4.4,
+     "word": "'union",
+     "prob": 0.9992824196815491
+    },
+    {
+     "start": 4.4,
+     "end": 5.2,
+     "word": " parentale",
+     "prob": 0.9960049390792847
+    },
+    {
+     "start": 5.2,
+     "end": 5.96,
+     "word": " se",
+     "prob": 0.9978209733963013
+    },
+    {
+     "start": 5.96,
+     "end": 6.74,
+     "word": " crée",
+     "prob": 0.9996738433837891
+    },
+    {
+     "start": 6.74,
+     "end": 7.38,
+     "word": " selon",
+     "prob": 0.9211238622665405
+    },
+    {
+     "start": 7.38,
+     "end": 7.58,
+     "word": " la",
+     "prob": 0.9999450445175171
+    },
+    {
+     "start": 7.58,
+     "end": 7.9,
+     "word": " loi",
+     "prob": 0.9994359612464905
+    },
+    {
+     "start": 7.9,
+     "end": 9.54,
+     "word": " automatiquement",
+     "prob": 0.9113592505455017
+    },
+    {
+     "start": 9.54,
+     "end": 9.8,
+     "word": " dès",
+     "prob": 0.839881420135498
+    },
+    {
+     "start": 9.8,
+     "end": 9.96,
+     "word": " qu",
+     "prob": 0.9999537467956543
+    },
+    {
+     "start": 9.96,
+     "end": 10.02,
+     "word": "'on",
+     "prob": 0.9999906420707703
+    },
+    {
+     "start": 10.02,
+     "end": 10.22,
+     "word": " a",
+     "prob": 0.9999701976776123
+    },
+    {
+     "start": 10.22,
+     "end": 10.58,
+     "word": " un",
+     "prob": 0.9998633861541748
+    },
+    {
+     "start": 10.58,
+     "end": 11.24,
+     "word": " enfant",
+     "prob": 0.9998795986175537
+    },
+    {
+     "start": 11.24,
+     "end": 12.16,
+     "word": " commun.",
+     "prob": 0.9989435076713562
+    }
+   ]
+  },
+  {
+   "start": 12.4,
+   "end": 27.14,
+   "text": " Donc, l'union parentale vient créer le patrimoine familial, le patrimoine familial qui sont les propriétés où la famille réside.",
+   "words": [
+    {
+     "start": 12.4,
+     "end": 13.12,
+     "word": " Donc,",
+     "prob": 0.8206849098205566
+    },
+    {
+     "start": 13.2,
+     "end": 13.84,
+     "word": " l",
+     "prob": 0.9999735355377197
+    },
+    {
+     "start": 13.84,
+     "end": 13.96,
+     "word": "'union",
+     "prob": 0.9999797344207764
+    },
+    {
+     "start": 13.96,
+     "end": 14.58,
+     "word": " parentale",
+     "prob": 0.9999553561210632
+    },
+    {
+     "start": 14.58,
+     "end": 15.06,
+     "word": " vient",
+     "prob": 0.9998524188995361
+    },
+    {
+     "start": 15.06,
+     "end": 15.5,
+     "word": " créer",
+     "prob": 0.999930739402771
+    },
+    {
+     "start": 15.5,
+     "end": 16.48,
+     "word": " le",
+     "prob": 0.9999419450759888
+    },
+    {
+     "start": 16.48,
+     "end": 17.32,
+     "word": " patrimoine",
+     "prob": 0.9999439120292664
+    },
+    {
+     "start": 17.32,
+     "end": 18.44,
+     "word": " familial,",
+     "prob": 0.9999411702156067
+    },
+    {
+     "start": 18.52,
+     "end": 19.06,
+     "word": " le",
+     "prob": 0.9335717558860779
+    },
+    {
+     "start": 19.06,
+     "end": 19.58,
+     "word": " patrimoine",
+     "prob": 0.9999665021896362
+    },
+    {
+     "start": 19.58,
+     "end": 20.34,
+     "word": " familial",
+     "prob": 0.999966561794281
+    },
+    {
+     "start": 20.34,
+     "end": 20.7,
+     "word": " qui",
+     "prob": 0.9992884397506714
+    },
+    {
+     "start": 20.7,
+     "end": 21.12,
+     "word": " sont",
+     "prob": 0.9986296892166138
+    },
+    {
+     "start": 21.12,
+     "end": 22.1,
+     "word": " les",
+     "prob": 0.9998188614845276
+    },
+    {
+     "start": 22.1,
+     "end": 24.64,
+     "word": " propriétés",
+     "prob": 0.9989827076594034
+    },
+    {
+     "start": 24.64,
+     "end": 25.32,
+     "word": " où",
+     "prob": 0.993286669254303
+    },
+    {
+     "start": 25.32,
+     "end": 25.98,
+     "word": " la",
+     "prob": 0.999897837638855
+    },
+    {
+     "start": 25.98,
+     "end": 26.36,
+     "word": " famille",
+     "prob": 0.9998369216918945
+    },
+    {
+     "start": 26.36,
+     "end": 27.14,
+     "word": " réside.",
+     "prob": 0.9996137917041779
+    }
+   ]
+  },
+  {
+   "start": 27.26,
+   "end": 29.76,
+   "text": " Également, ça peut être d'autres types de biens.",
+   "words": [
+    {
+     "start": 27.26,
+     "end": 28.1,
+     "word": " Également,",
+     "prob": 0.9951993823051453
+    },
+    {
+     "start": 28.1,
+     "end": 28.22,
+     "word": " ça",
+     "prob": 0.9982592463493347
+    },
+    {
+     "start": 28.22,
+     "end": 28.38,
+     "word": " peut",
+     "prob": 0.9998822212219238
+    },
+    {
+     "start": 28.38,
+     "end": 28.48,
+     "word": " être",
+     "prob": 0.9996322393417358
+    },
+    {
+     "start": 28.48,
+     "end": 28.62,
+     "word": " d",
+     "prob": 0.9999300241470337
+    },
+    {
+     "start": 28.62,
+     "end": 28.78,
+     "word": "'autres",
+     "prob": 0.9999716877937317
+    },
+    {
+     "start": 28.78,
+     "end": 29.26,
+     "word": " types",
+     "prob": 0.9997407793998718
+    },
+    {
+     "start": 29.26,
+     "end": 29.5,
+     "word": " de",
+     "prob": 0.9999842643737793
+    },
+    {
+     "start": 29.5,
+     "end": 29.76,
+     "word": " biens.",
+     "prob": 0.99982750415802
+    }
+   ]
+  },
+  {
+   "start": 29.76,
+   "end": 36.42,
+   "text": " On peut parler d'un véhicule automobile qui est utilisé à des fins familiales, par exemple raccompagner les enfants à l'école,",
+   "words": [
+    {
+     "start": 29.76,
+     "end": 29.94,
+     "word": " On",
+     "prob": 0.8683204650878906
+    },
+    {
+     "start": 29.94,
+     "end": 30.06,
+     "word": " peut",
+     "prob": 0.9969049096107483
+    },
+    {
+     "start": 30.06,
+     "end": 30.28,
+     "word": " parler",
+     "prob": 0.9923341274261475
+    },
+    {
+     "start": 30.28,
+     "end": 30.4,
+     "word": " d",
+     "prob": 0.9967790246009827
+    },
+    {
+     "start": 30.4,
+     "end": 30.48,
+     "word": "'un",
+     "prob": 0.9992645382881165
+    },
+    {
+     "start": 30.48,
+     "end": 31.0,
+     "word": " véhicule",
+     "prob": 0.998795747756958
+    },
+    {
+     "start": 31.0,
+     "end": 31.4,
+     "word": " automobile",
+     "prob": 0.9977403879165649
+    },
+    {
+     "start": 31.4,
+     "end": 31.76,
+     "word": " qui",
+     "prob": 0.9593604207038879
+    },
+    {
+     "start": 31.76,
+     "end": 31.8,
+     "word": " est",
+     "prob": 0.9857347011566162
+    },
+    {
+     "start": 31.8,
+     "end": 32.32,
+     "word": " utilisé",
+     "prob": 0.9983320534229279
+    },
+    {
+     "start": 32.32,
+     "end": 32.76,
+     "word": " à",
+     "prob": 0.9742226004600525
+    },
+    {
+     "start": 32.76,
+     "end": 32.96,
+     "word": " des",
+     "prob": 0.9995588660240173
+    },
+    {
+     "start": 32.96,
+     "end": 33.22,
+     "word": " fins",
+     "prob": 0.9987760186195374
+    },
+    {
+     "start": 33.22,
+     "end": 34.38,
+     "word": " familiales,",
+     "prob": 0.9991418123245239
+    },
+    {
+     "start": 34.4,
+     "end": 34.48,
+     "word": " par",
+     "prob": 0.9847031235694885
+    },
+    {
+     "start": 34.48,
+     "end": 34.68,
+     "word": " exemple",
+     "prob": 0.9995396137237549
+    },
+    {
+     "start": 34.68,
+     "end": 35.38,
+     "word": " raccompagner",
+     "prob": 0.7166816890239716
+    },
+    {
+     "start": 35.38,
+     "end": 35.8,
+     "word": " les",
+     "prob": 0.9990605711936951
+    },
+    {
+     "start": 35.8,
+     "end": 36.04,
+     "word": " enfants",
+     "prob": 0.9998822212219238
+    },
+    {
+     "start": 36.04,
+     "end": 36.22,
+     "word": " à",
+     "prob": 0.999356210231781
+    },
+    {
+     "start": 36.22,
+     "end": 36.24,
+     "word": " l",
+     "prob": 0.9999322891235352
+    },
+    {
+     "start": 36.24,
+     "end": 36.42,
+     "word": "'école,",
+     "prob": 0.9998908638954163
+    }
+   ]
+  },
+  {
+   "start": 36.58,
+   "end": 49.86,
+   "text": " ou même un autre bien immobilier, comme un chalet qui est utilisé de façon estivale pour les fêtes de Noël ou des fêtes occasionnelles, ou même des vacances.",
+   "words": [
+    {
+     "start": 36.58,
+     "end": 36.7,
+     "word": " ou",
+     "prob": 0.9994086027145386
+    },
+    {
+     "start": 36.7,
+     "end": 37.06,
+     "word": " même",
+     "prob": 0.9993582367897034
+    },
+    {
+     "start": 37.06,
+     "end": 37.26,
+     "word": " un",
+     "prob": 0.9953913688659668
+    },
+    {
+     "start": 37.26,
+     "end": 37.48,
+     "word": " autre",
+     "prob": 0.9997243285179138
+    },
+    {
+     "start": 37.48,
+     "end": 37.86,
+     "word": " bien",
+     "prob": 0.9990783929824829
+    },
+    {
+     "start": 37.86,
+     "end": 38.98,
+     "word": " immobilier,",
+     "prob": 0.9996815323829651
+    },
+    {
+     "start": 39.0,
+     "end": 39.42,
+     "word": " comme",
+     "prob": 0.9997645020484924
+    },
+    {
+     "start": 39.42,
+     "end": 39.58,
+     "word": " un",
+     "prob": 0.9998570680618286
+    },
+    {
+     "start": 39.58,
+     "end": 39.96,
+     "word": " chalet",
+     "prob": 0.9993853867053986
+    },
+    {
+     "start": 39.96,
+     "end": 40.18,
+     "word": " qui",
+     "prob": 0.9615358710289001
+    },
+    {
+     "start": 40.18,
+     "end": 40.24,
+     "word": " est",
+     "prob": 0.999953031539917
+    },
+    {
+     "start": 40.24,
+     "end": 40.68,
+     "word": " utilisé",
+     "prob": 0.9999292492866516
+    },
+    {
+     "start": 40.68,
+     "end": 40.8,
+     "word": " de",
+     "prob": 0.99958735704422
+    },
+    {
+     "start": 40.8,
+     "end": 41.78,
+     "word": " façon",
+     "prob": 0.9999277591705322
+    },
+    {
+     "start": 41.78,
+     "end": 43.0,
+     "word": " estivale",
+     "prob": 0.9997956156730652
+    },
+    {
+     "start": 43.0,
+     "end": 43.52,
+     "word": " pour",
+     "prob": 0.9917014241218567
+    },
+    {
+     "start": 43.52,
+     "end": 43.98,
+     "word": " les",
+     "prob": 0.8886433839797974
+    },
+    {
+     "start": 43.98,
+     "end": 44.82,
+     "word": " fêtes",
+     "prob": 0.9997694492340088
+    },
+    {
+     "start": 44.82,
+     "end": 44.98,
+     "word": " de",
+     "prob": 0.9999665021896362
+    },
+    {
+     "start": 44.98,
+     "end": 45.48,
+     "word": " Noël",
+     "prob": 0.9993622601032257
+    },
+    {
+     "start": 45.48,
+     "end": 46.2,
+     "word": " ou",
+     "prob": 0.7996066808700562
+    },
+    {
+     "start": 46.2,
+     "end": 46.9,
+     "word": " des",
+     "prob": 0.9914343357086182
+    },
+    {
+     "start": 46.9,
+     "end": 47.64,
+     "word": " fêtes",
+     "prob": 0.9998752176761627
+    },
+    {
+     "start": 47.64,
+     "end": 48.8,
+     "word": " occasionnelles,",
+     "prob": 0.9939756194750468
+    },
+    {
+     "start": 48.82,
+     "end": 49.16,
+     "word": " ou",
+     "prob": 0.9993108510971069
+    },
+    {
+     "start": 49.16,
+     "end": 49.28,
+     "word": " même",
+     "prob": 0.9999802112579346
+    },
+    {
+     "start": 49.28,
+     "end": 49.42,
+     "word": " des",
+     "prob": 0.9998682737350464
+    },
+    {
+     "start": 49.42,
+     "end": 49.86,
+     "word": " vacances.",
+     "prob": 0.9999191761016846
+    }
+   ]
+  },
+  {
+   "start": 49.96,
+   "end": 56.88,
+   "text": " Donc, ce type de bien rentre dans le patrimoine familial, il rentre dans l'union parentale.",
+   "words": [
+    {
+     "start": 49.96,
+     "end": 50.14,
+     "word": " Donc,",
+     "prob": 0.7340909838676453
+    },
+    {
+     "start": 50.16,
+     "end": 50.48,
+     "word": " ce",
+     "prob": 0.9986435770988464
+    },
+    {
+     "start": 50.48,
+     "end": 50.74,
+     "word": " type",
+     "prob": 0.9999359846115112
+    },
+    {
+     "start": 50.74,
+     "end": 50.88,
+     "word": " de",
+     "prob": 0.9999063014984131
+    },
+    {
+     "start": 50.88,
+     "end": 51.06,
+     "word": " bien",
+     "prob": 0.6269946694374084
+    },
+    {
+     "start": 51.06,
+     "end": 51.48,
+     "word": " rentre",
+     "prob": 0.997912734746933
+    },
+    {
+     "start": 51.48,
+     "end": 51.6,
+     "word": " dans",
+     "prob": 0.9999905824661255
+    },
+    {
+     "start": 51.6,
+     "end": 51.66,
+     "word": " le",
+     "prob": 0.9999150037765503
+    },
+    {
+     "start": 51.66,
+     "end": 52.22,
+     "word": " patrimoine",
+     "prob": 0.9999420046806335
+    },
+    {
+     "start": 52.22,
+     "end": 52.86,
+     "word": " familial,",
+     "prob": 0.9994453489780426
+    },
+    {
+     "start": 52.94,
+     "end": 53.0,
+     "word": " il",
+     "prob": 0.999614953994751
+    },
+    {
+     "start": 53.0,
+     "end": 53.5,
+     "word": " rentre",
+     "prob": 0.9998506009578705
+    },
+    {
+     "start": 53.5,
+     "end": 53.66,
+     "word": " dans",
+     "prob": 0.999984860420227
+    },
+    {
+     "start": 53.66,
+     "end": 53.86,
+     "word": " l",
+     "prob": 0.9999595880508423
+    },
+    {
+     "start": 53.86,
+     "end": 54.16,
+     "word": "'union",
+     "prob": 0.9997256100177765
+    },
+    {
+     "start": 54.16,
+     "end": 56.88,
+     "word": " parentale.",
+     "prob": 0.979535311460495
+    }
+   ]
+  },
+  {
+   "start": 56.88,
+   "end": 62.6,
+   "text": " Donc, ça crée également des droits et des obligations au moment où on va avoir un enfant commun.",
+   "words": [
+    {
+     "start": 56.88,
+     "end": 57.56,
+     "word": " Donc,",
+     "prob": 0.670067310333252
+    },
+    {
+     "start": 57.6,
+     "end": 57.72,
+     "word": " ça",
+     "prob": 0.9598036408424377
+    },
+    {
+     "start": 57.72,
+     "end": 58.18,
+     "word": " crée",
+     "prob": 0.9959369599819183
+    },
+    {
+     "start": 58.18,
+     "end": 58.4,
+     "word": " également",
+     "prob": 0.984528124332428
+    },
+    {
+     "start": 58.4,
+     "end": 58.66,
+     "word": " des",
+     "prob": 0.9994445443153381
+    },
+    {
+     "start": 58.66,
+     "end": 58.88,
+     "word": " droits",
+     "prob": 0.9990712106227875
+    },
+    {
+     "start": 58.88,
+     "end": 58.88,
+     "word": " et",
+     "prob": 0.9970719814300537
+    },
+    {
+     "start": 58.88,
+     "end": 59.0,
+     "word": " des",
+     "prob": 0.9996613264083862
+    },
+    {
+     "start": 59.0,
+     "end": 59.72,
+     "word": " obligations",
+     "prob": 0.9995900988578796
+    },
+    {
+     "start": 59.72,
+     "end": 60.36,
+     "word": " au",
+     "prob": 0.9938821792602539
+    },
+    {
+     "start": 60.36,
+     "end": 60.64,
+     "word": " moment",
+     "prob": 0.999841570854187
+    },
+    {
+     "start": 60.64,
+     "end": 60.92,
+     "word": " où",
+     "prob": 0.9987390637397766
+    },
+    {
+     "start": 60.92,
+     "end": 61.04,
+     "word": " on",
+     "prob": 0.9805758595466614
+    },
+    {
+     "start": 61.04,
+     "end": 61.12,
+     "word": " va",
+     "prob": 0.9983806610107422
+    },
+    {
+     "start": 61.12,
+     "end": 61.28,
+     "word": " avoir",
+     "prob": 0.9996131062507629
+    },
+    {
+     "start": 61.28,
+     "end": 61.6,
+     "word": " un",
+     "prob": 0.9997368454933167
+    },
+    {
+     "start": 61.6,
+     "end": 61.96,
+     "word": " enfant",
+     "prob": 0.9995317459106445
+    },
+    {
+     "start": 61.96,
+     "end": 62.6,
+     "word": " commun.",
+     "prob": 0.9978786706924438
+    }
+   ]
+  }
+ ],
+ "language": "fr"
+}

@@ -1,0 +1,18 @@
+# Dépôt public : aucune photo, vidéo ni voix de la personne filmée
+sources/
+photos/
+remotion_media/
+work/
+analysis/audio/
+analysis/contact/
+analysis/*.png
+analysis/*.log
+remotion/node_modules/
+remotion/out/
+remotion/public/media
+remotion/public/audio/
+remotion/public/photos/
+remotion/public/grain/
+deliverables/*.mp4
+deliverables/*.jpg
+transcribe2.py
