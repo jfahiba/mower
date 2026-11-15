@@ -1,0 +1,816 @@
+{
+ "file": "analysis/audio/WA0048_16k.wav",
+ "model": "large-v3",
+ "language": "fr",
+ "language_probability": 0.9976168870925903,
+ "duration": 47.8084375,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.82,
+   "text": " Femme entrepreneur, femme battante, femme de foi.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.72,
+     "word": " Femme",
+     "prob": 0.8275400201479594
+    },
+    {
+     "start": 0.72,
+     "end": 1.1,
+     "word": " entrepreneur,",
+     "prob": 0.9661497473716736
+    },
+    {
+     "start": 1.54,
+     "end": 2.16,
+     "word": " femme",
+     "prob": 0.9957757592201233
+    },
+    {
+     "start": 2.16,
+     "end": 2.64,
+     "word": " battante,",
+     "prob": 0.9970205426216125
+    },
+    {
+     "start": 2.82,
+     "end": 3.4,
+     "word": " femme",
+     "prob": 0.9995726943016052
+    },
+    {
+     "start": 3.4,
+     "end": 3.56,
+     "word": " de",
+     "prob": 0.9997960925102234
+    },
+    {
+     "start": 3.56,
+     "end": 3.82,
+     "word": " foi.",
+     "prob": 0.9984719157218933
+    }
+   ]
+  },
+  {
+   "start": 4.0,
+   "end": 7.06,
+   "text": " L'année 2026, ça a été quelque chose.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 4.0,
+     "end": 4.6,
+     "word": " L",
+     "prob": 0.9997549653053284
+    },
+    {
+     "start": 4.6,
+     "end": 4.72,
+     "word": "'année",
+     "prob": 0.9999545216560364
+    },
+    {
+     "start": 4.72,
+     "end": 5.36,
+     "word": " 2026,",
+     "prob": 0.9945038259029388
+    },
+    {
+     "start": 5.66,
+     "end": 6.24,
+     "word": " ça",
+     "prob": 0.9986525177955627
+    },
+    {
+     "start": 6.24,
+     "end": 6.3,
+     "word": " a",
+     "prob": 0.9998797178268433
+    },
+    {
+     "start": 6.3,
+     "end": 6.44,
+     "word": " été",
+     "prob": 0.9999819993972778
+    },
+    {
+     "start": 6.44,
+     "end": 6.68,
+     "word": " quelque",
+     "prob": 0.9998856782913208
+    },
+    {
+     "start": 6.68,
+     "end": 7.06,
+     "word": " chose.",
+     "prob": 0.9999890327453613
+    }
+   ]
+  },
+  {
+   "start": 7.74,
+   "end": 11.74,
+   "text": " Tu as porté ta famille, tu as porté ton entreprise, tu as porté ta foi.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 7.74,
+     "end": 7.96,
+     "word": " Tu",
+     "prob": 0.9986502528190613
+    },
+    {
+     "start": 7.96,
+     "end": 8.06,
+     "word": " as",
+     "prob": 0.9969323873519897
+    },
+    {
+     "start": 8.06,
+     "end": 8.48,
+     "word": " porté",
+     "prob": 0.9131539762020111
+    },
+    {
+     "start": 8.48,
+     "end": 8.64,
+     "word": " ta",
+     "prob": 0.9998774528503418
+    },
+    {
+     "start": 8.64,
+     "end": 9.0,
+     "word": " famille,",
+     "prob": 0.9999716281890869
+    },
+    {
+     "start": 9.16,
+     "end": 9.48,
+     "word": " tu",
+     "prob": 0.9888910055160522
+    },
+    {
+     "start": 9.48,
+     "end": 9.52,
+     "word": " as",
+     "prob": 0.9999644756317139
+    },
+    {
+     "start": 9.52,
+     "end": 9.8,
+     "word": " porté",
+     "prob": 0.9999870657920837
+    },
+    {
+     "start": 9.8,
+     "end": 9.94,
+     "word": " ton",
+     "prob": 0.999854326248169
+    },
+    {
+     "start": 9.94,
+     "end": 10.48,
+     "word": " entreprise,",
+     "prob": 0.9999326467514038
+    },
+    {
+     "start": 10.66,
+     "end": 11.02,
+     "word": " tu",
+     "prob": 0.9999208450317383
+    },
+    {
+     "start": 11.02,
+     "end": 11.06,
+     "word": " as",
+     "prob": 0.9999451637268066
+    },
+    {
+     "start": 11.06,
+     "end": 11.38,
+     "word": " porté",
+     "prob": 0.9999794960021973
+    },
+    {
+     "start": 11.38,
+     "end": 11.5,
+     "word": " ta",
+     "prob": 0.9999606609344482
+    },
+    {
+     "start": 11.5,
+     "end": 11.74,
+     "word": " foi.",
+     "prob": 0.9997369647026062
+    }
+   ]
+  },
+  {
+   "start": 11.9,
+   "end": 15.08,
+   "text": " Mais cette fois-ci, c'est à ton tour de te laisser porter.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 11.9,
+     "end": 12.42,
+     "word": " Mais",
+     "prob": 0.9988928437232971
+    },
+    {
+     "start": 12.42,
+     "end": 12.58,
+     "word": " cette",
+     "prob": 0.9999319314956665
+    },
+    {
+     "start": 12.58,
+     "end": 12.78,
+     "word": " fois",
+     "prob": 0.9999808073043823
+    },
+    {
+     "start": 12.78,
+     "end": 12.98,
+     "word": "-ci,",
+     "prob": 0.9999704360961914
+    },
+    {
+     "start": 13.08,
+     "end": 13.54,
+     "word": " c",
+     "prob": 0.9999420642852783
+    },
+    {
+     "start": 13.54,
+     "end": 13.7,
+     "word": "'est",
+     "prob": 0.9999995827674866
+    },
+    {
+     "start": 13.7,
+     "end": 13.7,
+     "word": " à",
+     "prob": 0.9999014139175415
+    },
+    {
+     "start": 13.7,
+     "end": 13.88,
+     "word": " ton",
+     "prob": 0.9999822378158569
+    },
+    {
+     "start": 13.88,
+     "end": 14.24,
+     "word": " tour",
+     "prob": 0.9999676942825317
+    },
+    {
+     "start": 14.24,
+     "end": 14.48,
+     "word": " de",
+     "prob": 0.9999606609344482
+    },
+    {
+     "start": 14.48,
+     "end": 14.54,
+     "word": " te",
+     "prob": 0.9998897314071655
+    },
+    {
+     "start": 14.54,
+     "end": 14.72,
+     "word": " laisser",
+     "prob": 0.9999673366546631
+    },
+    {
+     "start": 14.72,
+     "end": 15.08,
+     "word": " porter.",
+     "prob": 0.9998703002929688
+    }
+   ]
+  },
+  {
+   "start": 15.24,
+   "end": 20.0,
+   "text": " Lors de notre souper annuel 2026, le souper de Noël.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 15.24,
+     "end": 15.72,
+     "word": " Lors",
+     "prob": 0.9980907738208771
+    },
+    {
+     "start": 15.72,
+     "end": 15.82,
+     "word": " de",
+     "prob": 0.9999338388442993
+    },
+    {
+     "start": 15.82,
+     "end": 16.02,
+     "word": " notre",
+     "prob": 0.9999723434448242
+    },
+    {
+     "start": 16.02,
+     "end": 16.4,
+     "word": " souper",
+     "prob": 0.9894969463348389
+    },
+    {
+     "start": 16.4,
+     "end": 17.06,
+     "word": " annuel",
+     "prob": 0.9998456835746765
+    },
+    {
+     "start": 17.06,
+     "end": 17.84,
+     "word": " 2026,",
+     "prob": 0.9994938969612122
+    },
+    {
+     "start": 18.22,
+     "end": 18.56,
+     "word": " le",
+     "prob": 0.9999212026596069
+    },
+    {
+     "start": 18.56,
+     "end": 19.12,
+     "word": " souper",
+     "prob": 0.9981745779514313
+    },
+    {
+     "start": 19.12,
+     "end": 19.42,
+     "word": " de",
+     "prob": 0.9999703168869019
+    },
+    {
+     "start": 19.42,
+     "end": 20.0,
+     "word": " Noël.",
+     "prob": 0.9998767077922821
+    }
+   ]
+  },
+  {
+   "start": 20.08,
+   "end": 26.06,
+   "text": " Donc, je t'invite à venir célébrer, à venir rendre grâce avec des femmes qui entreprennent,",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 20.08,
+     "end": 20.58,
+     "word": " Donc,",
+     "prob": 0.9789324402809143
+    },
+    {
+     "start": 20.62,
+     "end": 20.68,
+     "word": " je",
+     "prob": 0.9999617338180542
+    },
+    {
+     "start": 20.68,
+     "end": 20.82,
+     "word": " t",
+     "prob": 0.999927282333374
+    },
+    {
+     "start": 20.82,
+     "end": 21.18,
+     "word": "'invite",
+     "prob": 0.9999289512634277
+    },
+    {
+     "start": 21.18,
+     "end": 21.32,
+     "word": " à",
+     "prob": 0.9999681711196899
+    },
+    {
+     "start": 21.32,
+     "end": 21.58,
+     "word": " venir",
+     "prob": 0.9999706745147705
+    },
+    {
+     "start": 21.58,
+     "end": 22.28,
+     "word": " célébrer,",
+     "prob": 0.9998479783535004
+    },
+    {
+     "start": 22.28,
+     "end": 22.62,
+     "word": " à",
+     "prob": 0.9998877048492432
+    },
+    {
+     "start": 22.62,
+     "end": 22.92,
+     "word": " venir",
+     "prob": 0.9999843835830688
+    },
+    {
+     "start": 22.92,
+     "end": 23.16,
+     "word": " rendre",
+     "prob": 0.9991289973258972
+    },
+    {
+     "start": 23.16,
+     "end": 23.58,
+     "word": " grâce",
+     "prob": 0.9991158843040466
+    },
+    {
+     "start": 23.58,
+     "end": 24.24,
+     "word": " avec",
+     "prob": 0.9536356329917908
+    },
+    {
+     "start": 24.24,
+     "end": 24.44,
+     "word": " des",
+     "prob": 0.9999479055404663
+    },
+    {
+     "start": 24.44,
+     "end": 24.82,
+     "word": " femmes",
+     "prob": 0.9998531341552734
+    },
+    {
+     "start": 24.82,
+     "end": 25.34,
+     "word": " qui",
+     "prob": 0.9997721314430237
+    },
+    {
+     "start": 25.34,
+     "end": 26.06,
+     "word": " entreprennent,",
+     "prob": 0.9957274049520493
+    }
+   ]
+  },
+  {
+   "start": 26.08,
+   "end": 28.24,
+   "text": " mais surtout des femmes qui comprennent.",
+   "avg_logprob": -0.12264917448714928,
+   "no_speech_prob": 0.08807748556137085,
+   "words": [
+    {
+     "start": 26.08,
+     "end": 26.42,
+     "word": " mais",
+     "prob": 0.9997217059135437
+    },
+    {
+     "start": 26.42,
+     "end": 26.68,
+     "word": " surtout",
+     "prob": 0.9999343156814575
+    },
+    {
+     "start": 26.68,
+     "end": 26.82,
+     "word": " des",
+     "prob": 0.9992179870605469
+    },
+    {
+     "start": 26.82,
+     "end": 27.16,
+     "word": " femmes",
+     "prob": 0.9999158382415771
+    },
+    {
+     "start": 27.16,
+     "end": 27.68,
+     "word": " qui",
+     "prob": 0.9999229907989502
+    },
+    {
+     "start": 27.68,
+     "end": 28.24,
+     "word": " comprennent.",
+     "prob": 0.999946673711141
+    }
+   ]
+  },
+  {
+   "start": 28.24,
+   "end": 33.88,
+   "text": " Lors d'une soirée chaleureuse, lors d'une soirée pleine de témoignages, pleine d'émotions.",
+   "avg_logprob": -0.06932500306140171,
+   "no_speech_prob": 0.04014686495065689,
+   "words": [
+    {
+     "start": 28.24,
+     "end": 28.76,
+     "word": " Lors",
+     "prob": 0.7403198182582855
+    },
+    {
+     "start": 28.76,
+     "end": 28.9,
+     "word": " d",
+     "prob": 0.9999306201934814
+    },
+    {
+     "start": 28.9,
+     "end": 28.94,
+     "word": "'une",
+     "prob": 0.9999684691429138
+    },
+    {
+     "start": 28.94,
+     "end": 29.26,
+     "word": " soirée",
+     "prob": 0.9999760389328003
+    },
+    {
+     "start": 29.26,
+     "end": 30.06,
+     "word": " chaleureuse,",
+     "prob": 0.9996889233589172
+    },
+    {
+     "start": 30.1,
+     "end": 30.5,
+     "word": " lors",
+     "prob": 0.8811731338500977
+    },
+    {
+     "start": 30.5,
+     "end": 30.62,
+     "word": " d",
+     "prob": 0.9999477863311768
+    },
+    {
+     "start": 30.62,
+     "end": 30.66,
+     "word": "'une",
+     "prob": 0.9999832510948181
+    },
+    {
+     "start": 30.66,
+     "end": 31.12,
+     "word": " soirée",
+     "prob": 0.9999808073043823
+    },
+    {
+     "start": 31.12,
+     "end": 31.38,
+     "word": " pleine",
+     "prob": 0.9994611442089081
+    },
+    {
+     "start": 31.38,
+     "end": 31.54,
+     "word": " de",
+     "prob": 0.9999315738677979
+    },
+    {
+     "start": 31.54,
+     "end": 32.32,
+     "word": " témoignages,",
+     "prob": 0.9999684393405914
+    },
+    {
+     "start": 32.34,
+     "end": 32.86,
+     "word": " pleine",
+     "prob": 0.995764970779419
+    },
+    {
+     "start": 32.86,
+     "end": 33.02,
+     "word": " d",
+     "prob": 0.999910831451416
+    },
+    {
+     "start": 33.02,
+     "end": 33.88,
+     "word": "'émotions.",
+     "prob": 0.9987495094537735
+    }
+   ]
+  },
+  {
+   "start": 34.0,
+   "end": 38.58,
+   "text": " Ne viens pas seule, viens accompagnée d'une sœur, d'une amie.",
+   "avg_logprob": -0.06932500306140171,
+   "no_speech_prob": 0.04014686495065689,
+   "words": [
+    {
+     "start": 34.0,
+     "end": 34.58,
+     "word": " Ne",
+     "prob": 0.9945725798606873
+    },
+    {
+     "start": 34.58,
+     "end": 34.8,
+     "word": " viens",
+     "prob": 0.9966363906860352
+    },
+    {
+     "start": 34.8,
+     "end": 34.96,
+     "word": " pas",
+     "prob": 0.9999749660491943
+    },
+    {
+     "start": 34.96,
+     "end": 35.26,
+     "word": " seule,",
+     "prob": 0.15912608802318573
+    },
+    {
+     "start": 35.4,
+     "end": 35.94,
+     "word": " viens",
+     "prob": 0.9996707439422607
+    },
+    {
+     "start": 35.94,
+     "end": 36.64,
+     "word": " accompagnée",
+     "prob": 0.9038438002268473
+    },
+    {
+     "start": 36.64,
+     "end": 37.02,
+     "word": " d",
+     "prob": 0.7475231289863586
+    },
+    {
+     "start": 37.02,
+     "end": 37.24,
+     "word": "'une",
+     "prob": 0.9999891519546509
+    },
+    {
+     "start": 37.24,
+     "end": 37.74,
+     "word": " sœur,",
+     "prob": 0.8554005026817322
+    },
+    {
+     "start": 37.76,
+     "end": 38.12,
+     "word": " d",
+     "prob": 0.9999938011169434
+    },
+    {
+     "start": 38.12,
+     "end": 38.22,
+     "word": "'une",
+     "prob": 0.999532550573349
+    },
+    {
+     "start": 38.22,
+     "end": 38.58,
+     "word": " amie.",
+     "prob": 0.9995831847190857
+    }
+   ]
+  },
+  {
+   "start": 39.34,
+   "end": 44.5,
+   "text": " Les places partent rapidement, donc n'hésite pas à t'inscrire aussi rapidement.",
+   "avg_logprob": -0.06932500306140171,
+   "no_speech_prob": 0.04014686495065689,
+   "words": [
+    {
+     "start": 39.07,
+     "end": 39.36,
+     "word": " Les",
+     "prob": 0.9982964396476746
+    },
+    {
+     "start": 39.36,
+     "end": 39.64,
+     "word": " places",
+     "prob": 0.9922480583190918
+    },
+    {
+     "start": 39.64,
+     "end": 40.42,
+     "word": " partent",
+     "prob": 0.9992736876010895
+    },
+    {
+     "start": 40.42,
+     "end": 40.86,
+     "word": " rapidement,",
+     "prob": 0.9999127388000488
+    },
+    {
+     "start": 41.06,
+     "end": 41.64,
+     "word": " donc",
+     "prob": 0.9993428587913513
+    },
+    {
+     "start": 41.64,
+     "end": 41.8,
+     "word": " n",
+     "prob": 0.9998852014541626
+    },
+    {
+     "start": 41.8,
+     "end": 42.04,
+     "word": "'hésite",
+     "prob": 0.999889592329661
+    },
+    {
+     "start": 42.04,
+     "end": 42.26,
+     "word": " pas",
+     "prob": 0.9999959468841553
+    },
+    {
+     "start": 42.26,
+     "end": 42.66,
+     "word": " à",
+     "prob": 0.9998774528503418
+    },
+    {
+     "start": 42.66,
+     "end": 42.72,
+     "word": " t",
+     "prob": 0.9996569156646729
+    },
+    {
+     "start": 42.72,
+     "end": 43.22,
+     "word": "'inscrire",
+     "prob": 0.9999176263809204
+    },
+    {
+     "start": 43.22,
+     "end": 43.7,
+     "word": " aussi",
+     "prob": 0.9996397495269775
+    },
+    {
+     "start": 43.7,
+     "end": 44.5,
+     "word": " rapidement.",
+     "prob": 0.9997361302375793
+    }
+   ]
+  },
+  {
+   "start": 44.86,
+   "end": 45.54,
+   "text": " À très vite!",
+   "avg_logprob": -0.06932500306140171,
+   "no_speech_prob": 0.04014686495065689,
+   "words": [
+    {
+     "start": 44.86,
+     "end": 45.16,
+     "word": " À",
+     "prob": 0.8571571707725525
+    },
+    {
+     "start": 45.16,
+     "end": 45.34,
+     "word": " très",
+     "prob": 0.9999827146530151
+    },
+    {
+     "start": 45.34,
+     "end": 45.54,
+     "word": " vite!",
+     "prob": 0.9999794960021973
+    }
+   ]
+  }
+ ]
+}

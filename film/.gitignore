@@ -1,0 +1,24 @@
+# Médias lourds, personnels ou régénérables (voir pipeline/run_all.sh)
+sources/
+work/
+.venv/
+analysis/audio/
+analysis/grade_test/
+analysis/frames/
+remotion/node_modules/
+remotion/out/
+remotion/public/media/
+remotion/public/audio/
+remotion/public/grain/
+deliverables/*.mp4
+deliverables/*.mov
+deliverables/_qc_*
+__pycache__/
+
+# Dépôt public : aucune image ni voix de la personne filmée n'est versionnée
+analysis/contact/
+analysis/wb/
+analysis/transcripts/*
+!analysis/transcripts/WA0048_16k.json
+analysis/*.log
+deliverables/*.jpg
