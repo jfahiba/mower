@@ -16,3 +16,4 @@ remotion/public/grain/
 deliverables/*.mp4
 deliverables/*.jpg
 transcribe2.py
+__pycache__/
