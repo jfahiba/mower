@@ -1,0 +1,422 @@
+{
+ "C01_4K.mp4": {
+  "size_mb": 110.7,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 866,
+  "duration": 28.87,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C01_WEB.mp4": {
+  "size_mb": 23.3,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 866,
+  "duration": 28.87,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C02_4K.mp4": {
+  "size_mb": 107.9,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 884,
+  "duration": 29.47,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C02_WEB.mp4": {
+  "size_mb": 23.1,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 884,
+  "duration": 29.47,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C03_4K.mp4": {
+  "size_mb": 143.0,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 1091,
+  "duration": 36.37,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C03_WEB.mp4": {
+  "size_mb": 29.0,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 1091,
+  "duration": 36.37,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C04_4K.mp4": {
+  "size_mb": 86.0,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 766,
+  "duration": 25.53,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C04_WEB.mp4": {
+  "size_mb": 17.7,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 766,
+  "duration": 25.53,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C05_4K.mp4": {
+  "size_mb": 99.7,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 834,
+  "duration": 27.8,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C05_WEB.mp4": {
+  "size_mb": 20.3,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 834,
+  "duration": 27.8,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C06_4K.mp4": {
+  "size_mb": 100.7,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 833,
+  "duration": 27.77,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C06_WEB.mp4": {
+  "size_mb": 21.3,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 833,
+  "duration": 27.77,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C07_4K.mp4": {
+  "size_mb": 100.4,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 872,
+  "duration": 29.07,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C07_WEB.mp4": {
+  "size_mb": 20.1,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 872,
+  "duration": 29.07,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C08_4K.mp4": {
+  "size_mb": 115.7,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 919,
+  "duration": 30.63,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C08_WEB.mp4": {
+  "size_mb": 24.8,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 919,
+  "duration": 30.63,
+  "lufs": -14.0,
+  "true_peak": -0.9,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C09_4K.mp4": {
+  "size_mb": 160.0,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 1208,
+  "duration": 40.27,
+  "lufs": -14.0,
+  "true_peak": -1.0,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C09_WEB.mp4": {
+  "size_mb": 34.9,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 1208,
+  "duration": 40.27,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C10_4K.mp4": {
+  "size_mb": 106.9,
+  "codec": "hevc Main 10",
+  "res": "2160x3840",
+  "frames": 822,
+  "duration": 27.4,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ },
+ "C10_WEB.mp4": {
+  "size_mb": 22.5,
+  "codec": "h264 High",
+  "res": "1080x1920",
+  "frames": 822,
+  "duration": 27.4,
+  "lufs": -14.0,
+  "true_peak": -1.1,
+  "offset_ms": 0.0,
+  "black": [],
+  "checks": {
+   "frames": true,
+   "fps": true,
+   "ratio": true,
+   "rec709": true,
+   "audio": true,
+   "loudness": true,
+   "no_black": true,
+   "sync": true
+  }
+ }
+}
