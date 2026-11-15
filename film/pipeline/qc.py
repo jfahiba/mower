@@ -92,6 +92,34 @@ def voice_sync():
     return res
 
 
+def video_alignment(path):
+    """Décalage (images) entre l'image du film et message.mp4 sur 4 tronçons du message
+    (signature de mouvement : énergie des différences inter-images)."""
+    def motion(src, t0, n):
+        b = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{t0:.4f}", "-i", str(src), "-frames:v", str(n), "-vf",
+                            "fps=30,scale=180:320,crop=120:200:30:40", "-f", "rawvideo", "-pix_fmt", "gray", "-"],
+                           capture_output=True).stdout
+        a = np.frombuffer(b, np.uint8).reshape(-1, 200, 120).astype(np.float32)
+        return np.abs(np.diff(a, axis=0)).mean(axis=(1, 2))
+    fr = sorted(f["tlFrom"] for f in TL["framing"])
+    out = []
+    for t0, n in [(625, 110), (1050, 185), (1250, 150), (1550, 160)]:
+        nxt = min([f for f in fr if f > t0] + [10 ** 9])
+        n = min(n, nxt - t0 - 2)
+        seg = next(sg for sg in TL["message"]["segments"] if sg["tlFrom"] <= t0 < sg["tlTo"])
+        src0 = seg["srcFrom"] + (t0 - seg["tlFrom"])
+        film = motion(path, t0 / FPS, n)
+        best = None
+        for lag in range(-15, 16):
+            m = motion(ROOT / "remotion/public/media/message.mp4", (src0 + lag) / FPS, n)
+            k = min(len(m), len(film))
+            c = float(np.corrcoef(film[:k], m[:k])[0, 1])
+            if best is None or c > best[1] + 1e-9:
+                best = (lag, c)
+        out.append({"tl": [t0, t0 + n], "lag_frames": best[0], "corr": round(best[1], 3)})
+    return out
+
+
 def check_srt(path, duration):
     txt = path.read_text(encoding="utf-8")
     blocks = [b for b in txt.strip().split("\n\n") if b.strip()]
@@ -167,6 +195,7 @@ def main():
         report["files"][name] = rec
     report["srt"] = check_srt(D / "FINAL_SUBTITLES.srt", EXPECTED_FRAMES / FPS)
     report["voice_sync_ms"] = voice_sync()
+    report["video_alignment"] = video_alignment(D / "FINAL_WEB.mp4")
     (D / "qc_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1))
     for name, rec in report["files"].items():
         v, a, l = rec["video"], rec["audio"], rec["loudness"]
@@ -179,6 +208,7 @@ def main():
         for k, val in rec["checks"].items():
             print(f"   [{'OK' if (val is True or (isinstance(val, float) and val < 0.05)) else '!!'}] {k} = {val}")
     print(f"\n== Synchronisation voix / source WA0048 par segment (ms) : {report['voice_sync_ms']}")
+    print(f"== Alignement image film / message.mp4 (images) : {report['video_alignment']}")
     s = report["srt"]
     print(f"\n== SRT : {s['cues']} sous-titres, {s['first']} … {s['last']}, problèmes : {s['issues'] or 'aucun'}")
 

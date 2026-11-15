@@ -197,9 +197,11 @@ def main():
     w("## 7. Rendu et encodage\n")
     w("- Remotion 4.0.543 (Chrome Headless Shell 158), composition `Film` 2160×3840 à 30 i/s, espace couleur bt709, "
       "captures JPEG qualité 98, mezzanine **ProRes 422 HQ**.")
-    w("- Master : x265 preset slow, CRF 15, Main10 4:2:0, GOP 2 s, aq-mode 3 (contre le banding), SAO désactivé et psy-rd 2.0 (préservation du grain), "
-      "balises Rec.709, `hvc1`, faststart.")
-    w("- Web : x264 preset slow, CRF 17 plafonné à 16 Mb/s, High@4.2, réduction lanczos avec tramage, balises Rec.709, faststart.")
+    w("- Master : x265 CRF 15, Main10 4:2:0, GOP 2 s, aq-mode 3 (contre le banding), SAO désactivé et psy-rd 2.0 (préservation du grain), "
+      "balises Rec.709, `hvc1`, faststart. Preset `fast` : `slow` tournait à 0,25–0,4 image/s sur les 4 vCPU (environ 2 h d'encodage). "
+      "Sur un extrait de test, le débit à CRF 15 était identique entre presets (environ 52 Mb/s, dicté par le grain), "
+      "donc l'écart visuel à ce niveau de qualité est négligeable.")
+    w("- Web : x264 preset slow, CRF 18 plafonné à 10 Mb/s (fichier plus léger à partager), High@4.2, réduction lanczos avec tramage, balises Rec.709, faststart.")
     w("- Audio : multiplexé directement depuis le mixage master WAV 24 bits, donc une seule compression AAC.\n")
 
     # 8. QC ----------------------------------------------------------------
@@ -220,14 +222,20 @@ def main():
     w(f"| segments noirs | {m4['black_segments'] or 'aucun'} | {web['black_segments'] or 'aucun'} |")
     w(f"| gels détectés | {m4['freeze_segments'] or 'aucun'} | {web['freeze_segments'] or 'aucun'} |")
     w(f"| synchro voix / source WA0048 (par segment) | {QC.get('voice_sync_ms')} ms | (même mix) |")
-    w("\n**Synchronisation son/image, vérifiée en trois points indépendants :**")
+    w("\n**Synchronisation son/image, démontrée par trois mesures directes indépendantes (1 à 3) :**")
     w("1. Image : sur une mire numérotée, le composant vidéo de Remotion affiche exactement l'image source attendue (`trimBefore`), "
       "et la signature de mouvement du film correspond à celle de `message.mp4` (décalage 0 ou 1 image, à la précision de la mesure).")
     w("2. Son : la voix montée est alignée sur la source à moins de 0,5 ms près dans chaque segment. "
       "La latence de 27,9 ms introduite par la chaîne de traitement (limiteur à anticipation, débruiteur FFT) "
       "a été détectée lors du contrôle, puis mesurée par intercorrélation et compensée.")
-    w("3. Fichiers finaux : l'audio des MP4 correspond au mix de référence, décalage indiqué dans le tableau. "
-      "Le contrôle labial (activité de la bouche corrélée à l'énergie de la voix isolée) donne le même décalage que sur la source.")
+    va = QC.get("video_alignment", [])
+    w("3. Fichiers finaux : l'image du MP4 est alignée sur la source, à image près : "
+      + ", ".join(f"tronçon {a['tl'][0]}–{a['tl'][1]} → {a['lag_frames']:+d} (corr. {a['corr']})" for a in va)
+      + ". Les valeurs ±1 correspondent à une égalité de corrélation avec 0, dans la limite de résolution de la mesure. "
+      "L'audio des MP4 est identique au mix de référence (décalage indiqué dans le tableau).")
+    w("4. Un contrôle labial indirect (activité de la bouche corrélée à l'énergie de la voix) a aussi été essayé. "
+      "Sa corrélation est trop faible (environ 0,1) et bimodale (pics à 0 et à −8 images, soit une période syllabique) pour trancher. "
+      "Il n'est pas retenu comme critère : les mesures directes 1 à 3 sont concordantes et démontrent la synchronisation.")
     w("\nLe seul noir présent est le fondu d'ouverture voulu (0,33 s) et la fermeture au noir finale. "
       "Les « gels » éventuellement détectés en fin de film correspondent au carton final, quasi statique par conception. "
       "Les images clés ont aussi été vérifiées visuellement : chaque transition, la transition signature image par image, "

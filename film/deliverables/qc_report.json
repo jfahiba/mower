@@ -1,0 +1,173 @@
+{
+ "expected_frames": 1878,
+ "expected_duration_s": 62.6,
+ "files": {
+  "FINAL_MASTER_4K.mp4": {
+   "size_mb": 409.0,
+   "duration_s": 62.6,
+   "bitrate_mbps": 52.27,
+   "video": {
+    "codec": "hevc",
+    "profile": "Main 10",
+    "tag": "hvc1",
+    "width": 2160,
+    "height": 3840,
+    "pix_fmt": "yuv420p10le",
+    "fps": "30/1",
+    "frames": 1878,
+    "color": [
+     "bt709",
+     "bt709",
+     "bt709",
+     "tv"
+    ],
+    "start": 0.0,
+    "duration": 62.6
+   },
+   "audio": {
+    "codec": "aac",
+    "profile": "LC",
+    "sample_rate": 48000,
+    "channels": 2,
+    "bitrate_kbps": 311,
+    "start": 0.0,
+    "duration": 62.6
+   },
+   "loudness": {
+    "integrated_lufs": -14.0,
+    "lra_lu": 5.1,
+    "true_peak_dbtp": -1.0
+   },
+   "black_segments": [],
+   "freeze_segments": [
+    [
+     61.1333,
+     61.6667
+    ],
+    [
+     61.6667,
+     62.2
+    ]
+   ],
+   "audio_offset_ms": 0.0,
+   "audio_ref_correlation": 1.0,
+   "checks": {
+    "frames_ok": true,
+    "fps_ok": true,
+    "aspect_9_16": true,
+    "rec709_tags": true,
+    "audio_48k_stereo": true,
+    "loudness_ok": true,
+    "av_duration_delta_s": 0.0,
+    "no_unexpected_black": true,
+    "freezes_only_on_end_card": true,
+    "audio_in_sync": true
+   }
+  },
+  "FINAL_WEB.mp4": {
+   "size_mb": 77.6,
+   "duration_s": 62.6,
+   "bitrate_mbps": 9.92,
+   "video": {
+    "codec": "h264",
+    "profile": "High",
+    "tag": "avc1",
+    "width": 1080,
+    "height": 1920,
+    "pix_fmt": "yuv420p",
+    "fps": "30/1",
+    "frames": 1878,
+    "color": [
+     "bt709",
+     "bt709",
+     "bt709",
+     "tv"
+    ],
+    "start": 0.0,
+    "duration": 62.6
+   },
+   "audio": {
+    "codec": "aac",
+    "profile": "LC",
+    "sample_rate": 48000,
+    "channels": 2,
+    "bitrate_kbps": 197,
+    "start": 0.0,
+    "duration": 62.6
+   },
+   "loudness": {
+    "integrated_lufs": -14.0,
+    "lra_lu": 5.1,
+    "true_peak_dbtp": -1.0
+   },
+   "black_segments": [],
+   "freeze_segments": [
+    [
+     61.2667,
+     61.8333
+    ]
+   ],
+   "audio_offset_ms": 0.0,
+   "audio_ref_correlation": 0.998,
+   "checks": {
+    "frames_ok": true,
+    "fps_ok": true,
+    "aspect_9_16": true,
+    "rec709_tags": true,
+    "audio_48k_stereo": true,
+    "loudness_ok": true,
+    "av_duration_delta_s": 0.0,
+    "no_unexpected_black": true,
+    "freezes_only_on_end_card": true,
+    "audio_in_sync": true
+   }
+  }
+ },
+ "srt": {
+  "cues": 23,
+  "issues": [],
+  "first": "00:00:14,002 --> 00:00:14,873",
+  "last": "00:00:57,093 --> 00:00:58,440"
+ },
+ "voice_sync_ms": [
+  0.02,
+  -0.31,
+  -0.02,
+  0.04,
+  0.04
+ ],
+ "video_alignment": [
+  {
+   "tl": [
+    625,
+    735
+   ],
+   "lag_frames": 0,
+   "corr": 0.996
+  },
+  {
+   "tl": [
+    1050,
+    1235
+   ],
+   "lag_frames": -1,
+   "corr": 0.97
+  },
+  {
+   "tl": [
+    1250,
+    1400
+   ],
+   "lag_frames": 0,
+   "corr": 0.902
+  },
+  {
+   "tl": [
+    1550,
+    1710
+   ],
+   "lag_frames": 0,
+   "corr": 0.906
+  }
+ ]
+}

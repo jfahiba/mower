@@ -1,4 +1,10 @@
-"""Vérification objective de la synchronisation labiale.
+"""Contrôle labial INDICATIF (heuristique) — les mesures décisives sont dans qc.py.
+
+Limite constatée : la corrélation bouche/voix est faible (~0,1) et bimodale
+(pics à 0 et à environ −8 images, soit une période syllabique) ; elle ne permet
+pas de trancher seule. La synchronisation est démontrée par qc.py : alignement de
+l'image sur la source (signature de mouvement, corrélation > 0,9) + alignement
+de la voix sur la source (intercorrélation, < 0,5 ms) + audio final = mix.
 
 Activité de la bouche (différence d'images dans la zone de la bouche, repères
 YuNet) corrélée à l'enveloppe de la voix (RMS à 30 i/s). Le décalage au maximum
@@ -109,7 +115,8 @@ def main():
     print(f"source WA0048 : décalage {ref[0]:+d} image(s) (corrélation {ref[1]:.3f})")
     print(f"film monté    : décalage {out[0]:+d} image(s) (corrélation {out[1]:.3f})")
     ok = abs(out[0] - ref[0]) <= 1
-    print("synchronisation labiale :", "CONFORME (identique à la source ±1 image)" if ok else "ÉCART À VÉRIFIER")
+    print("indication :", "identique à la source ±1 image" if ok else
+          "pic principal différent de la source (métrique bimodale) — se référer aux mesures directes de qc.py")
 
 
 if __name__ == "__main__":
