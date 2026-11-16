@@ -6,8 +6,8 @@
 
 | Livrable | Format | Taille | Débit |
 |---|---|---|---|
-| `FINAL_MASTER_4K.mp4` | HEVC Main 10 2160×3840 yuv420p10le, AAC 311 kb/s 48 kHz | 407.3 Mo | 52.06 Mb/s |
-| `FINAL_WEB.mp4` | H264 High 1080×1920, AAC 197 kb/s 48 kHz | 77.6 Mo | 9.92 Mb/s |
+| `FINAL_MASTER_4K.mp4` | HEVC Main 10 2160×3840 yuv420p10le, AAC 311 kb/s 48 kHz | 459.1 Mo | 58.67 Mb/s |
+| `FINAL_WEB.mp4` | H264 High 1080×1920, AAC 197 kb/s 48 kHz | 77.9 Mo | 9.96 Mb/s |
 | `FINAL_SUBTITLES.srt` | SRT UTF-8, 23 sous-titres | | |
 | `PLANCHE_CONTACT.jpg` | planche des séquences retenues | | |
 | `../remotion/` | projet Remotion complet, modifiable | | |
@@ -161,7 +161,7 @@ Le LUT 3D `grade/film_look.cube` (33³, calculé en Oklab) applique une courbe f
 | durée | 62.6 s | 62.6 s |
 | décalage audio / mix de référence | 0.0 ms | 0.0 ms |
 | segments noirs | aucun | aucun |
-| gels détectés | [[61.2333, 61.9]] | [[61.2667, 61.9]] |
+| gels détectés | [[61.2333, 61.8]] | [[61.2667, 61.8]] |
 | synchro voix / source WA0048 (par segment) | [0.02, -0.31, -0.02, 0.04, 0.04] ms | (même mix) |
 
 **Synchronisation son/image, démontrée par trois mesures directes indépendantes (1 à 3) :**
