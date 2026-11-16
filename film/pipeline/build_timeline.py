@@ -287,6 +287,11 @@ def main():
     segs, msg_end = build_message(video_in_tl)
     words = load_words()
     cues = build_cues(words, segs)
+    # forme féminine affichée (la prononciation est identique) : « entrepreneure »
+    for c in cues:
+        c["text"] = c["text"].replace("entrepreneur", "entrepreneure")
+        for w in c["words"]:
+            w["text"] = w["text"].replace("entrepreneur", "entrepreneure")
     for c in cues:
         c["emphasis"] = emphasis_ranges(c["text"])
         c["lineBreak"] = burn_line_break(c["text"])

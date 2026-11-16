@@ -122,7 +122,7 @@ CHAPTERS = [
 
 # Mots mis en valeur dans les sous-titres (accent doré + italique serif).
 EMPHASIS = [
-    "entrepreneur", "battante", "foi", "2026", "famille", "entreprise",
+    "entrepreneure", "battante", "foi", "2026", "famille", "entreprise",
     "à ton tour", "te laisser porter", "souper de Noël", "célébrer", "rendre grâce",
     "entreprennent", "comprennent", "chaleureuse", "témoignages", "émotions",
     "Ne viens pas seule", "sœur", "amie", "partent rapidement", "t'inscrire",
@@ -133,7 +133,7 @@ EMPHASIS = [
 # t_src en temps source du message.
 TITLE_MOMENTS = [
     dict(kind="triad", t_src_start=0.30, t_src_end=4.10,
-         lines=[("Femme", "entrepreneur", 0.40), ("Femme", "battante", 2.11), ("Femme", "de foi", 3.34)]),
+         lines=[("Femme", "entrepreneure", 0.40), ("Femme", "battante", 2.11), ("Femme", "de foi", 3.34)]),
     dict(kind="event", t_src_start=17.95, t_src_end=21.30,
          kicker="Souper annuel · 2026", title="Le souper de Noël"),
     dict(kind="signoff", t_src_start=44.95, t_src_end=47.30, title="À très vite !"),
@@ -144,7 +144,7 @@ END_CARD = dict(
     duration=3.6,
     kicker="Souper annuel · 2026",
     title="Le souper de Noël",
-    tagline="Femme entrepreneur · Femme battante · Femme de foi",
+    tagline="Femme entrepreneure · Femme battante · Femme de foi",
     cta="Les places partent rapidement — inscris-toi.",
     details="",  # ex. « Samedi 13 décembre · Montréal » — vide = non affiché
 )

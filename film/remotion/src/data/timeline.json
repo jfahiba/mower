@@ -1415,7 +1415,7 @@
    "lines": [
     {
      "a": "Femme",
-     "b": "entrepreneur",
+     "b": "entrepreneure",
      "tl": 415
     },
     {
@@ -1452,7 +1452,7 @@
  ],
  "cues": [
   {
-   "text": "Femme entrepreneur,",
+   "text": "Femme entrepreneure,",
    "words": [
     {
      "text": "Femme",
@@ -1460,7 +1460,7 @@
      "end": 424.6
     },
     {
-     "text": "entrepreneur,",
+     "text": "entrepreneure,",
      "start": 424.6,
      "end": 436.0
     }
@@ -2374,7 +2374,7 @@
   "duration": 3.6,
   "kicker": "Souper annuel · 2026",
   "title": "Le souper de Noël",
-  "tagline": "Femme entrepreneur · Femme battante · Femme de foi",
+  "tagline": "Femme entrepreneure · Femme battante · Femme de foi",
   "cta": "Les places partent rapidement — inscris-toi.",
   "details": "",
   "tlFrom": 1770,

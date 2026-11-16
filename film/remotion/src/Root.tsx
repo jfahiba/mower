@@ -24,7 +24,7 @@ export const RemotionRoot: React.FC = () => {
           endCard: {
             kicker: "Souper annuel · 2026",
             title: "Le souper de Noël",
-            tagline: "Femme entrepreneur · Femme battante · Femme de foi",
+            tagline: "Femme entrepreneure · Femme battante · Femme de foi",
             cta: "Les places partent rapidement — inscris-toi.",
             details: "",
           },
@@ -46,7 +46,7 @@ export const RemotionRoot: React.FC = () => {
           endCard: {
             kicker: "Souper annuel · 2026",
             title: "Le souper de Noël",
-            tagline: "Femme entrepreneur · Femme battante · Femme de foi",
+            tagline: "Femme entrepreneure · Femme battante · Femme de foi",
             cta: "Les places partent rapidement — inscris-toi.",
             details: "",
           },
