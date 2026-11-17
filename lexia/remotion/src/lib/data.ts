@@ -23,6 +23,7 @@ export type Capsule = {
   cues: Cue[];
   photos: { file: string; tlFrom: number; dur: number }[];
   framing: { tlFrom: number; scale: number; push: number }[];
+  chapters?: { n: number; tlFrom: number; title: string }[];
 };
 export type Contact = { firm: string; firm2: string; person: string; email: string; phone: string; offices: string[] };
 

@@ -1,7 +1,7 @@
 import { Audio } from "@remotion/media";
 import React from "react";
 import { AbsoluteFill, Composition, staticFile } from "remotion";
-import { Bug, EndCard, Finish, Photos, QuestionCards, TitleCard } from "./components/Overlays";
+import { Bug, ChapterFlash, EndCard, Finish, Photos, QuestionCards, TitleCard } from "./components/Overlays";
 import { Subtitles } from "./components/Subtitles";
 import { Talk } from "./components/Talk";
 import { capsuleById, DATA } from "./lib/data";
@@ -21,6 +21,7 @@ export const Capsule: React.FC<{ capsuleId: string; burnSubtitles: boolean }> = 
       {burnSubtitles ? <Subtitles cap={cap} /> : null}
       <Photos cap={cap} />
       <EndCard cap={cap} />
+      <ChapterFlash cap={cap} />
       <Audio src={staticFile(`audio/${cap.id}.wav`)} />
     </AbsoluteFill>
   );

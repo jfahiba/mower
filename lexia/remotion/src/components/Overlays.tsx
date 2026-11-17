@@ -23,26 +23,43 @@ const Kicker: React.FC<{ text: string; color?: string; size?: number }> = ({ tex
   <div style={{ fontFamily: FONTS.sans, fontWeight: 600, fontSize: size, letterSpacing: "0.3em", textTransform: "uppercase", color }}>{text}</div>
 );
 
-/** Titre d'ouverture (haut de cadre) : « Me Rania Arbi répond à vos questions » + question. */
+/** Cartons titre (haut de cadre) : un par capsule, ou un par chapitre dans le montage complet. */
 export const TitleCard: React.FC<{ cap: Capsule }> = ({ cap }) => {
   const f = useCurrentFrame();
-  const to = Math.max(100, ...cap.questions.filter((q) => q.tlFrom < 30).map((q) => Math.min(q.tlTo, 150)));
-  const o = inOut(f, 4, to, 14, 12);
-  if (o <= 0) return null;
-  const p = prog(f, 4, 18);
+  const chapters = cap.chapters ?? [{ n: 0, tlFrom: 0, title: cap.title }];
+  const total = cap.chapters ? cap.chapters.length : 0;
   return (
-    <AbsoluteFill style={{ alignItems: "center", top: 300 }}>
-      <div style={{ opacity: o, transform: `translateY(${mix(-40, 0, p)}px)`, width: W - 240 }}>
-        <Glass style={{ textAlign: "center" }}>
-          <Kicker text="Me Rania Arbi répond à vos questions" size={44} />
-          <div style={{ height: 22 }} />
-          <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 128, lineHeight: 1.08, color: COLORS.white, textShadow: TEXT_SHADOW }}>
-            {cap.title}
-          </div>
-        </Glass>
-      </div>
-    </AbsoluteFill>
+    <>
+      {chapters.map((ch) => {
+        const qEnd = Math.max(0, ...cap.questions.filter((q) => q.tlFrom >= ch.tlFrom && q.tlFrom < ch.tlFrom + 30).map((q) => Math.min(q.tlTo, ch.tlFrom + 150)));
+        const from = ch.tlFrom + 4;
+        const to = Math.max(ch.tlFrom + 100, qEnd);
+        const o = inOut(f, from, to, 14, 12);
+        if (o <= 0) return null;
+        const p = prog(f, from, 18);
+        return (
+          <AbsoluteFill key={ch.tlFrom} style={{ alignItems: "center", top: 300 }}>
+            <div style={{ opacity: o, transform: `translateY(${mix(-40, 0, p)}px)`, width: W - 240 }}>
+              <Glass style={{ textAlign: "center" }}>
+                <Kicker text={total ? `Me Rania Arbi répond · ${String(ch.n).padStart(2, "0")}/${String(total).padStart(2, "0")}` : "Me Rania Arbi répond à vos questions"} size={44} />
+                <div style={{ height: 22 }} />
+                <div style={{ fontFamily: FONTS.serif, fontStyle: "italic", fontSize: 128, lineHeight: 1.08, color: COLORS.white, textShadow: TEXT_SHADOW }}>{ch.title}</div>
+              </Glass>
+            </div>
+          </AbsoluteFill>
+        );
+      })}
+    </>
   );
+};
+
+/** Flash lumineux aux changements de chapitre (montage complet). */
+export const ChapterFlash: React.FC<{ cap: Capsule }> = ({ cap }) => {
+  const f = useCurrentFrame();
+  const b = (cap.chapters ?? []).find((c) => c.tlFrom > 0 && f >= c.tlFrom - 1 && f < c.tlFrom + 8);
+  if (!b) return null;
+  const o = 0.55 * (1 - prog(f, b.tlFrom - 1, 8, easeOut));
+  return <AbsoluteFill style={{ backgroundColor: "#EAF6FF", mixBlendMode: "screen", opacity: o }} />;
 };
 
 /** Question posée hors champ : carton en bas de cadre pendant la question. */
@@ -74,7 +91,9 @@ export const QuestionCards: React.FC<{ cap: Capsule }> = ({ cap }) => {
 /** Logo discret en haut à gauche pendant la capsule. */
 export const Bug: React.FC<{ cap: Capsule }> = ({ cap }) => {
   const f = useCurrentFrame();
-  const o = inOut(f, 96, cap.bodyEnd - 8, 16, 12) * 0.92;
+  // masqué pendant les cartons de chapitre (montage complet)
+  const hide = Math.max(0, ...(cap.chapters ?? []).filter((c) => c.tlFrom > 0).map((c) => inOut(f, c.tlFrom - 2, c.tlFrom + 112, 8, 12)));
+  const o = inOut(f, 96, cap.bodyEnd - 8, 16, 12) * 0.92 * (1 - hide);
   if (o <= 0) return null;
   return <Img src={staticFile("brand/lexia_logo_x3.png")} style={{ position: "absolute", left: 90, top: 300, width: 300, height: 300, opacity: o, filter: "drop-shadow(0 8px 24px rgba(0,0,0,0.35))" }} />;
 };

@@ -234,9 +234,42 @@ def build(cap):
                 durationInFrames=body + OUTRO - 12, questions=qs, cues=cue_objs, photos=photos, framing=framing)
 
 
+GAP = 18  # images de respiration entre deux chapitres (transition + carton)
+
+
+def build_full(caps):
+    """Montage unique : les capsules officielles bout à bout (sans le bêtisier C10),
+    un carton de chapitre et une transition dynamique à chaque nouveau sujet,
+    un seul carton final."""
+    full = dict(id="FULL", title="Me Rania Arbi répond à vos questions", short="Le montage complet",
+                segments=[], questions=[], cues=[], photos=[], framing=[], chapters=[])
+    off = 0
+    for n, c in enumerate(caps, 1):
+        sh = lambda f: round(f + off, 2)
+        full["chapters"].append(dict(n=n, tlFrom=off, title=c["title"]))
+        for s in c["segments"]:
+            full["segments"].append(dict(s, tlFrom=s["tlFrom"] + off, tlTo=s["tlTo"] + off))
+        for q in c["questions"]:
+            full["questions"].append(dict(q, tlFrom=q["tlFrom"] + off, tlTo=q["tlTo"] + off))
+        for cue in c["cues"]:
+            full["cues"].append(dict(cue, start=sh(cue["start"]), end=sh(cue["end"]), displayStart=sh(cue["displayStart"]),
+                                     displayEnd=sh(cue["displayEnd"]),
+                                     words=[dict(w, start=sh(w["start"]), end=sh(w["end"])) for w in cue["words"]]))
+        for ph in c["photos"]:
+            full["photos"].append(dict(ph, tlFrom=ph["tlFrom"] + off))
+        for fr in c["framing"]:
+            full["framing"].append(dict(fr, tlFrom=fr["tlFrom"] + off))
+        off += c["bodyEnd"]
+    full["bodyEnd"] = off
+    full["durationInFrames"] = off + OUTRO - 12
+    return full
+
+
 def main():
+    caps = [build(c) for c in CAPSULES]
+    full = build_full([c for c in caps if c["id"] != "C10"])
     data = dict(fps=FPS, width=2160, height=3840, contact=CONTACT, outroPhoto=f"photos/{OUTRO_PHOTO}",
-                capsules=[build(c) for c in CAPSULES])
+                capsules=caps + [full])
     out = ROOT / "remotion/src/data/capsules.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, ensure_ascii=False, indent=1))

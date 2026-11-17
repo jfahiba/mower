@@ -4780,6 +4780,4304 @@
      "push": 0.025
     }
    ]
+  },
+  {
+   "id": "FULL",
+   "title": "Me Rania Arbi répond à vos questions",
+   "short": "Le montage complet",
+   "segments": [
+    {
+     "src": "WA0078",
+     "srcFrom": 14,
+     "srcTo": 262,
+     "tlFrom": 0,
+     "tlTo": 248,
+     "cx": 0.504,
+     "cy": 0.347
+    },
+    {
+     "src": "WA0078",
+     "srcFrom": 1032,
+     "srcTo": 1392,
+     "tlFrom": 248,
+     "tlTo": 608,
+     "cx": 0.498,
+     "cy": 0.326
+    },
+    {
+     "src": "WA0078",
+     "srcFrom": 1406,
+     "srcTo": 1526,
+     "tlFrom": 608,
+     "tlTo": 728,
+     "cx": 0.452,
+     "cy": 0.327
+    },
+    {
+     "src": "WA0078",
+     "srcFrom": 286,
+     "srcTo": 1032,
+     "tlFrom": 728,
+     "tlTo": 1474,
+     "cx": 0.487,
+     "cy": 0.34
+    },
+    {
+     "src": "WA0076",
+     "srcFrom": 0,
+     "srcTo": 953,
+     "tlFrom": 1474,
+     "tlTo": 2427,
+     "cx": 0.482,
+     "cy": 0.339
+    },
+    {
+     "src": "WA0077",
+     "srcFrom": 0,
+     "srcTo": 628,
+     "tlFrom": 2427,
+     "tlTo": 3055,
+     "cx": 0.499,
+     "cy": 0.365
+    },
+    {
+     "src": "WA0077",
+     "srcFrom": 618,
+     "srcTo": 1314,
+     "tlFrom": 3055,
+     "tlTo": 3751,
+     "cx": 0.461,
+     "cy": 0.342
+    },
+    {
+     "src": "WA0077",
+     "srcFrom": 1311,
+     "srcTo": 2006,
+     "tlFrom": 3751,
+     "tlTo": 4446,
+     "cx": 0.47,
+     "cy": 0.328
+    },
+    {
+     "src": "WA0077",
+     "srcFrom": 2130,
+     "srcTo": 2475,
+     "tlFrom": 4446,
+     "tlTo": 4791,
+     "cx": 0.481,
+     "cy": 0.357
+    },
+    {
+     "src": "WA0077",
+     "srcFrom": 2494,
+     "srcTo": 2883,
+     "tlFrom": 4791,
+     "tlTo": 5180,
+     "cx": 0.48,
+     "cy": 0.36
+    },
+    {
+     "src": "WA0079",
+     "srcFrom": 29,
+     "srcTo": 47,
+     "tlFrom": 5180,
+     "tlTo": 5198,
+     "cx": 0.492,
+     "cy": 0.285
+    },
+    {
+     "src": "WA0079",
+     "srcFrom": 60,
+     "srcTo": 823,
+     "tlFrom": 5198,
+     "tlTo": 5961,
+     "cx": 0.54,
+     "cy": 0.314
+    },
+    {
+     "src": "WA0079",
+     "srcFrom": 816,
+     "srcTo": 1886,
+     "tlFrom": 5961,
+     "tlTo": 7031,
+     "cx": 0.501,
+     "cy": 0.319
+    }
+   ],
+   "questions": [
+    {
+     "tlFrom": 584,
+     "tlTo": 608,
+     "text": "Vous êtes ?"
+    },
+    {
+     "tlFrom": 1474,
+     "tlTo": 1525,
+     "text": "Que fait-on des documents après le mariage ?"
+    },
+    {
+     "tlFrom": 2427,
+     "tlTo": 2767,
+     "text": "Pourquoi c'est important de faire célébrer son mariage, plutôt que de rester conjoints de fait ? Ça change quoi au quotidien ?"
+    },
+    {
+     "tlFrom": 4446,
+     "tlTo": 4791,
+     "text": "Pour ceux qui ne veulent pas se marier, quels conseils leur donner ? Quels avantages à se marier au Québec, avec des enfants ou des biens ?"
+    }
+   ],
+   "cues": [
+    {
+     "text": "Donc, nous venons de célébrer un mariage et donc,",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 3.7,
+       "end": 22.3
+      },
+      {
+       "text": "nous",
+       "start": 22.3,
+       "end": 42.7
+      },
+      {
+       "text": "venons",
+       "start": 42.7,
+       "end": 51.7
+      },
+      {
+       "text": "de",
+       "start": 51.7,
+       "end": 56.5
+      },
+      {
+       "text": "célébrer",
+       "start": 56.5,
+       "end": 85.9
+      },
+      {
+       "text": "un",
+       "start": 85.9,
+       "end": 91.3
+      },
+      {
+       "text": "mariage",
+       "start": 91.3,
+       "end": 119.5
+      },
+      {
+       "text": "et",
+       "start": 119.5,
+       "end": 136.3
+      },
+      {
+       "text": "donc,",
+       "start": 136.3,
+       "end": 147.1
+      }
+     ],
+     "start": 3.7,
+     "end": 147.1,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+     ],
+     "lineBreak": 5,
+     "displayStart": 1.7,
+     "displayEnd": 144.1
+    },
+    {
+     "text": "sceller l’union de deux belles personnes.",
+     "words": [
+      {
+       "text": "sceller",
+       "start": 147.1,
+       "end": 171.1
+      },
+      {
+       "text": "l’union",
+       "start": 171.1,
+       "end": 181.9
+      },
+      {
+       "text": "de",
+       "start": 181.9,
+       "end": 193.3
+      },
+      {
+       "text": "deux",
+       "start": 193.3,
+       "end": 210.1
+      },
+      {
+       "text": "belles",
+       "start": 210.1,
+       "end": 222.1
+      },
+      {
+       "text": "personnes.",
+       "start": 222.1,
+       "end": 239.5
+      }
+     ],
+     "start": 147.1,
+     "end": 239.5,
+     "emphasis": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 145.1,
+     "displayEnd": 248.9
+    },
+    {
+     "text": "Et aujourd’hui,",
+     "words": [
+      {
+       "text": "Et",
+       "start": 251.9,
+       "end": 262.1
+      },
+      {
+       "text": "aujourd’hui,",
+       "start": 262.1,
+       "end": 275.9
+      }
+     ],
+     "start": 251.9,
+     "end": 275.9,
+     "emphasis": [
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 249.9,
+     "displayEnd": 272.9
+    },
+    {
+     "text": "nous venons formellement confirmer",
+     "words": [
+      {
+       "text": "nous",
+       "start": 275.9,
+       "end": 279.5
+      },
+      {
+       "text": "venons",
+       "start": 279.5,
+       "end": 296.3
+      },
+      {
+       "text": "formellement",
+       "start": 296.3,
+       "end": 349.1
+      },
+      {
+       "text": "confirmer",
+       "start": 349.1,
+       "end": 375.5
+      }
+     ],
+     "start": 275.9,
+     "end": 375.5,
+     "emphasis": [
+      false,
+      false,
+      true,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 273.9,
+     "displayEnd": 372.5
+    },
+    {
+     "text": "le tout avec la célébration de mariage.",
+     "words": [
+      {
+       "text": "le",
+       "start": 375.5,
+       "end": 378.5
+      },
+      {
+       "text": "tout",
+       "start": 378.5,
+       "end": 386.9
+      },
+      {
+       "text": "avec",
+       "start": 386.9,
+       "end": 404.9
+      },
+      {
+       "text": "la",
+       "start": 404.9,
+       "end": 412.7
+      },
+      {
+       "text": "célébration",
+       "start": 412.7,
+       "end": 436.7
+      },
+      {
+       "text": "de",
+       "start": 436.7,
+       "end": 442.7
+      },
+      {
+       "text": "mariage.",
+       "start": 442.7,
+       "end": 450.5
+      }
+     ],
+     "start": 375.5,
+     "end": 450.5,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 373.5,
+     "displayEnd": 464.3
+    },
+    {
+     "text": "Donc, le début de leur union au terme de la loi.",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 467.3,
+       "end": 479.3
+      },
+      {
+       "text": "le",
+       "start": 480.5,
+       "end": 485.3
+      },
+      {
+       "text": "début",
+       "start": 485.3,
+       "end": 494.9
+      },
+      {
+       "text": "de",
+       "start": 494.9,
+       "end": 499.7
+      },
+      {
+       "text": "leur",
+       "start": 499.7,
+       "end": 504.5
+      },
+      {
+       "text": "union",
+       "start": 504.5,
+       "end": 525.5
+      },
+      {
+       "text": "au",
+       "start": 525.5,
+       "end": 536.9
+      },
+      {
+       "text": "terme",
+       "start": 536.9,
+       "end": 562.7
+      },
+      {
+       "text": "de",
+       "start": 562.7,
+       "end": 568.1
+      },
+      {
+       "text": "la",
+       "start": 568.1,
+       "end": 572.9
+      },
+      {
+       "text": "loi.",
+       "start": 572.9,
+       "end": 578.9
+      }
+     ],
+     "start": 467.3,
+     "end": 578.9,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 465.3,
+     "displayEnd": 596.9
+    },
+    {
+     "text": "Maître Arbi pour Lexia Notaires",
+     "words": [
+      {
+       "text": "Maître",
+       "start": 612.9,
+       "end": 620.7
+      },
+      {
+       "text": "Arbi",
+       "start": 620.7,
+       "end": 634.5
+      },
+      {
+       "text": "pour",
+       "start": 634.5,
+       "end": 648.3
+      },
+      {
+       "text": "Lexia",
+       "start": 648.3,
+       "end": 667.5
+      },
+      {
+       "text": "Notaires",
+       "start": 667.5,
+       "end": 689.1
+      }
+     ],
+     "start": 612.9,
+     "end": 689.1,
+     "emphasis": [
+      true,
+      true,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 610.9,
+     "displayEnd": 686.1
+    },
+    {
+     "text": "et Services juridiques.",
+     "words": [
+      {
+       "text": "et",
+       "start": 689.1,
+       "end": 690.9
+      },
+      {
+       "text": "Services",
+       "start": 690.9,
+       "end": 696.3
+      },
+      {
+       "text": "juridiques.",
+       "start": 696.3,
+       "end": 719.1
+      }
+     ],
+     "start": 689.1,
+     "end": 719.1,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 687.1,
+     "displayEnd": 727
+    },
+    {
+     "text": "Précédemment, l’union a été, donc,",
+     "words": [
+      {
+       "text": "Précédemment,",
+       "start": 731.5,
+       "end": 754.3
+      },
+      {
+       "text": "l’union",
+       "start": 755.5,
+       "end": 765.1
+      },
+      {
+       "text": "a",
+       "start": 765.1,
+       "end": 781.3
+      },
+      {
+       "text": "été,",
+       "start": 781.3,
+       "end": 802.9
+      },
+      {
+       "text": "donc,",
+       "start": 826.3,
+       "end": 831.7
+      }
+     ],
+     "start": 731.5,
+     "end": 831.7,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 1,
+     "displayStart": 729.5,
+     "displayEnd": 829.3
+    },
+    {
+     "text": "antérieurement à l’union,",
+     "words": [
+      {
+       "text": "antérieurement",
+       "start": 832.3,
+       "end": 853.9
+      },
+      {
+       "text": "à",
+       "start": 853.9,
+       "end": 855.7
+      },
+      {
+       "text": "l’union,",
+       "start": 855.7,
+       "end": 864.1
+      }
+     ],
+     "start": 832.3,
+     "end": 864.1,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 1,
+     "displayStart": 830.3,
+     "displayEnd": 865.3
+    },
+    {
+     "text": "on a également signé un contrat",
+     "words": [
+      {
+       "text": "on",
+       "start": 868.3,
+       "end": 880.9
+      },
+      {
+       "text": "a",
+       "start": 880.9,
+       "end": 887.5
+      },
+      {
+       "text": "également",
+       "start": 887.5,
+       "end": 902.5
+      },
+      {
+       "text": "signé",
+       "start": 902.5,
+       "end": 916.9
+      },
+      {
+       "text": "un",
+       "start": 916.9,
+       "end": 919.3
+      },
+      {
+       "text": "contrat",
+       "start": 919.3,
+       "end": 931.3
+      }
+     ],
+     "start": 868.3,
+     "end": 931.3,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 866.3,
+     "displayEnd": 928.3
+    },
+    {
+     "text": "de mariage qui doit aussi, au terme de la loi,",
+     "words": [
+      {
+       "text": "de",
+       "start": 931.3,
+       "end": 936.1
+      },
+      {
+       "text": "mariage",
+       "start": 936.1,
+       "end": 955.3
+      },
+      {
+       "text": "qui",
+       "start": 955.3,
+       "end": 975.1
+      },
+      {
+       "text": "doit",
+       "start": 975.1,
+       "end": 982.9
+      },
+      {
+       "text": "aussi,",
+       "start": 982.9,
+       "end": 1015.3
+      },
+      {
+       "text": "au",
+       "start": 1018.9,
+       "end": 1024.9
+      },
+      {
+       "text": "terme",
+       "start": 1024.9,
+       "end": 1033.9
+      },
+      {
+       "text": "de",
+       "start": 1033.9,
+       "end": 1038.1
+      },
+      {
+       "text": "la",
+       "start": 1038.1,
+       "end": 1041.7
+      },
+      {
+       "text": "loi,",
+       "start": 1041.7,
+       "end": 1048.3
+      }
+     ],
+     "start": 931.3,
+     "end": 1048.3,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 929.3,
+     "displayEnd": 1048.3
+    },
+    {
+     "text": "être signé, conclu avant la célébration de mariage.",
+     "words": [
+      {
+       "text": "être",
+       "start": 1051.3,
+       "end": 1062.7
+      },
+      {
+       "text": "signé,",
+       "start": 1062.7,
+       "end": 1098.1
+      },
+      {
+       "text": "conclu",
+       "start": 1098.1,
+       "end": 1113.1
+      },
+      {
+       "text": "avant",
+       "start": 1113.1,
+       "end": 1128.7
+      },
+      {
+       "text": "la",
+       "start": 1128.7,
+       "end": 1143.1
+      },
+      {
+       "text": "célébration",
+       "start": 1143.1,
+       "end": 1160.5
+      },
+      {
+       "text": "de",
+       "start": 1160.5,
+       "end": 1171.9
+      },
+      {
+       "text": "mariage.",
+       "start": 1171.9,
+       "end": 1195.9
+      }
+     ],
+     "start": 1051.3,
+     "end": 1195.9,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 1049.3,
+     "displayEnd": 1195.9
+    },
+    {
+     "text": "Donc, les époux ont pu établir",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 1198.9,
+       "end": 1213.3
+      },
+      {
+       "text": "les",
+       "start": 1215.1,
+       "end": 1217.5
+      },
+      {
+       "text": "époux",
+       "start": 1217.5,
+       "end": 1226.5
+      },
+      {
+       "text": "ont",
+       "start": 1226.5,
+       "end": 1229.5
+      },
+      {
+       "text": "pu",
+       "start": 1229.5,
+       "end": 1236.1
+      },
+      {
+       "text": "établir",
+       "start": 1236.1,
+       "end": 1253.5
+      }
+     ],
+     "start": 1198.9,
+     "end": 1253.5,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 1196.9,
+     "displayEnd": 1250.5
+    },
+    {
+     "text": "leur régime matrimonial.",
+     "words": [
+      {
+       "text": "leur",
+       "start": 1253.5,
+       "end": 1272.7
+      },
+      {
+       "text": "régime",
+       "start": 1272.7,
+       "end": 1294.9
+      },
+      {
+       "text": "matrimonial.",
+       "start": 1294.9,
+       "end": 1315.3
+      }
+     ],
+     "start": 1253.5,
+     "end": 1315.3,
+     "emphasis": [
+      false,
+      true,
+      true
+     ],
+     "lineBreak": -1,
+     "displayStart": 1251.5,
+     "displayEnd": 1312.3
+    },
+    {
+     "text": "Donc, ils ont pu choisir le régime matrimonial",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 1315.3,
+       "end": 1323.1
+      },
+      {
+       "text": "ils",
+       "start": 1323.7,
+       "end": 1325.5
+      },
+      {
+       "text": "ont",
+       "start": 1325.5,
+       "end": 1327.9
+      },
+      {
+       "text": "pu",
+       "start": 1327.9,
+       "end": 1332.1
+      },
+      {
+       "text": "choisir",
+       "start": 1332.1,
+       "end": 1349.5
+      },
+      {
+       "text": "le",
+       "start": 1349.5,
+       "end": 1351.9
+      },
+      {
+       "text": "régime",
+       "start": 1351.9,
+       "end": 1360.3
+      },
+      {
+       "text": "matrimonial",
+       "start": 1360.3,
+       "end": 1376.5
+      }
+     ],
+     "start": 1315.3,
+     "end": 1376.5,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 1313.3,
+     "displayEnd": 1373.5
+    },
+    {
+     "text": "à travers le contrat de mariage",
+     "words": [
+      {
+       "text": "à",
+       "start": 1376.5,
+       "end": 1380.7
+      },
+      {
+       "text": "travers",
+       "start": 1380.7,
+       "end": 1389.7
+      },
+      {
+       "text": "le",
+       "start": 1389.7,
+       "end": 1396.3
+      },
+      {
+       "text": "contrat",
+       "start": 1396.3,
+       "end": 1407.7
+      },
+      {
+       "text": "de",
+       "start": 1407.7,
+       "end": 1414.3
+      },
+      {
+       "text": "mariage",
+       "start": 1414.3,
+       "end": 1426.9
+      }
+     ],
+     "start": 1376.5,
+     "end": 1426.9,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 4,
+     "displayStart": 1374.5,
+     "displayEnd": 1423.9
+    },
+    {
+     "text": "qu’on a signé ensemble.",
+     "words": [
+      {
+       "text": "qu’on",
+       "start": 1426.9,
+       "end": 1431.7
+      },
+      {
+       "text": "a",
+       "start": 1431.7,
+       "end": 1434.1
+      },
+      {
+       "text": "signé",
+       "start": 1434.1,
+       "end": 1445.5
+      },
+      {
+       "text": "ensemble.",
+       "start": 1445.5,
+       "end": 1465.3
+      }
+     ],
+     "start": 1426.9,
+     "end": 1465.3,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 1424.9,
+     "displayEnd": 1473
+    },
+    {
+     "text": "Donc, il y a une première déclaration",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 1526.8,
+       "end": 1537.0
+      },
+      {
+       "text": "il",
+       "start": 1537.0,
+       "end": 1542.4
+      },
+      {
+       "text": "y",
+       "start": 1542.4,
+       "end": 1545.4
+      },
+      {
+       "text": "a",
+       "start": 1545.4,
+       "end": 1547.8
+      },
+      {
+       "text": "une",
+       "start": 1547.8,
+       "end": 1552.0
+      },
+      {
+       "text": "première",
+       "start": 1552.0,
+       "end": 1562.2
+      },
+      {
+       "text": "déclaration",
+       "start": 1562.2,
+       "end": 1579.0
+      }
+     ],
+     "start": 1526.8,
+     "end": 1579.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 1524.8,
+     "displayEnd": 1576.0
+    },
+    {
+     "text": "destinée au directeur d’État civil,",
+     "words": [
+      {
+       "text": "destinée",
+       "start": 1579.0,
+       "end": 1598.8
+      },
+      {
+       "text": "au",
+       "start": 1598.8,
+       "end": 1604.2
+      },
+      {
+       "text": "directeur",
+       "start": 1604.2,
+       "end": 1633.0
+      },
+      {
+       "text": "d’État",
+       "start": 1633.0,
+       "end": 1639.6
+      },
+      {
+       "text": "civil,",
+       "start": 1639.6,
+       "end": 1648.6
+      }
+     ],
+     "start": 1579.0,
+     "end": 1648.6,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 1577.0,
+     "displayEnd": 1652.8
+    },
+    {
+     "text": "qu’on doit lui acheminer.",
+     "words": [
+      {
+       "text": "qu’on",
+       "start": 1655.8,
+       "end": 1671.4
+      },
+      {
+       "text": "doit",
+       "start": 1671.4,
+       "end": 1675.6
+      },
+      {
+       "text": "lui",
+       "start": 1675.6,
+       "end": 1678.6
+      },
+      {
+       "text": "acheminer.",
+       "start": 1678.6,
+       "end": 1697.8
+      }
+     ],
+     "start": 1655.8,
+     "end": 1697.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 1653.8,
+     "displayEnd": 1715.8
+    },
+    {
+     "text": "On a également l’Institut",
+     "words": [
+      {
+       "text": "On",
+       "start": 1720.6,
+       "end": 1735.0
+      },
+      {
+       "text": "a",
+       "start": 1735.0,
+       "end": 1741.6
+      },
+      {
+       "text": "également",
+       "start": 1741.6,
+       "end": 1751.8
+      },
+      {
+       "text": "l’Institut",
+       "start": 1751.8,
+       "end": 1796.2
+      }
+     ],
+     "start": 1720.6,
+     "end": 1796.2,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 1718.6,
+     "displayEnd": 1793.2
+    },
+    {
+     "text": "des statistiques du Canada,",
+     "words": [
+      {
+       "text": "des",
+       "start": 1796.2,
+       "end": 1822.0
+      },
+      {
+       "text": "statistiques",
+       "start": 1822.0,
+       "end": 1841.2
+      },
+      {
+       "text": "du",
+       "start": 1841.2,
+       "end": 1845.4
+      },
+      {
+       "text": "Canada,",
+       "start": 1845.4,
+       "end": 1855.6
+      }
+     ],
+     "start": 1796.2,
+     "end": 1855.6,
+     "emphasis": [
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 1794.2,
+     "displayEnd": 1856.8
+    },
+    {
+     "text": "qui ont une copie également de la déclaration.",
+     "words": [
+      {
+       "text": "qui",
+       "start": 1859.8,
+       "end": 1880.2
+      },
+      {
+       "text": "ont",
+       "start": 1880.2,
+       "end": 1887.4
+      },
+      {
+       "text": "une",
+       "start": 1887.4,
+       "end": 1897.0
+      },
+      {
+       "text": "copie",
+       "start": 1897.0,
+       "end": 1919.2
+      },
+      {
+       "text": "également",
+       "start": 1919.2,
+       "end": 1924.6
+      },
+      {
+       "text": "de",
+       "start": 1924.6,
+       "end": 1931.8
+      },
+      {
+       "text": "la",
+       "start": 1931.8,
+       "end": 1934.2
+      },
+      {
+       "text": "déclaration.",
+       "start": 1934.2,
+       "end": 1962.4
+      }
+     ],
+     "start": 1859.8,
+     "end": 1962.4,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 5,
+     "displayStart": 1857.8,
+     "displayEnd": 1973.2
+    },
+    {
+     "text": "Et puis, les mariés ont également une copie,",
+     "words": [
+      {
+       "text": "Et",
+       "start": 1976.2,
+       "end": 1990.6
+      },
+      {
+       "text": "puis,",
+       "start": 1990.6,
+       "end": 1999.0
+      },
+      {
+       "text": "les",
+       "start": 2002.6,
+       "end": 2009.8
+      },
+      {
+       "text": "mariés",
+       "start": 2009.8,
+       "end": 2027.2
+      },
+      {
+       "text": "ont",
+       "start": 2027.2,
+       "end": 2047.0
+      },
+      {
+       "text": "également",
+       "start": 2047.0,
+       "end": 2055.4
+      },
+      {
+       "text": "une",
+       "start": 2055.4,
+       "end": 2063.8
+      },
+      {
+       "text": "copie,",
+       "start": 2063.8,
+       "end": 2075.8
+      }
+     ],
+     "start": 1976.2,
+     "end": 2075.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 1974.2,
+     "displayEnd": 2072.8
+    },
+    {
+     "text": "donc la copie qui fait foi qu’ils se",
+     "words": [
+      {
+       "text": "donc",
+       "start": 2075.8,
+       "end": 2080.0
+      },
+      {
+       "text": "la",
+       "start": 2080.0,
+       "end": 2084.2
+      },
+      {
+       "text": "copie",
+       "start": 2084.2,
+       "end": 2095.0
+      },
+      {
+       "text": "qui",
+       "start": 2095.0,
+       "end": 2099.2
+      },
+      {
+       "text": "fait",
+       "start": 2099.2,
+       "end": 2104.0
+      },
+      {
+       "text": "foi",
+       "start": 2104.0,
+       "end": 2113.6
+      },
+      {
+       "text": "qu’ils",
+       "start": 2113.6,
+       "end": 2131.6
+      },
+      {
+       "text": "se",
+       "start": 2131.6,
+       "end": 2133.4
+      }
+     ],
+     "start": 2075.8,
+     "end": 2133.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 2073.8,
+     "displayEnd": 2130.4
+    },
+    {
+     "text": "sont mariés en date d’aujourd’hui,",
+     "words": [
+      {
+       "text": "sont",
+       "start": 2133.4,
+       "end": 2138.2
+      },
+      {
+       "text": "mariés",
+       "start": 2138.2,
+       "end": 2150.2
+      },
+      {
+       "text": "en",
+       "start": 2150.2,
+       "end": 2152.6
+      },
+      {
+       "text": "date",
+       "start": 2152.6,
+       "end": 2158.6
+      },
+      {
+       "text": "d’aujourd’hui,",
+       "start": 2158.6,
+       "end": 2179.0
+      }
+     ],
+     "start": 2133.4,
+     "end": 2179.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 2131.4,
+     "displayEnd": 2176.6
+    },
+    {
+     "text": "en attendant le certificat",
+     "words": [
+      {
+       "text": "en",
+       "start": 2179.6,
+       "end": 2192.8
+      },
+      {
+       "text": "attendant",
+       "start": 2192.8,
+       "end": 2206.6
+      },
+      {
+       "text": "le",
+       "start": 2206.6,
+       "end": 2224.6
+      },
+      {
+       "text": "certificat",
+       "start": 2224.6,
+       "end": 2255.8
+      }
+     ],
+     "start": 2179.6,
+     "end": 2255.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 2177.6,
+     "displayEnd": 2252.8
+    },
+    {
+     "text": "du directeur d’État civil,",
+     "words": [
+      {
+       "text": "du",
+       "start": 2255.8,
+       "end": 2265.4
+      },
+      {
+       "text": "directeur",
+       "start": 2265.4,
+       "end": 2279.8
+      },
+      {
+       "text": "d’État",
+       "start": 2279.8,
+       "end": 2285.8
+      },
+      {
+       "text": "civil,",
+       "start": 2285.8,
+       "end": 2296.0
+      }
+     ],
+     "start": 2255.8,
+     "end": 2296.0,
+     "emphasis": [
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 2253.8,
+     "displayEnd": 2294.2
+    },
+    {
+     "text": "le certificat de mariage",
+     "words": [
+      {
+       "text": "le",
+       "start": 2297.2,
+       "end": 2300.2
+      },
+      {
+       "text": "certificat",
+       "start": 2300.2,
+       "end": 2312.2
+      },
+      {
+       "text": "de",
+       "start": 2312.2,
+       "end": 2314.0
+      },
+      {
+       "text": "mariage",
+       "start": 2314.0,
+       "end": 2323.6
+      }
+     ],
+     "start": 2297.2,
+     "end": 2323.6,
+     "emphasis": [
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": -1,
+     "displayStart": 2295.2,
+     "displayEnd": 2320.6
+    },
+    {
+     "text": "du directeur d’État civil,",
+     "words": [
+      {
+       "text": "du",
+       "start": 2323.6,
+       "end": 2329.0
+      },
+      {
+       "text": "directeur",
+       "start": 2329.0,
+       "end": 2346.4
+      },
+      {
+       "text": "d’État",
+       "start": 2346.4,
+       "end": 2355.4
+      },
+      {
+       "text": "civil,",
+       "start": 2355.4,
+       "end": 2369.8
+      }
+     ],
+     "start": 2323.6,
+     "end": 2369.8,
+     "emphasis": [
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 2321.6,
+     "displayEnd": 2371.0
+    },
+    {
+     "text": "qui est délivrée suite au mariage.",
+     "words": [
+      {
+       "text": "qui",
+       "start": 2374.0,
+       "end": 2377.0
+      },
+      {
+       "text": "est",
+       "start": 2377.0,
+       "end": 2378.2
+      },
+      {
+       "text": "délivrée",
+       "start": 2378.2,
+       "end": 2390.2
+      },
+      {
+       "text": "suite",
+       "start": 2390.2,
+       "end": 2397.4
+      },
+      {
+       "text": "au",
+       "start": 2397.4,
+       "end": 2404.6
+      },
+      {
+       "text": "mariage.",
+       "start": 2404.6,
+       "end": 2419.0
+      }
+     ],
+     "start": 2374.0,
+     "end": 2419.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 2372.0,
+     "displayEnd": 2426
+    },
+    {
+     "text": "Donc, le contrat de mariage est très important",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 2767.8,
+       "end": 2788.2
+      },
+      {
+       "text": "le",
+       "start": 2788.2,
+       "end": 2800.2
+      },
+      {
+       "text": "contrat",
+       "start": 2800.2,
+       "end": 2812.2
+      },
+      {
+       "text": "de",
+       "start": 2812.2,
+       "end": 2815.8
+      },
+      {
+       "text": "mariage",
+       "start": 2815.8,
+       "end": 2826.0
+      },
+      {
+       "text": "est",
+       "start": 2826.0,
+       "end": 2829.6
+      },
+      {
+       "text": "très",
+       "start": 2829.6,
+       "end": 2835.0
+      },
+      {
+       "text": "important",
+       "start": 2835.0,
+       "end": 2849.4
+      }
+     ],
+     "start": 2767.8,
+     "end": 2849.4,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 2765.8,
+     "displayEnd": 2846.4
+    },
+    {
+     "text": "parce qu’il permet notamment de déterminer,",
+     "words": [
+      {
+       "text": "parce",
+       "start": 2849.4,
+       "end": 2869.2
+      },
+      {
+       "text": "qu’il",
+       "start": 2869.2,
+       "end": 2874.6
+      },
+      {
+       "text": "permet",
+       "start": 2874.6,
+       "end": 2884.8
+      },
+      {
+       "text": "notamment",
+       "start": 2884.8,
+       "end": 2893.8
+      },
+      {
+       "text": "de",
+       "start": 2893.8,
+       "end": 2905.8
+      },
+      {
+       "text": "déterminer,",
+       "start": 2905.8,
+       "end": 2952.0
+      }
+     ],
+     "start": 2849.4,
+     "end": 2952.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 2847.4,
+     "displayEnd": 2949.0
+    },
+    {
+     "text": "en premier lieu, le régime matrimonial.",
+     "words": [
+      {
+       "text": "en",
+       "start": 2952.0,
+       "end": 2980.8
+      },
+      {
+       "text": "premier",
+       "start": 2980.8,
+       "end": 2989.8
+      },
+      {
+       "text": "lieu,",
+       "start": 2989.8,
+       "end": 2994.0
+      },
+      {
+       "text": "le",
+       "start": 2998.2,
+       "end": 3013.8
+      },
+      {
+       "text": "régime",
+       "start": 3013.8,
+       "end": 3029.4
+      },
+      {
+       "text": "matrimonial.",
+       "start": 3029.4,
+       "end": 3046.2
+      }
+     ],
+     "start": 2952.0,
+     "end": 3046.2,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 2950.0,
+     "displayEnd": 3054
+    },
+    {
+     "text": "Donc, au Québec,",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 3058.6,
+       "end": 3064.0
+      },
+      {
+       "text": "au",
+       "start": 3064.0,
+       "end": 3078.4
+      },
+      {
+       "text": "Québec,",
+       "start": 3078.4,
+       "end": 3084.4
+      }
+     ],
+     "start": 3058.6,
+     "end": 3084.4,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 3056.6,
+     "displayEnd": 3083.8
+    },
+    {
+     "text": "il y a trois régimes matrimoniaux,",
+     "words": [
+      {
+       "text": "il",
+       "start": 3086.8,
+       "end": 3091.0
+      },
+      {
+       "text": "y",
+       "start": 3091.0,
+       "end": 3092.2
+      },
+      {
+       "text": "a",
+       "start": 3092.2,
+       "end": 3094.6
+      },
+      {
+       "text": "trois",
+       "start": 3094.6,
+       "end": 3099.4
+      },
+      {
+       "text": "régimes",
+       "start": 3099.4,
+       "end": 3117.4
+      },
+      {
+       "text": "matrimoniaux,",
+       "start": 3117.4,
+       "end": 3142.0
+      }
+     ],
+     "start": 3086.8,
+     "end": 3142.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 3084.8,
+     "displayEnd": 3139.0
+    },
+    {
+     "text": "dont la société d’acquêts,",
+     "words": [
+      {
+       "text": "dont",
+       "start": 3142.0,
+       "end": 3152.8
+      },
+      {
+       "text": "la",
+       "start": 3152.8,
+       "end": 3170.2
+      },
+      {
+       "text": "société",
+       "start": 3170.2,
+       "end": 3182.8
+      },
+      {
+       "text": "d’acquêts,",
+       "start": 3182.8,
+       "end": 3205.6
+      }
+     ],
+     "start": 3142.0,
+     "end": 3205.6,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 3140.0,
+     "displayEnd": 3207.4
+    },
+    {
+     "text": "qui est le régime légal au Québec,",
+     "words": [
+      {
+       "text": "qui",
+       "start": 3210.4,
+       "end": 3214.6
+      },
+      {
+       "text": "est",
+       "start": 3214.6,
+       "end": 3216.4
+      },
+      {
+       "text": "le",
+       "start": 3216.4,
+       "end": 3219.4
+      },
+      {
+       "text": "régime",
+       "start": 3219.4,
+       "end": 3230.8
+      },
+      {
+       "text": "légal",
+       "start": 3230.8,
+       "end": 3250.0
+      },
+      {
+       "text": "au",
+       "start": 3250.0,
+       "end": 3253.0
+      },
+      {
+       "text": "Québec,",
+       "start": 3253.0,
+       "end": 3262.0
+      }
+     ],
+     "start": 3210.4,
+     "end": 3262.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 3208.4,
+     "displayEnd": 3264.4
+    },
+    {
+     "text": "donc qui ne nécessite pas d’être",
+     "words": [
+      {
+       "text": "donc",
+       "start": 3267.4,
+       "end": 3274.0
+      },
+      {
+       "text": "qui",
+       "start": 3274.0,
+       "end": 3290.2
+      },
+      {
+       "text": "ne",
+       "start": 3290.2,
+       "end": 3292.0
+      },
+      {
+       "text": "nécessite",
+       "start": 3292.0,
+       "end": 3311.8
+      },
+      {
+       "text": "pas",
+       "start": 3311.8,
+       "end": 3317.8
+      },
+      {
+       "text": "d’être",
+       "start": 3317.8,
+       "end": 3342.4
+      }
+     ],
+     "start": 3267.4,
+     "end": 3342.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 3265.4,
+     "displayEnd": 3339.4
+    },
+    {
+     "text": "choisi dans un contrat de mariage.",
+     "words": [
+      {
+       "text": "choisi",
+       "start": 3342.4,
+       "end": 3372.4
+      },
+      {
+       "text": "dans",
+       "start": 3372.4,
+       "end": 3378.4
+      },
+      {
+       "text": "un",
+       "start": 3378.4,
+       "end": 3383.8
+      },
+      {
+       "text": "contrat",
+       "start": 3383.8,
+       "end": 3391.6
+      },
+      {
+       "text": "de",
+       "start": 3391.6,
+       "end": 3394.6
+      },
+      {
+       "text": "mariage.",
+       "start": 3394.6,
+       "end": 3404.8
+      }
+     ],
+     "start": 3342.4,
+     "end": 3404.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 3340.4,
+     "displayEnd": 3404.2
+    },
+    {
+     "text": "Il y a la séparation des biens qui nécessite",
+     "words": [
+      {
+       "text": "Il",
+       "start": 3407.2,
+       "end": 3416.2
+      },
+      {
+       "text": "y",
+       "start": 3416.2,
+       "end": 3418.6
+      },
+      {
+       "text": "a",
+       "start": 3418.6,
+       "end": 3420.4
+      },
+      {
+       "text": "la",
+       "start": 3420.4,
+       "end": 3422.2
+      },
+      {
+       "text": "séparation",
+       "start": 3422.2,
+       "end": 3449.8
+      },
+      {
+       "text": "des",
+       "start": 3449.8,
+       "end": 3461.8
+      },
+      {
+       "text": "biens",
+       "start": 3461.8,
+       "end": 3468.4
+      },
+      {
+       "text": "qui",
+       "start": 3468.4,
+       "end": 3473.8
+      },
+      {
+       "text": "nécessite",
+       "start": 3473.8,
+       "end": 3492.4
+      }
+     ],
+     "start": 3407.2,
+     "end": 3492.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+     ],
+     "lineBreak": 5,
+     "displayStart": 3405.2,
+     "displayEnd": 3489.4
+    },
+    {
+     "text": "un contrat de mariage",
+     "words": [
+      {
+       "text": "un",
+       "start": 3492.4,
+       "end": 3496.6
+      },
+      {
+       "text": "contrat",
+       "start": 3496.6,
+       "end": 3504.4
+      },
+      {
+       "text": "de",
+       "start": 3504.4,
+       "end": 3508.6
+      },
+      {
+       "text": "mariage",
+       "start": 3508.6,
+       "end": 3519.4
+      }
+     ],
+     "start": 3492.4,
+     "end": 3519.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 3490.4,
+     "displayEnd": 3516.4
+    },
+    {
+     "text": "et la communauté de biens meubles, qui,",
+     "words": [
+      {
+       "text": "et",
+       "start": 3519.4,
+       "end": 3530.2
+      },
+      {
+       "text": "la",
+       "start": 3530.2,
+       "end": 3542.8
+      },
+      {
+       "text": "communauté",
+       "start": 3542.8,
+       "end": 3556.0
+      },
+      {
+       "text": "de",
+       "start": 3556.0,
+       "end": 3598.0
+      },
+      {
+       "text": "biens",
+       "start": 3598.0,
+       "end": 3611.8
+      },
+      {
+       "text": "meubles,",
+       "start": 3611.8,
+       "end": 3635.8
+      },
+      {
+       "text": "qui,",
+       "start": 3635.8,
+       "end": 3658.6
+      }
+     ],
+     "start": 3519.4,
+     "end": 3658.6,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 3517.4,
+     "displayEnd": 3655.6
+    },
+    {
+     "text": "également, nécessitent un contrat de mariage.",
+     "words": [
+      {
+       "text": "également,",
+       "start": 3658.6,
+       "end": 3674.8
+      },
+      {
+       "text": "nécessitent",
+       "start": 3680.2,
+       "end": 3701.8
+      },
+      {
+       "text": "un",
+       "start": 3701.8,
+       "end": 3708.4
+      },
+      {
+       "text": "contrat",
+       "start": 3708.4,
+       "end": 3719.8
+      },
+      {
+       "text": "de",
+       "start": 3719.8,
+       "end": 3724.0
+      },
+      {
+       "text": "mariage.",
+       "start": 3724.0,
+       "end": 3742.6
+      }
+     ],
+     "start": 3658.6,
+     "end": 3742.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 3656.6,
+     "displayEnd": 3750
+    },
+    {
+     "text": "Donc, c’est important de venir se protéger parce",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 3753.4,
+       "end": 3765.4
+      },
+      {
+       "text": "c’est",
+       "start": 3766.0,
+       "end": 3771.4
+      },
+      {
+       "text": "important",
+       "start": 3771.4,
+       "end": 3778.6
+      },
+      {
+       "text": "de",
+       "start": 3778.6,
+       "end": 3787.6
+      },
+      {
+       "text": "venir",
+       "start": 3787.6,
+       "end": 3796.6
+      },
+      {
+       "text": "se",
+       "start": 3796.6,
+       "end": 3802.0
+      },
+      {
+       "text": "protéger",
+       "start": 3802.0,
+       "end": 3815.8
+      },
+      {
+       "text": "parce",
+       "start": 3815.8,
+       "end": 3825.4
+      }
+     ],
+     "start": 3753.4,
+     "end": 3825.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 3751.4,
+     "displayEnd": 3822.4
+    },
+    {
+     "text": "qu’on ne veut pas nécessairement",
+     "words": [
+      {
+       "text": "qu’on",
+       "start": 3825.4,
+       "end": 3874.6
+      },
+      {
+       "text": "ne",
+       "start": 3874.6,
+       "end": 3880.0
+      },
+      {
+       "text": "veut",
+       "start": 3880.0,
+       "end": 3883.0
+      },
+      {
+       "text": "pas",
+       "start": 3883.0,
+       "end": 3887.2
+      },
+      {
+       "text": "nécessairement",
+       "start": 3887.2,
+       "end": 3903.4
+      }
+     ],
+     "start": 3825.4,
+     "end": 3903.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 3823.4,
+     "displayEnd": 3900.4
+    },
+    {
+     "text": "que les règles qui régissent notre mariage",
+     "words": [
+      {
+       "text": "que",
+       "start": 3903.4,
+       "end": 3910.0
+      },
+      {
+       "text": "les",
+       "start": 3910.0,
+       "end": 3946.0
+      },
+      {
+       "text": "règles",
+       "start": 3946.0,
+       "end": 3958.6
+      },
+      {
+       "text": "qui",
+       "start": 3958.6,
+       "end": 3962.2
+      },
+      {
+       "text": "régissent",
+       "start": 3962.2,
+       "end": 3970.0
+      },
+      {
+       "text": "notre",
+       "start": 3970.0,
+       "end": 3974.2
+      },
+      {
+       "text": "mariage",
+       "start": 3974.2,
+       "end": 3987.4
+      }
+     ],
+     "start": 3903.4,
+     "end": 3987.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 3901.4,
+     "displayEnd": 3984.4
+    },
+    {
+     "text": "soient les règles qui sont",
+     "words": [
+      {
+       "text": "soient",
+       "start": 3987.4,
+       "end": 3994.6
+      },
+      {
+       "text": "les",
+       "start": 3994.6,
+       "end": 4003.0
+      },
+      {
+       "text": "règles",
+       "start": 4003.0,
+       "end": 4016.2
+      },
+      {
+       "text": "qui",
+       "start": 4016.2,
+       "end": 4020.4
+      },
+      {
+       "text": "sont",
+       "start": 4020.4,
+       "end": 4025.8
+      }
+     ],
+     "start": 3987.4,
+     "end": 4025.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 3985.4,
+     "displayEnd": 4022.8
+    },
+    {
+     "text": "imposées légalement.",
+     "words": [
+      {
+       "text": "imposées",
+       "start": 4025.8,
+       "end": 4066.0
+      },
+      {
+       "text": "légalement.",
+       "start": 4066.0,
+       "end": 4088.8
+      }
+     ],
+     "start": 4025.8,
+     "end": 4088.8,
+     "emphasis": [
+      true,
+      true
+     ],
+     "lineBreak": -1,
+     "displayStart": 4023.8,
+     "displayEnd": 4087.0
+    },
+    {
+     "text": "Peut-être qu’on veut également venir",
+     "words": [
+      {
+       "text": "Peut-être",
+       "start": 4090.0,
+       "end": 4101.4
+      },
+      {
+       "text": "qu’on",
+       "start": 4101.4,
+       "end": 4105.0
+      },
+      {
+       "text": "veut",
+       "start": 4105.0,
+       "end": 4109.2
+      },
+      {
+       "text": "également",
+       "start": 4109.2,
+       "end": 4115.8
+      },
+      {
+       "text": "venir",
+       "start": 4115.8,
+       "end": 4123.6
+      }
+     ],
+     "start": 4090.0,
+     "end": 4123.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 4088.0,
+     "displayEnd": 4120.6
+    },
+    {
+     "text": "insérer d’autres clauses d’un commun accord,",
+     "words": [
+      {
+       "text": "insérer",
+       "start": 4123.6,
+       "end": 4140.4
+      },
+      {
+       "text": "d’autres",
+       "start": 4140.4,
+       "end": 4149.4
+      },
+      {
+       "text": "clauses",
+       "start": 4149.4,
+       "end": 4164.4
+      },
+      {
+       "text": "d’un",
+       "start": 4164.4,
+       "end": 4190.8
+      },
+      {
+       "text": "commun",
+       "start": 4190.8,
+       "end": 4198.6
+      },
+      {
+       "text": "accord,",
+       "start": 4198.6,
+       "end": 4208.8
+      }
+     ],
+     "start": 4123.6,
+     "end": 4208.8,
+     "emphasis": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 4121.6,
+     "displayEnd": 4211.2
+    },
+    {
+     "text": "bien sûr, à travers le contrat de mariage.",
+     "words": [
+      {
+       "text": "bien",
+       "start": 4214.2,
+       "end": 4217.8
+      },
+      {
+       "text": "sûr,",
+       "start": 4217.8,
+       "end": 4223.8
+      },
+      {
+       "text": "à",
+       "start": 4224.4,
+       "end": 4228.0
+      },
+      {
+       "text": "travers",
+       "start": 4228.0,
+       "end": 4234.6
+      },
+      {
+       "text": "le",
+       "start": 4234.6,
+       "end": 4246.0
+      },
+      {
+       "text": "contrat",
+       "start": 4246.0,
+       "end": 4256.2
+      },
+      {
+       "text": "de",
+       "start": 4256.2,
+       "end": 4261.6
+      },
+      {
+       "text": "mariage.",
+       "start": 4261.6,
+       "end": 4276.0
+      }
+     ],
+     "start": 4214.2,
+     "end": 4276.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 4212.2,
+     "displayEnd": 4274.2
+    },
+    {
+     "text": "Donc, on vient moduler nos relations dans l’union,",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 4277.2,
+       "end": 4282.0
+      },
+      {
+       "text": "on",
+       "start": 4282.6,
+       "end": 4286.2
+      },
+      {
+       "text": "vient",
+       "start": 4286.2,
+       "end": 4288.6
+      },
+      {
+       "text": "moduler",
+       "start": 4288.6,
+       "end": 4307.8
+      },
+      {
+       "text": "nos",
+       "start": 4307.8,
+       "end": 4338.4
+      },
+      {
+       "text": "relations",
+       "start": 4338.4,
+       "end": 4357.6
+      },
+      {
+       "text": "dans",
+       "start": 4357.6,
+       "end": 4403.8
+      },
+      {
+       "text": "l’union,",
+       "start": 4403.8,
+       "end": 4417.6
+      }
+     ],
+     "start": 4277.2,
+     "end": 4417.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 5,
+     "displayStart": 4275.2,
+     "displayEnd": 4419.4
+    },
+    {
+     "text": "si on veut.",
+     "words": [
+      {
+       "text": "si",
+       "start": 4422.4,
+       "end": 4430.8
+      },
+      {
+       "text": "on",
+       "start": 4430.8,
+       "end": 4434.4
+      },
+      {
+       "text": "veut.",
+       "start": 4434.4,
+       "end": 4438.0
+      }
+     ],
+     "start": 4422.4,
+     "end": 4438.0,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 4420.4,
+     "displayEnd": 4445
+    },
+    {
+     "text": "Donc, se marier vient apporter",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 4794.2,
+       "end": 4809.8
+      },
+      {
+       "text": "se",
+       "start": 4809.8,
+       "end": 4825.4
+      },
+      {
+       "text": "marier",
+       "start": 4825.4,
+       "end": 4842.2
+      },
+      {
+       "text": "vient",
+       "start": 4842.2,
+       "end": 4867.4
+      },
+      {
+       "text": "apporter",
+       "start": 4867.4,
+       "end": 4878.8
+      }
+     ],
+     "start": 4794.2,
+     "end": 4878.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 4792.2,
+     "displayEnd": 4875.8
+    },
+    {
+     "text": "une protection supplémentaire.",
+     "words": [
+      {
+       "text": "une",
+       "start": 4878.8,
+       "end": 4882.4
+      },
+      {
+       "text": "protection",
+       "start": 4882.4,
+       "end": 4893.2
+      },
+      {
+       "text": "supplémentaire.",
+       "start": 4893.2,
+       "end": 4924.4
+      }
+     ],
+     "start": 4878.8,
+     "end": 4924.4,
+     "emphasis": [
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 4876.8,
+     "displayEnd": 4921.4
+    },
+    {
+     "text": "Parce que quand on choisit",
+     "words": [
+      {
+       "text": "Parce",
+       "start": 4924.4,
+       "end": 4931.0
+      },
+      {
+       "text": "que",
+       "start": 4931.0,
+       "end": 4935.2
+      },
+      {
+       "text": "quand",
+       "start": 4935.2,
+       "end": 4943.6
+      },
+      {
+       "text": "on",
+       "start": 4943.6,
+       "end": 4946.6
+      },
+      {
+       "text": "choisit",
+       "start": 4946.6,
+       "end": 4959.8
+      }
+     ],
+     "start": 4924.4,
+     "end": 4959.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 4922.4,
+     "displayEnd": 4956.8
+    },
+    {
+     "text": "notre régime matrimonial,",
+     "words": [
+      {
+       "text": "notre",
+       "start": 4959.8,
+       "end": 4964.6
+      },
+      {
+       "text": "régime",
+       "start": 4964.6,
+       "end": 4979.6
+      },
+      {
+       "text": "matrimonial,",
+       "start": 4979.6,
+       "end": 5001.8
+      }
+     ],
+     "start": 4959.8,
+     "end": 5001.8,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 4957.8,
+     "displayEnd": 4999.4
+    },
+    {
+     "text": "par exemple la séparation de biens,",
+     "words": [
+      {
+       "text": "par",
+       "start": 5002.4,
+       "end": 5012.0
+      },
+      {
+       "text": "exemple",
+       "start": 5012.0,
+       "end": 5019.8
+      },
+      {
+       "text": "la",
+       "start": 5019.8,
+       "end": 5026.4
+      },
+      {
+       "text": "séparation",
+       "start": 5026.4,
+       "end": 5046.8
+      },
+      {
+       "text": "de",
+       "start": 5046.8,
+       "end": 5049.8
+      },
+      {
+       "text": "biens,",
+       "start": 5049.8,
+       "end": 5061.8
+      }
+     ],
+     "start": 5002.4,
+     "end": 5061.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 5000.4,
+     "displayEnd": 5060.6
+    },
+    {
+     "text": "au terme de la séparation de biens,",
+     "words": [
+      {
+       "text": "au",
+       "start": 5063.6,
+       "end": 5079.2
+      },
+      {
+       "text": "terme",
+       "start": 5079.2,
+       "end": 5094.8
+      },
+      {
+       "text": "de",
+       "start": 5094.8,
+       "end": 5097.8
+      },
+      {
+       "text": "la",
+       "start": 5097.8,
+       "end": 5100.2
+      },
+      {
+       "text": "séparation",
+       "start": 5100.2,
+       "end": 5114.6
+      },
+      {
+       "text": "de",
+       "start": 5114.6,
+       "end": 5117.6
+      },
+      {
+       "text": "biens,",
+       "start": 5117.6,
+       "end": 5121.2
+      }
+     ],
+     "start": 5063.6,
+     "end": 5121.2,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 5,
+     "displayStart": 5061.6,
+     "displayEnd": 5120.0
+    },
+    {
+     "text": "on ne partage pas les dettes.",
+     "words": [
+      {
+       "text": "on",
+       "start": 5123.0,
+       "end": 5126.0
+      },
+      {
+       "text": "ne",
+       "start": 5126.0,
+       "end": 5129.0
+      },
+      {
+       "text": "partage",
+       "start": 5129.0,
+       "end": 5143.4
+      },
+      {
+       "text": "pas",
+       "start": 5143.4,
+       "end": 5150.0
+      },
+      {
+       "text": "les",
+       "start": 5150.0,
+       "end": 5157.8
+      },
+      {
+       "text": "dettes.",
+       "start": 5157.8,
+       "end": 5171.6
+      }
+     ],
+     "start": 5123.0,
+     "end": 5171.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 5121.0,
+     "displayEnd": 5179
+    },
+    {
+     "text": "Donc, l’union parentale se crée selon la loi",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 5183.4,
+       "end": 5198.6
+      },
+      {
+       "text": "l’union",
+       "start": 5251.4,
+       "end": 5270.0
+      },
+      {
+       "text": "parentale",
+       "start": 5270.0,
+       "end": 5294.0
+      },
+      {
+       "text": "se",
+       "start": 5294.0,
+       "end": 5316.8
+      },
+      {
+       "text": "crée",
+       "start": 5316.8,
+       "end": 5340.2
+      },
+      {
+       "text": "selon",
+       "start": 5340.2,
+       "end": 5359.4
+      },
+      {
+       "text": "la",
+       "start": 5359.4,
+       "end": 5365.4
+      },
+      {
+       "text": "loi",
+       "start": 5365.4,
+       "end": 5375.0
+      }
+     ],
+     "start": 5183.4,
+     "end": 5375.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 5181.4,
+     "displayEnd": 5372.0
+    },
+    {
+     "text": "automatiquement dès qu’on a un enfant commun.",
+     "words": [
+      {
+       "text": "automatiquement",
+       "start": 5375.0,
+       "end": 5424.2
+      },
+      {
+       "text": "dès",
+       "start": 5424.2,
+       "end": 5432.0
+      },
+      {
+       "text": "qu’on",
+       "start": 5432.0,
+       "end": 5438.6
+      },
+      {
+       "text": "a",
+       "start": 5438.6,
+       "end": 5444.6
+      },
+      {
+       "text": "un",
+       "start": 5444.6,
+       "end": 5455.4
+      },
+      {
+       "text": "enfant",
+       "start": 5455.4,
+       "end": 5475.2
+      },
+      {
+       "text": "commun.",
+       "start": 5475.2,
+       "end": 5502.8
+      }
+     ],
+     "start": 5375.0,
+     "end": 5502.8,
+     "emphasis": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 2,
+     "displayStart": 5373.0,
+     "displayEnd": 5507.0
+    },
+    {
+     "text": "Donc, l’union parentale vient",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 5510.0,
+       "end": 5531.6
+      },
+      {
+       "text": "l’union",
+       "start": 5534.0,
+       "end": 5556.8
+      },
+      {
+       "text": "parentale",
+       "start": 5556.8,
+       "end": 5575.4
+      },
+      {
+       "text": "vient",
+       "start": 5575.4,
+       "end": 5589.8
+      }
+     ],
+     "start": 5510.0,
+     "end": 5589.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 5508.0,
+     "displayEnd": 5586.8
+    },
+    {
+     "text": "créer le patrimoine familial,",
+     "words": [
+      {
+       "text": "créer",
+       "start": 5589.8,
+       "end": 5603.0
+      },
+      {
+       "text": "le",
+       "start": 5603.0,
+       "end": 5632.4
+      },
+      {
+       "text": "patrimoine",
+       "start": 5632.4,
+       "end": 5657.6
+      },
+      {
+       "text": "familial,",
+       "start": 5657.6,
+       "end": 5691.2
+      }
+     ],
+     "start": 5589.8,
+     "end": 5691.2,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 5587.8,
+     "displayEnd": 5690.6
+    },
+    {
+     "text": "le patrimoine familial qui sont",
+     "words": [
+      {
+       "text": "le",
+       "start": 5693.6,
+       "end": 5709.8
+      },
+      {
+       "text": "patrimoine",
+       "start": 5709.8,
+       "end": 5725.4
+      },
+      {
+       "text": "familial",
+       "start": 5725.4,
+       "end": 5748.2
+      },
+      {
+       "text": "qui",
+       "start": 5748.2,
+       "end": 5759.0
+      },
+      {
+       "text": "sont",
+       "start": 5759.0,
+       "end": 5771.6
+      }
+     ],
+     "start": 5693.6,
+     "end": 5771.6,
+     "emphasis": [
+      false,
+      true,
+      true,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 5691.6,
+     "displayEnd": 5768.6
+    },
+    {
+     "text": "les propriétés où la famille réside.",
+     "words": [
+      {
+       "text": "les",
+       "start": 5771.6,
+       "end": 5801.0
+      },
+      {
+       "text": "propriétés",
+       "start": 5801.0,
+       "end": 5877.2
+      },
+      {
+       "text": "où",
+       "start": 5877.2,
+       "end": 5897.6
+      },
+      {
+       "text": "la",
+       "start": 5897.6,
+       "end": 5917.4
+      },
+      {
+       "text": "famille",
+       "start": 5917.4,
+       "end": 5928.8
+      },
+      {
+       "text": "réside.",
+       "start": 5928.8,
+       "end": 5952.2
+      }
+     ],
+     "start": 5771.6,
+     "end": 5952.2,
+     "emphasis": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 5769.6,
+     "displayEnd": 5960
+    },
+    {
+     "text": "Également, ça peut être d’autres types de biens.",
+     "words": [
+      {
+       "text": "Également,",
+       "start": 5962.8,
+       "end": 5988.0
+      },
+      {
+       "text": "ça",
+       "start": 5988.0,
+       "end": 5991.6
+      },
+      {
+       "text": "peut",
+       "start": 5991.6,
+       "end": 5996.4
+      },
+      {
+       "text": "être",
+       "start": 5996.4,
+       "end": 5999.4
+      },
+      {
+       "text": "d’autres",
+       "start": 5999.4,
+       "end": 6008.4
+      },
+      {
+       "text": "types",
+       "start": 6008.4,
+       "end": 6022.8
+      },
+      {
+       "text": "de",
+       "start": 6022.8,
+       "end": 6030.0
+      },
+      {
+       "text": "biens.",
+       "start": 6030.0,
+       "end": 6037.8
+      }
+     ],
+     "start": 5962.8,
+     "end": 6037.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 5960.8,
+     "displayEnd": 6034.8
+    },
+    {
+     "text": "On peut parler d’un véhicule automobile",
+     "words": [
+      {
+       "text": "On",
+       "start": 6037.8,
+       "end": 6043.2
+      },
+      {
+       "text": "peut",
+       "start": 6043.2,
+       "end": 6046.8
+      },
+      {
+       "text": "parler",
+       "start": 6046.8,
+       "end": 6053.4
+      },
+      {
+       "text": "d’un",
+       "start": 6053.4,
+       "end": 6059.4
+      },
+      {
+       "text": "véhicule",
+       "start": 6059.4,
+       "end": 6075.0
+      },
+      {
+       "text": "automobile",
+       "start": 6075.0,
+       "end": 6087.0
+      }
+     ],
+     "start": 6037.8,
+     "end": 6087.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 6035.8,
+     "displayEnd": 6084.0
+    },
+    {
+     "text": "qui est utilisé à des fins familiales,",
+     "words": [
+      {
+       "text": "qui",
+       "start": 6087.0,
+       "end": 6097.8
+      },
+      {
+       "text": "est",
+       "start": 6097.8,
+       "end": 6099.0
+      },
+      {
+       "text": "utilisé",
+       "start": 6099.0,
+       "end": 6114.6
+      },
+      {
+       "text": "à",
+       "start": 6114.6,
+       "end": 6127.8
+      },
+      {
+       "text": "des",
+       "start": 6127.8,
+       "end": 6133.8
+      },
+      {
+       "text": "fins",
+       "start": 6133.8,
+       "end": 6141.6
+      },
+      {
+       "text": "familiales,",
+       "start": 6141.6,
+       "end": 6176.4
+      }
+     ],
+     "start": 6087.0,
+     "end": 6176.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6085.0,
+     "displayEnd": 6174.0
+    },
+    {
+     "text": "par exemple raccompagner",
+     "words": [
+      {
+       "text": "par",
+       "start": 6177.0,
+       "end": 6179.4
+      },
+      {
+       "text": "exemple",
+       "start": 6179.4,
+       "end": 6185.4
+      },
+      {
+       "text": "raccompagner",
+       "start": 6185.4,
+       "end": 6206.4
+      }
+     ],
+     "start": 6177.0,
+     "end": 6206.4,
+     "emphasis": [
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 6175.0,
+     "displayEnd": 6203.4
+    },
+    {
+     "text": "les enfants à l’école,",
+     "words": [
+      {
+       "text": "les",
+       "start": 6206.4,
+       "end": 6219.0
+      },
+      {
+       "text": "enfants",
+       "start": 6219.0,
+       "end": 6226.2
+      },
+      {
+       "text": "à",
+       "start": 6226.2,
+       "end": 6231.6
+      },
+      {
+       "text": "l’école,",
+       "start": 6231.6,
+       "end": 6237.6
+      }
+     ],
+     "start": 6206.4,
+     "end": 6237.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 6204.4,
+     "displayEnd": 6239.4
+    },
+    {
+     "text": "ou même un autre bien immobilier,",
+     "words": [
+      {
+       "text": "ou",
+       "start": 6242.4,
+       "end": 6246.0
+      },
+      {
+       "text": "même",
+       "start": 6246.0,
+       "end": 6256.8
+      },
+      {
+       "text": "un",
+       "start": 6256.8,
+       "end": 6262.8
+      },
+      {
+       "text": "autre",
+       "start": 6262.8,
+       "end": 6269.4
+      },
+      {
+       "text": "bien",
+       "start": 6269.4,
+       "end": 6280.8
+      },
+      {
+       "text": "immobilier,",
+       "start": 6280.8,
+       "end": 6314.4
+      }
+     ],
+     "start": 6242.4,
+     "end": 6314.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 4,
+     "displayStart": 6240.4,
+     "displayEnd": 6312.0
+    },
+    {
+     "text": "comme un chalet qui est utilisé de façon",
+     "words": [
+      {
+       "text": "comme",
+       "start": 6315.0,
+       "end": 6327.6
+      },
+      {
+       "text": "un",
+       "start": 6327.6,
+       "end": 6332.4
+      },
+      {
+       "text": "chalet",
+       "start": 6332.4,
+       "end": 6343.8
+      },
+      {
+       "text": "qui",
+       "start": 6343.8,
+       "end": 6350.4
+      },
+      {
+       "text": "est",
+       "start": 6350.4,
+       "end": 6352.2
+      },
+      {
+       "text": "utilisé",
+       "start": 6352.2,
+       "end": 6365.4
+      },
+      {
+       "text": "de",
+       "start": 6365.4,
+       "end": 6369.0
+      },
+      {
+       "text": "façon",
+       "start": 6369.0,
+       "end": 6398.4
+      }
+     ],
+     "start": 6315.0,
+     "end": 6398.4,
+     "emphasis": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 5,
+     "displayStart": 6313.0,
+     "displayEnd": 6395.4
+    },
+    {
+     "text": "estivale pour les fêtes de Noël",
+     "words": [
+      {
+       "text": "estivale",
+       "start": 6398.4,
+       "end": 6435.0
+      },
+      {
+       "text": "pour",
+       "start": 6435.0,
+       "end": 6450.6
+      },
+      {
+       "text": "les",
+       "start": 6450.6,
+       "end": 6464.4
+      },
+      {
+       "text": "fêtes",
+       "start": 6464.4,
+       "end": 6489.6
+      },
+      {
+       "text": "de",
+       "start": 6489.6,
+       "end": 6494.4
+      },
+      {
+       "text": "Noël",
+       "start": 6494.4,
+       "end": 6509.4
+      }
+     ],
+     "start": 6398.4,
+     "end": 6509.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 2,
+     "displayStart": 6396.4,
+     "displayEnd": 6506.4
+    },
+    {
+     "text": "ou des fêtes occasionnelles,",
+     "words": [
+      {
+       "text": "ou",
+       "start": 6509.4,
+       "end": 6531.0
+      },
+      {
+       "text": "des",
+       "start": 6531.0,
+       "end": 6552.0
+      },
+      {
+       "text": "fêtes",
+       "start": 6552.0,
+       "end": 6574.2
+      },
+      {
+       "text": "occasionnelles,",
+       "start": 6574.2,
+       "end": 6609.0
+      }
+     ],
+     "start": 6509.4,
+     "end": 6609.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6507.4,
+     "displayEnd": 6606.6
+    },
+    {
+     "text": "ou même des vacances.",
+     "words": [
+      {
+       "text": "ou",
+       "start": 6609.6,
+       "end": 6619.8
+      },
+      {
+       "text": "même",
+       "start": 6619.8,
+       "end": 6623.4
+      },
+      {
+       "text": "des",
+       "start": 6623.4,
+       "end": 6627.6
+      },
+      {
+       "text": "vacances.",
+       "start": 6627.6,
+       "end": 6640.8
+      }
+     ],
+     "start": 6609.6,
+     "end": 6640.8,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": -1,
+     "displayStart": 6607.6,
+     "displayEnd": 6640.8
+    },
+    {
+     "text": "Donc, ce type de bien rentre",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 6643.8,
+       "end": 6649.2
+      },
+      {
+       "text": "ce",
+       "start": 6649.8,
+       "end": 6659.4
+      },
+      {
+       "text": "type",
+       "start": 6659.4,
+       "end": 6667.2
+      },
+      {
+       "text": "de",
+       "start": 6667.2,
+       "end": 6671.4
+      },
+      {
+       "text": "bien",
+       "start": 6671.4,
+       "end": 6676.8
+      },
+      {
+       "text": "rentre",
+       "start": 6676.8,
+       "end": 6689.4
+      }
+     ],
+     "start": 6643.8,
+     "end": 6689.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6641.8,
+     "displayEnd": 6686.4
+    },
+    {
+     "text": "dans le patrimoine familial,",
+     "words": [
+      {
+       "text": "dans",
+       "start": 6689.4,
+       "end": 6693.0
+      },
+      {
+       "text": "le",
+       "start": 6693.0,
+       "end": 6694.8
+      },
+      {
+       "text": "patrimoine",
+       "start": 6694.8,
+       "end": 6711.6
+      },
+      {
+       "text": "familial,",
+       "start": 6711.6,
+       "end": 6730.8
+      }
+     ],
+     "start": 6689.4,
+     "end": 6730.8,
+     "emphasis": [
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 6687.4,
+     "displayEnd": 6730.2
+    },
+    {
+     "text": "il rentre dans l’union parentale.",
+     "words": [
+      {
+       "text": "il",
+       "start": 6733.2,
+       "end": 6735.0
+      },
+      {
+       "text": "rentre",
+       "start": 6735.0,
+       "end": 6750.0
+      },
+      {
+       "text": "dans",
+       "start": 6750.0,
+       "end": 6754.8
+      },
+      {
+       "text": "l’union",
+       "start": 6754.8,
+       "end": 6769.8
+      },
+      {
+       "text": "parentale.",
+       "start": 6769.8,
+       "end": 6851.4
+      }
+     ],
+     "start": 6733.2,
+     "end": 6851.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6731.2,
+     "displayEnd": 6848.4
+    },
+    {
+     "text": "Donc, ça crée également des droits",
+     "words": [
+      {
+       "text": "Donc,",
+       "start": 6851.4,
+       "end": 6871.8
+      },
+      {
+       "text": "ça",
+       "start": 6873.0,
+       "end": 6876.6
+      },
+      {
+       "text": "crée",
+       "start": 6876.6,
+       "end": 6890.4
+      },
+      {
+       "text": "également",
+       "start": 6890.4,
+       "end": 6897.0
+      },
+      {
+       "text": "des",
+       "start": 6897.0,
+       "end": 6904.8
+      },
+      {
+       "text": "droits",
+       "start": 6904.8,
+       "end": 6911.4
+      }
+     ],
+     "start": 6851.4,
+     "end": 6911.4,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6849.4,
+     "displayEnd": 6908.4
+    },
+    {
+     "text": "et des obligations au moment où",
+     "words": [
+      {
+       "text": "et",
+       "start": 6911.4,
+       "end": 6911.4
+      },
+      {
+       "text": "des",
+       "start": 6911.4,
+       "end": 6915.0
+      },
+      {
+       "text": "obligations",
+       "start": 6915.0,
+       "end": 6936.6
+      },
+      {
+       "text": "au",
+       "start": 6936.6,
+       "end": 6955.8
+      },
+      {
+       "text": "moment",
+       "start": 6955.8,
+       "end": 6964.2
+      },
+      {
+       "text": "où",
+       "start": 6964.2,
+       "end": 6972.6
+      }
+     ],
+     "start": 6911.4,
+     "end": 6972.6,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+     ],
+     "lineBreak": 3,
+     "displayStart": 6909.4,
+     "displayEnd": 6969.6
+    },
+    {
+     "text": "on va avoir un enfant commun.",
+     "words": [
+      {
+       "text": "on",
+       "start": 6972.6,
+       "end": 6976.2
+      },
+      {
+       "text": "va",
+       "start": 6976.2,
+       "end": 6978.6
+      },
+      {
+       "text": "avoir",
+       "start": 6978.6,
+       "end": 6983.4
+      },
+      {
+       "text": "un",
+       "start": 6983.4,
+       "end": 6993.0
+      },
+      {
+       "text": "enfant",
+       "start": 6993.0,
+       "end": 7003.8
+      },
+      {
+       "text": "commun.",
+       "start": 7003.8,
+       "end": 7023.0
+      }
+     ],
+     "start": 6972.6,
+     "end": 7023.0,
+     "emphasis": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+     ],
+     "lineBreak": 3,
+     "displayStart": 6970.6,
+     "displayEnd": 7030
+    }
+   ],
+   "photos": [
+    {
+     "file": "photos/photo_01.jpg",
+     "tlFrom": 377,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_03.jpg",
+     "tlFrom": 1050,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_14.jpg",
+     "tlFrom": 1317,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_02.jpg",
+     "tlFrom": 2077,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_10.jpg",
+     "tlFrom": 2954,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_06.jpg",
+     "tlFrom": 3406,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_15.jpg",
+     "tlFrom": 3989,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_09.jpg",
+     "tlFrom": 4278,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_04.jpg",
+     "tlFrom": 4926,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_11.jpg",
+     "tlFrom": 5693,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_13.jpg",
+     "tlFrom": 6400,
+     "dur": 42
+    },
+    {
+     "file": "photos/photo_08.jpg",
+     "tlFrom": 6853,
+     "dur": 42
+    }
+   ],
+   "framing": [
+    {
+     "tlFrom": 0,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 248,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 463,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 608,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 728,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 864,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 1194,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 1372,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 1474,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 1651,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 1855,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 2129,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 2293,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 2427,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 2948,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 3055,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 3138,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 3338,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 3515,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 3751,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 3899,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 4086,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 4273,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 4446,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 4791,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 4920,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 5059,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 5180,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 5198,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 5506,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 5767,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 5961,
+     "scale": 1.0,
+     "push": 0.035
+    },
+    {
+     "tlFrom": 6083,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 6238,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 6505,
+     "scale": 1.13,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 6685,
+     "scale": 1.0,
+     "push": 0.025
+    },
+    {
+     "tlFrom": 6907,
+     "scale": 1.13,
+     "push": 0.025
+    }
+   ],
+   "chapters": [
+    {
+     "n": 1,
+     "tlFrom": 0,
+     "title": "Que se passe-t-il le jour du mariage ?"
+    },
+    {
+     "n": 2,
+     "tlFrom": 728,
+     "title": "Le contrat de mariage, c'est avant ou après ?"
+    },
+    {
+     "n": 3,
+     "tlFrom": 1474,
+     "title": "Après le mariage, que deviennent les documents ?"
+    },
+    {
+     "n": 4,
+     "tlFrom": 2427,
+     "title": "Mariage ou union de fait : pourquoi se marier ?"
+    },
+    {
+     "n": 5,
+     "tlFrom": 3055,
+     "title": "Les 3 régimes matrimoniaux au Québec"
+    },
+    {
+     "n": 6,
+     "tlFrom": 3751,
+     "title": "Pourquoi signer un contrat de mariage ?"
+    },
+    {
+     "n": 7,
+     "tlFrom": 4446,
+     "title": "Ne pas se marier : quels risques ?"
+    },
+    {
+     "n": 8,
+     "tlFrom": 5180,
+     "title": "L'union parentale, c'est quoi concrètement ?"
+    },
+    {
+     "n": 9,
+     "tlFrom": 5961,
+     "title": "Quels biens entrent dans le patrimoine familial ?"
+    }
+   ],
+   "bodyEnd": 7031,
+   "durationInFrames": 7169
   }
  ]
 }

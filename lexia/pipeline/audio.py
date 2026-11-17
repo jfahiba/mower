@@ -32,7 +32,7 @@ W.mkdir(parents=True, exist_ok=True)
 OUT = ROOT / "remotion/public/audio"
 OUT.mkdir(parents=True, exist_ok=True)
 DATA = json.loads((ROOT / "remotion/src/data/capsules.json").read_text())
-KEYS = {"C01": 2, "C02": 7, "C03": 0, "C04": 5, "C05": 9, "C06": 3, "C07": 10, "C08": 4, "C09": 7, "C10": 2}
+KEYS = {"C01": 2, "C02": 7, "C03": 0, "C04": 5, "C05": 9, "C06": 3, "C07": 10, "C08": 4, "C09": 7, "C10": 2, "FULL": 2}
 BPM = 92
 BEAT = 60 / BPM
 
@@ -146,6 +146,9 @@ def build(cap):
     sh = shutter()
     for p in cap["photos"]:
         CM.place(sfx, p["tlFrom"] / 30 - 0.02, sh, gain=0.55)
+    for chp in cap.get("chapters", []):
+        if chp["tlFrom"] > 0:  # whoosh sur la transition de chapitre
+            CM.place(sfx, chp["tlFrom"] / 30 - 0.3, CM.whoosh(0.5, direction=1), gain=0.45)
     mix = vs + m * duck[:, None] * 10 ** (1.5 / 20) + sfx
     for _ in range(3):
         L = meter.integrated_loudness(mix)
